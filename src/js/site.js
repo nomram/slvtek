@@ -152,8 +152,16 @@
       tiles.forEach(function (t) { t.classList.remove("is-on"); t.setAttribute("aria-expanded", "false"); });
       panels.forEach(function (p) { p.classList.remove("is-on"); });
     }
+    // the small preview pictures load as soon as the menu is first touched, so they are ready when a brand is picked
+    var warmed = false;
+    function warm() {
+      if (warmed) return;
+      warmed = true;
+      panels.forEach(function (p) { [].forEach.call(p.querySelectorAll("img"), function (im) { im.loading = "eager"; }); });
+    }
     var item = mega.closest(".nav__item");
     if (item) {
+      ["pointerenter", "focusin", "touchstart"].forEach(function (ev) { item.addEventListener(ev, warm, { once: true, passive: true }); });
       item.addEventListener("pointerleave", function (e) { if (e.pointerType !== "touch") reset(); });
       item.addEventListener("focusout", function (e) { if (!item.contains(e.relatedTarget)) reset(); });
       var tog = item.querySelector(".nav__toggle");
@@ -222,6 +230,52 @@
     });
     row.addEventListener("pointerleave", function () { target = null; });
   });
+
+  // ---------- call bar (phones): slides in while the banner scrolls away, back out when you return to the top ----------
+  (function () {
+    var bar = document.querySelector("[data-callbar]");
+    if (!bar) return;
+    var link = bar.querySelector(".callbar__link"), glow = bar.querySelector(".callbar__glow");
+    var heroEl = document.querySelector(".hero");
+    var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    var cur = 0, tgt = 0, gx = 0.5, gxT = 0.5, raf = 0;
+    bar.classList.add("is-live");
+    // the bar is fully in when most of the banner has gone; pages without a banner use a short distance
+    function distance() { return Math.max(180, (heroEl ? heroEl.offsetHeight : 0) * 0.65); }
+    function frame() {
+      raf = 0;
+      cur += (tgt - cur) * (reduce ? 1 : 0.16);
+      if (Math.abs(tgt - cur) < 0.003) cur = tgt;
+      gx += (gxT - gx) * 0.1;
+      bar.style.transform = "translate3d(0," + ((1 - cur) * 110).toFixed(2) + "%,0)";
+      var w = bar.clientWidth || 360;
+      glow.style.transform = "translate3d(" + Math.round(gx * w * 1.0 - w * 0.31) + "px,0,0)";
+      var shown = cur > 0.01;
+      bar.classList.toggle("is-shown", shown);
+      var usable = cur > 0.4;
+      link.tabIndex = usable ? 0 : -1;
+      bar.setAttribute("aria-hidden", usable ? "false" : "true");
+      if (cur !== tgt || Math.abs(gxT - gx) > 0.004) raf = requestAnimationFrame(frame);
+    }
+    function kick() { if (!raf) raf = requestAnimationFrame(frame); }
+    function onScroll() {
+      var y = window.pageYOffset || document.documentElement.scrollTop || 0;
+      tgt = Math.min(1, Math.max(0, y / distance()));
+      // scrolling also moves the embers a little, so the colour is never static
+      var h = Math.max(1, document.documentElement.scrollHeight - window.innerHeight);
+      gxT = 0.15 + 0.7 * Math.min(1, y / h);
+      kick();
+    }
+    window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll);
+    // the pointer / finger steers the glow
+    window.addEventListener("pointermove", function (e) {
+      gxT = Math.min(1, Math.max(0, e.clientX / Math.max(1, window.innerWidth)));
+      kick();
+    }, { passive: true });
+    onScroll();
+    frame();
+  })();
 
   // ---------- banner: the picture follows the scroll for a while (slower than the page) ----------
   (function () {

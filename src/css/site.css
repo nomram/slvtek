@@ -560,9 +560,9 @@ li:first-child > .subnav__link--logo::after { left: 0; }
   .mega__cat-title { margin: 0; padding: .25rem 0; font-size: .92rem; }
   .mega__cat-title:hover { background: none; }
   .mega__thumb { width: 40px; height: 40px; }
-  .mega__cat ul, .mega__cat.has-thumb ul { display: flex; flex-wrap: wrap; gap: .4rem; padding: .3rem 0 0; margin: 0; }
-  .mega__cat li a { margin: 0; padding: .42rem .8rem; border: 1px solid var(--line); border-radius: 99px; background: #fff; color: var(--text); font-size: .84rem; }
-  .mega__cat li a:hover, .mega__cat li a:focus-visible { background: #fff8f3; border-color: var(--primary); }
+  /* on a phone only the ranges are listed; the models are one tap further, on the range page */
+  .mega__cat ul { display: none; }
+  .mega__cat-title { min-height: 3rem; }
 }
 
 /* ---------- search ---------- */
@@ -638,8 +638,18 @@ dialog.search::backdrop { background: rgba(31, 45, 64, .6); }
 /* sticky call bar (phones only) */
 .callbar { display: none; }
 @media (max-width: 760px) {
-  .callbar { display: block; position: sticky; bottom: 0; z-index: 55; background: linear-gradient(100deg, #f7941d 0%, #f4791f 55%, #ee5d23 100%); box-shadow: 0 -2px 12px rgba(0, 0, 0, .18); padding-bottom: env(safe-area-inset-bottom); }
-  .callbar__link { display: flex; align-items: center; justify-content: center; gap: .6rem; min-height: 52px; padding: .5rem 1rem; color: var(--dark); font-weight: 700; text-decoration: none; }
+  /* without script the bar simply sits at the bottom; with script (.is-live) it slides in as the banner scrolls away */
+  .callbar { display: block; position: fixed; left: 0; right: 0; bottom: 0; z-index: 55; overflow: hidden; background: #f4791f; box-shadow: 0 -2px 14px rgba(0, 0, 0, .2); padding-bottom: env(safe-area-inset-bottom); }
+  .callbar.is-live { transform: translate3d(0, 110%, 0); will-change: transform; }
+  .callbar__fire { position: absolute; inset: 0; overflow: hidden; pointer-events: none; }
+  .callbar__flow { position: absolute; inset: 0 -60%; background: linear-gradient(100deg, #f7941d 0%, #f4791f 16%, #ee5d23 33%, #f7941d 50%, #fba02a 66%, #f4791f 82%, #ee5d23 100%); animation: cbDrift 18s ease-in-out infinite alternate; }
+  .callbar__glow { position: absolute; top: -45%; left: 0; width: 62%; height: 190%; will-change: transform; }
+  .callbar__glow i { position: absolute; inset: 0; background: radial-gradient(ellipse at center, rgba(255, 221, 130, .8) 0%, rgba(255, 170, 70, .35) 40%, rgba(255, 150, 60, 0) 68%); animation: cbFlicker 2.8s ease-in-out infinite alternate; }
+  .callbar:not(.is-shown) .callbar__flow, .callbar:not(.is-shown) .callbar__glow i { animation-play-state: paused; }
+  @keyframes cbDrift { from { transform: translate3d(0, 0, 0); } to { transform: translate3d(-24%, 0, 0); } }
+  @keyframes cbFlicker { 0% { opacity: .55; transform: scale(.9); } 35% { opacity: .95; transform: scale(1.05); } 65% { opacity: .7; transform: scale(.97); } 100% { opacity: .9; transform: scale(1.03); } }
+  .callbar__link { position: relative; z-index: 1; display: flex; align-items: center; justify-content: center; gap: .6rem; min-height: 52px; padding: .5rem 1rem; color: var(--dark); font-weight: 700; text-decoration: none; }
+  body:has(.callbar) .site-footer { padding-bottom: calc(52px + env(safe-area-inset-bottom)); }
   .callbar__text { font-size: .95rem; }
   .callbar__num { font-size: .95rem; font-weight: 500; opacity: .95; }
   /* the bar is the last thing in the page: it floats at the bottom of the screen while scrolling and

@@ -1,0 +1,230 @@
+{
+  "path": "/productos/tei/martillos-perforadores/te760",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 6,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hem-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "TE760",
+      "h1": "TE760",
+      "description": "TE760: perforadora hidráulica de alto par; compatible con la mayoría de equipos de anclaje de tamaño medio; sistema ASA patentado; potencia de salida: 18 kW; par de rotación: 4067 Nm…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "TE760: imagen 2",
+          "width": 1674,
+          "height": 1152,
+          "src": "/assets/img/tei-topphammare-te760-2.webp"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Perforadora hidráulica de alto par",
+            "Compatible con la mayoría de equipos de anclaje de tamaño medio",
+            "Sistema ASA patentado",
+            "Potencia de salida: 18 kW",
+            "Par de rotación: 4067 Nm",
+            "Peso: 240 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Datos técnicos",
+          "tagline": "Martillo perforador hidráulico",
+          "intro": [
+            "El TE760 tiene tres modos de potencia para que el martillo perforador cumpla todos los requisitos de perforación dentro de su rango de trabajo. La función ASA (ajuste automático de carrera) proporciona un funcionamiento suave, mayor eficiencia y la mejor protección para el martillo perforador (mayor vida útil). La función también proporciona amortiguación tanto en el punto de impacto como en el de retorno, lo que prolonga la vida útil de las juntas y las herramientas de perforación.",
+            "La parte delantera robusta, con mayor par, es óptima tanto para la perforación de barrenos largos en frente como para la perforación vertical de barrenos de voladura."
+          ],
+          "groups": [
+            {
+              "title": "Rotación",
+              "rows": [
+                {
+                  "label": "Par de rotación",
+                  "metric": "4067 Nm",
+                  "us": "3000 lbf-ft"
+                },
+                {
+                  "label": "Caudal de rotación",
+                  "metric": "57 lpm",
+                  "us": "15 gpm"
+                },
+                {
+                  "label": "Presión de rotación",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Peso",
+                  "metric": "240 kg",
+                  "us": "530 lb"
+                },
+                {
+                  "label": "Velocidad",
+                  "metric": "200 rpm",
+                  "us": "200 rpm"
+                }
+              ]
+            },
+            {
+              "title": "Percusión",
+              "rows": [
+                {
+                  "label": "Potencia de salida",
+                  "metric": "19 kW",
+                  "us": "25 hp"
+                },
+                {
+                  "label": "Caudal del martillo",
+                  "metric": "95 lpm",
+                  "us": "25 gpm"
+                },
+                {
+                  "label": "Presión del martillo",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Frecuencia de golpeo",
+                  "metric": "60 Hz",
+                  "us": "3600 bpm"
+                }
+              ]
+            }
+          ],
+          "note": "Tipos de enmangue disponibles (shanks): R32 (hembra), R38, R51, T38, T45, T40, T51, T52, W38, W51, H552H, H55RH, T52RH. Las especificaciones técnicas de TEI suponen una pérdida de potencia hidráulica del 40 %."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Ficha de producto",
+          "href": "/assets/docs/tei-topphammare-te760-broschyr-eng.pdf",
+          "driveId": "1c-wkdGhm-PHg44JM4fd4XtTHw30nqnz8"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "TE760",
+      "h1": "TE760",
+      "description": "TE760: Hydraulic drill with high torque; Fits most medium-sized anchor rigs; Patented ASA system; Output power: 18 kW; Rotation torque: 4,067 Nm…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "TE760: image 2",
+          "width": 1674,
+          "height": 1152,
+          "src": "/assets/img/tei-topphammare-te760-2.webp"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Hydraulic drill with high torque",
+            "Fits most medium-sized anchor rigs",
+            "Patented ASA system",
+            "Output power: 18 kW",
+            "Rotation torque: 4,067 Nm",
+            "Weight: 240 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Technical data",
+          "tagline": "Hydraulic drifter",
+          "intro": [
+            "TE760 has three power modes so that the drifter meets all drilling requirements within its working range. The ASA function (automatic stroke adjustment) gives smooth operation, higher efficiency and the best protection for the drifter (longer service life). The function also provides damping at both the strike point and the return point, which extends the life of seals and drilling tools.",
+            "The heavy-duty front section with higher torque is optimal for both long-hole face drilling and vertical blast-hole drilling."
+          ],
+          "groups": [
+            {
+              "title": "Rotation",
+              "rows": [
+                {
+                  "label": "Rotation torque",
+                  "metric": "4067 Nm",
+                  "us": "3000 lbf-ft"
+                },
+                {
+                  "label": "Rotation flow",
+                  "metric": "57 lpm",
+                  "us": "15 gpm"
+                },
+                {
+                  "label": "Rotation pressure",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Weight",
+                  "metric": "240 kg",
+                  "us": "530 lb"
+                },
+                {
+                  "label": "Speed",
+                  "metric": "200 rpm",
+                  "us": "200 rpm"
+                }
+              ]
+            },
+            {
+              "title": "Percussion",
+              "rows": [
+                {
+                  "label": "Output power",
+                  "metric": "19 kW",
+                  "us": "25 hp"
+                },
+                {
+                  "label": "Hammer flow",
+                  "metric": "95 lpm",
+                  "us": "25 gpm"
+                },
+                {
+                  "label": "Hammer pressure",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Blow frequency",
+                  "metric": "60 Hz",
+                  "us": "3600 bpm"
+                }
+              ]
+            }
+          ],
+          "note": "Available shank types: R32 (female), R38, R51, T38, T45, T40, T51, T52, W38, W51, H552H, H55RH, T52RH. TEI’s technical specifications assume a 40% hydraulic power loss."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Data sheet",
+          "href": "/assets/docs/tei-topphammare-te760-broschyr-eng.pdf",
+          "driveId": "1c-wkdGhm-PHg44JM4fd4XtTHw30nqnz8"
+        }
+      ],
+      "published": true
+    }
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "path": "/productos/marini",
+  "updated": "2026-10-10",
+  "template": "brand",
+  "order": 3,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Marini",
+      "h1": "Marini",
+      "description": "Con más de 40 años de experiencia, Marini es líder mundial en la fabricación de máquinas para canteras, cimentaciones y la industria de la construcción. Desde sus instalaciones en las zonas montañosas del norte de Italia…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini",
+          "width": 1241,
+          "height": 638,
+          "src": "/assets/img/marini-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "Con más de 40 años de experiencia, Marini es líder mundial en la fabricación de máquinas para canteras, cimentaciones y la industria de la construcción. Desde sus instalaciones en las zonas montañosas del norte de Italia producen de todo, desde equipos de perforación y máquinas de corte de hilo hasta vehículos de orugas y sierras de hilo. Son conocidos por adaptar sus soluciones a las necesidades del cliente y diseñan con gusto nuevos productos si aún no figuran en la gama."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto Perforación y Cimentaciones (ENG)",
+          "href": "/assets/docs/marini-broschyr-borr-grund-eng.pdf",
+          "driveId": "1rVab0Co1892J8YRu2Xdn-ItrmfK_uRTu"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto Canteras (ENG)",
+          "href": "/assets/docs/marini-broschyr-stenbrott-eng.pdf",
+          "driveId": "1NwBqKOiwQcQtmr_S6MaMLX74eP8h6h1C"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto Canteras (SV)",
+          "href": "/assets/docs/marini-broschyr-stenbrott-sv.pdf",
+          "driveId": "10EjXyLpVSTh4RGNbGmudQ7sdDhKMxp98"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "href": "/productos/marini/estabilizacion-de-taludes",
+              "title": "MR",
+              "html": "Equipos neumáticos e hidráulicos ligeros: perfectos para la estabilización de taludes. Adaptados para un transporte y desmontaje sencillos.",
+              "text": "Equipos neumáticos e hidráulicos ligeros: perfectos para la estabilización de taludes. Adaptados para un transporte y desmontaje sencillos.",
+              "image": "/assets/img/marini-slantstabilisering.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "MR logotipo"
+            },
+            {
+              "href": "/productos/marini/perforadoras-sobre-orugas",
+              "title": "MR-C",
+              "html": "Equipos de perforación sobre orugas para perforar en terrenos difíciles en cimentaciones, estabilización de taludes, micropilotaje y anclaje.",
+              "text": "Equipos de perforación sobre orugas para perforar en terrenos difíciles en cimentaciones, estabilización de taludes, micropilotaje y anclaje.",
+              "image": "/assets/img/marini-crawlers.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "MR-C logotipo"
+            },
+            {
+              "href": "/productos/marini/sierras-de-hilo",
+              "title": "Sierras de hilo",
+              "html": "Sierras de hilo diamantado de velocidad variable y constante para cortar hormigón, granito, mármol y piedra similar.",
+              "text": "Sierras de hilo diamantado de velocidad variable y constante para cortar hormigón, granito, mármol y piedra similar.",
+              "image": "/assets/img/marini-vajersagar.webp",
+              "width": 1869,
+              "height": 1869,
+              "alt": "Sierras de hilo logotipo"
+            },
+            {
+              "href": "/productos/marini/grupos-hidraulicos",
+              "title": "Grupos hidráulicos (powerpacks)",
+              "html": "Grupos hidráulicos eléctricos y diésel que suministran una potencia estable en entornos exigentes.",
+              "text": "Grupos hidráulicos eléctricos y diésel que suministran una potencia estable en entornos exigentes.",
+              "image": "/assets/img/marini-powerpacks.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "Powerpacks logotipo"
+            },
+            {
+              "href": "/productos/marini/pilotaje",
+              "title": "MR-P",
+              "html": "Serie compacta de equipos de pilotaje, diseñados para trabajar con sistemas Kelly y barrenas helicoidales en entornos reducidos y exigentes.",
+              "text": "Serie compacta de equipos de pilotaje, diseñados para trabajar con sistemas Kelly y barrenas helicoidales en entornos reducidos y exigentes.",
+              "image": "/assets/img/marini-palning.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "MR-P logotipo"
+            },
+            {
+              "href": "/productos/marini/giraffa",
+              "title": "GIRAFFA",
+              "html": "Equipo de perforación hidráulico de control remoto para perforación vertical y horizontal en todo tipo de superficies inclinadas. Diseñado especialmente para canteras.",
+              "text": "Equipo de perforación hidráulico de control remoto para perforación vertical y horizontal en todo tipo de superficies inclinadas. Diseñado especialmente para canteras.",
+              "image": "/assets/img/marini-giraffa.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "GIRAFFA logotipo"
+            },
+            {
+              "href": "/productos/marini/rustica",
+              "title": "RUSTICA",
+              "html": "Máquinas neumáticas de corte de bloques diseñadas para la perforación vertical y horizontal en canteras.",
+              "text": "Máquinas neumáticas de corte de bloques diseñadas para la perforación vertical y horizontal en canteras.",
+              "image": "/assets/img/marini-rustica.webp",
+              "width": 541,
+              "height": 541,
+              "alt": "RUSTICA logotipo"
+            },
+            {
+              "href": "/productos/marini/hormigon-proyectado",
+              "title": "Hormigón proyectado",
+              "html": "Sistema de lanza de control remoto para hormigón proyectado, para un posicionamiento seguro, preciso y rápido del equipo.",
+              "text": "Sistema de lanza de control remoto para hormigón proyectado, para un posicionamiento seguro, preciso y rápido del equipo.",
+              "image": "/assets/img/marini-sprutbetong.webp",
+              "width": 1765,
+              "height": 1765,
+              "alt": "Hormigón proyectado logotipo"
+            }
+          ]
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Marini",
+      "h1": "Marini",
+      "description": "With over 40 years of experience, Marini is a world leader in the manufacture of machines for quarries, foundation work and the construction industry. From their facility in the mountainous areas of northern Italy…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini",
+          "width": 1241,
+          "height": 638,
+          "src": "/assets/img/marini-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "With over 40 years of experience, Marini is a world leader in the manufacture of machines for quarries, foundation work and the construction industry. From their facility in the mountainous areas of northern Italy they produce everything from drilling rigs and wire cutting machines to tracked vehicles and wire saws. They are known for tailoring their solutions to the customer’s needs and are happy to design new products if they are not already in the range."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure Drilling & Foundations (ENG)",
+          "href": "/assets/docs/marini-broschyr-borr-grund-eng.pdf",
+          "driveId": "1rVab0Co1892J8YRu2Xdn-ItrmfK_uRTu"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure Quarrying (ENG)",
+          "href": "/assets/docs/marini-broschyr-stenbrott-eng.pdf",
+          "driveId": "1NwBqKOiwQcQtmr_S6MaMLX74eP8h6h1C"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure Quarrying (SV)",
+          "href": "/assets/docs/marini-broschyr-stenbrott-sv.pdf",
+          "driveId": "10EjXyLpVSTh4RGNbGmudQ7sdDhKMxp98"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "href": "/productos/marini/estabilizacion-de-taludes",
+              "title": "MR",
+              "html": "Light pneumatic and hydraulic rigs, perfect for slope stabilisation. Adapted for easy transport and dismantling.",
+              "text": "Light pneumatic and hydraulic rigs, perfect for slope stabilisation. Adapted for easy transport and dismantling.",
+              "image": "/assets/img/marini-slantstabilisering.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "MR logo"
+            },
+            {
+              "href": "/productos/marini/perforadoras-sobre-orugas",
+              "title": "MR-C",
+              "html": "Tracked drilling rigs for drilling in challenging terrain for foundation work, slope stabilisation, micropiling and anchoring.",
+              "text": "Tracked drilling rigs for drilling in challenging terrain for foundation work, slope stabilisation, micropiling and anchoring.",
+              "image": "/assets/img/marini-crawlers.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "MR-C logo"
+            },
+            {
+              "href": "/productos/marini/sierras-de-hilo",
+              "title": "Wire saws",
+              "html": "Diamond wire saws with variable and constant speed for cutting concrete, granite, marble and similar stone.",
+              "text": "Diamond wire saws with variable and constant speed for cutting concrete, granite, marble and similar stone.",
+              "image": "/assets/img/marini-vajersagar.webp",
+              "width": 1869,
+              "height": 1869,
+              "alt": "Wire saws logo"
+            },
+            {
+              "href": "/productos/marini/grupos-hidraulicos",
+              "title": "Powerpacks",
+              "html": "Electric and diesel-driven hydraulic power units that deliver stable power in demanding environments.",
+              "text": "Electric and diesel-driven hydraulic power units that deliver stable power in demanding environments.",
+              "image": "/assets/img/marini-powerpacks.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "Powerpacks logo"
+            },
+            {
+              "href": "/productos/marini/pilotaje",
+              "title": "MR-P",
+              "html": "Compact series of piling rigs, designed to work with Kelly-bar systems and augers in confined and challenging environments.",
+              "text": "Compact series of piling rigs, designed to work with Kelly-bar systems and augers in confined and challenging environments.",
+              "image": "/assets/img/marini-palning.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "MR-P logo"
+            },
+            {
+              "href": "/productos/marini/giraffa",
+              "title": "GIRAFFA",
+              "html": "Remote-controlled hydraulic drilling rig for both vertical and horizontal drilling on all types of sloping surfaces. Specially designed for quarries.",
+              "text": "Remote-controlled hydraulic drilling rig for both vertical and horizontal drilling on all types of sloping surfaces. Specially designed for quarries.",
+              "image": "/assets/img/marini-giraffa.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "GIRAFFA logo"
+            },
+            {
+              "href": "/productos/marini/rustica",
+              "title": "RUSTICA",
+              "html": "Pneumatic block-cutting machines designed for vertical and horizontal drilling in quarries.",
+              "text": "Pneumatic block-cutting machines designed for vertical and horizontal drilling in quarries.",
+              "image": "/assets/img/marini-rustica.webp",
+              "width": 541,
+              "height": 541,
+              "alt": "RUSTICA logo"
+            },
+            {
+              "href": "/productos/marini/hormigon-proyectado",
+              "title": "Shotcrete",
+              "html": "Remote-controlled lance system for shotcrete for safe, accurate and fast positioning of the equipment.",
+              "text": "Remote-controlled lance system for shotcrete for safe, accurate and fast positioning of the equipment.",
+              "image": "/assets/img/marini-sprutbetong.webp",
+              "width": 1765,
+              "height": 1765,
+              "alt": "Shotcrete logo"
+            }
+          ]
+        }
+      ],
+      "published": true
+    }
+  },
+  "logo": "/assets/img/logo-marini.webp"
+}

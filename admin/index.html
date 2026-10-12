@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow,noarchive">
+<title>Redigera webbplatsen</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="cms.css">
+</head>
+<body>
+<header class="top">
+  <div class="top__brand"><span class="top__mark"></span> Redigera webbplatsen</div>
+  <nav class="top__nav" id="nav" hidden>
+    <button data-view="pages">Sidor</button>
+    <button data-view="settings">Webbplatsinställningar</button>
+    <button data-view="translations">Fasta texter</button>
+    <button data-view="review">Granska översättningar</button>
+    <button data-view="help">Hjälp</button>
+  </nav>
+  <div class="top__status" id="status"></div>
+  <select id="ui-lang" class="top__lang" aria-label="Språk i redigeraren"></select>
+</header>
+<main id="app"><p class="muted pad">Laddar…</p></main>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<script type="module" src="cms.js"></script>
+</body>
+</html>

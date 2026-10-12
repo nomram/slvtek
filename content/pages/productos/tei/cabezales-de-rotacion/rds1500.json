@@ -1,0 +1,214 @@
+{
+  "path": "/productos/tei/cabezales-de-rotacion/rds1500",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 4,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hem-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "RDS1500",
+      "h1": "RDS1500",
+      "description": "Cabezal de rotación hidráulico de alta resistencia para mástiles de perforación y equipos de perforación de mayor tamaño.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "RDS1500: imagen 2",
+          "width": 1094,
+          "height": 944,
+          "src": "/assets/img/tei-rotationshammare-rds1004-2-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Cabezal de rotación hidráulico de alta resistencia para mástiles de perforación y equipos de perforación de mayor tamaño."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Acoplamiento de brida",
+            "Relación peso-par óptima",
+            "Compacto",
+            "Amortiguador",
+            "Par de rotación: 20 408 Nm",
+            "Peso: 442 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Datos técnicos",
+          "tagline": "Cabezal de perforación rotativo",
+          "intro": [
+            "TEI Rock Drills fabrica robustos cabezales de rotación hidráulicos, concebidos para un funcionamiento suave y un mantenimiento sencillo en la perforación rotativa, como el bulonado de suelo y los micropilotes.",
+            "Los cabezales RDS se someten al mismo ensayo en banco antes de la entrega que nuestros martillos perforadores hidráulicos patentados. TEI es un cabezal de sustitución preferido en el sector gracias a su rendimiento superior."
+          ],
+          "groups": [
+            {
+              "title": "Rotación",
+              "rows": [
+                {
+                  "label": "Par de rotación",
+                  "metric": "20,408 Nm",
+                  "us": "15,000 lbf-ft"
+                },
+                {
+                  "label": "Caudal de rotación",
+                  "metric": "151.5 - 227.3 lpm",
+                  "us": "40 - 60 gpm"
+                },
+                {
+                  "label": "Diámetro interior del eje de lavado",
+                  "metric": "51 mm, 76 mm, 102 mm",
+                  "us": "2\", 3\", 4\""
+                },
+                {
+                  "label": "Presión de rotación",
+                  "metric": "207 bar",
+                  "us": "3000 psi"
+                },
+                {
+                  "label": "Peso",
+                  "metric": "442 kg",
+                  "us": "974 lb"
+                },
+                {
+                  "label": "Velocidad",
+                  "metric": "77 rpm",
+                  "us": "77 rpm"
+                }
+              ]
+            }
+          ],
+          "note": "Las especificaciones técnicas de TEI suponen una pérdida de potencia hidráulica del 40 %."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto",
+          "href": "/assets/docs/tei-rotationshammare-rds1500-broschyr-i-ny-flik.pdf",
+          "driveId": "1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Ficha de producto",
+          "href": "https://drive.google.com/file/d/https://drive.google.com/file/d/1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo/view",
+          "external": true,
+          "driveId": "https://drive.google.com/file/d/1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "RDS1500",
+      "h1": "RDS1500",
+      "description": "Heavy-duty hydraulic rotary head for larger drill masts and drill rigs.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "RDS1500: image 2",
+          "width": 1094,
+          "height": 944,
+          "src": "/assets/img/tei-rotationshammare-rds1004-2-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Heavy-duty hydraulic rotary head for larger drill masts and drill rigs."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Flange coupling",
+            "Optimal weight-to-torque ratio",
+            "Compact",
+            "Shock absorber",
+            "Rotation torque: 20,408 Nm",
+            "Weight: 442 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Technical data",
+          "tagline": "Rotary drill head",
+          "intro": [
+            "TEI Rock Drills manufactures robust hydraulic rotary heads built for smooth operation and easy maintenance in rotary drilling, such as soil nailing and micropiles.",
+            "RDS heads undergo the same bench test before delivery as our patented hydraulic drifters. TEI is a preferred replacement head in the industry thanks to its superior performance."
+          ],
+          "groups": [
+            {
+              "title": "Rotation",
+              "rows": [
+                {
+                  "label": "Rotation torque",
+                  "metric": "20,408 Nm",
+                  "us": "15,000 lbf-ft"
+                },
+                {
+                  "label": "Rotation flow",
+                  "metric": "151.5 - 227.3 lpm",
+                  "us": "40 - 60 gpm"
+                },
+                {
+                  "label": "Flush shaft inner diameter",
+                  "metric": "51 mm, 76 mm, 102 mm",
+                  "us": "2\", 3\", 4\""
+                },
+                {
+                  "label": "Rotation pressure",
+                  "metric": "207 bar",
+                  "us": "3000 psi"
+                },
+                {
+                  "label": "Weight",
+                  "metric": "442 kg",
+                  "us": "974 lb"
+                },
+                {
+                  "label": "Speed",
+                  "metric": "77 rpm",
+                  "us": "77 rpm"
+                }
+              ]
+            }
+          ],
+          "note": "TEI’s technical specifications assume a 40% hydraulic power loss."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure",
+          "href": "/assets/docs/tei-rotationshammare-rds1500-broschyr-i-ny-flik.pdf",
+          "driveId": "1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Data sheet",
+          "href": "https://drive.google.com/file/d/https://drive.google.com/file/d/1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo/view",
+          "external": true,
+          "driveId": "https://drive.google.com/file/d/1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo"
+        }
+      ],
+      "published": true
+    }
+  }
+}

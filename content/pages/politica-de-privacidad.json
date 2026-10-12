@@ -1,0 +1,141 @@
+{
+  "path": "/politica-de-privacidad",
+  "template": "page",
+  "order": 90,
+  "published": true,
+  "updated": "2026-10-10",
+  "i18n": {
+    "es": {
+      "title": "Privacidad y cookies",
+      "h1": "Privacidad y cookies",
+      "description": "Cómo trata Solvitek los datos personales y las cookies en este sitio web: sin cookies sin su consentimiento.",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "Aquí describimos brevemente cómo tratamos los datos personales y las cookies en este sitio web."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Responsable del tratamiento"
+        },
+        {
+          "type": "text",
+          "html": "Solvitek [razón social y número de registro por completar]. Las consultas sobre privacidad pueden enviarse a <a href=\"mailto:info@solvitek.example\">info@solvitek.example</a>."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Cookies y estadísticas"
+        },
+        {
+          "type": "text",
+          "html": "Por defecto, el sitio web no coloca cookies ni recopila estadísticas de visitantes. Si en el futuro activamos Google Analytics, solo ocurrirá después de que lo haya aceptado activamente en un banner. Podrá cambiar su elección en cualquier momento mediante «Configuración de cookies» en el pie de página, y no se carga nada de Google antes de que haya dicho que sí."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Vídeos incrustados"
+        },
+        {
+          "type": "text",
+          "html": "Los vídeos de YouTube se muestran como una imagen con un botón. El vídeo solo se carga desde YouTube (youtube-nocookie.com) cuando hace clic en el botón; en ese momento Google puede tratar datos como su dirección IP y colocar cookies según su propia política."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Contacto con nosotros"
+        },
+        {
+          "type": "text",
+          "html": "Si nos escribe por correo electrónico o nos llama, tratamos los datos que usted mismo facilita (por ejemplo, nombre, datos de contacto y el contenido de su consulta) para poder responderle y gestionar su solicitud. Los datos se conservan mientras sea necesario para el asunto o para cumplir requisitos legales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Alojamiento web"
+        },
+        {
+          "type": "text",
+          "html": "El sitio web se ofrece a través de GitHub Pages (GitHub, Inc.). Al visitarlo, GitHub puede tratar datos técnicos como su dirección IP en sus registros de servidor de acuerdo con la <a href=\"https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement\">declaración de privacidad de GitHub</a>."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sus derechos"
+        },
+        {
+          "type": "text",
+          "html": "Tiene derecho a solicitar el acceso, la rectificación o la supresión de sus datos personales, a solicitar la limitación del tratamiento y a oponerse a él. También tiene derecho a presentar una reclamación ante la autoridad de control competente (en España, la <a href=\"https://www.aepd.es\">Agencia Española de Protección de Datos</a>)."
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Privacy and cookies",
+      "h1": "Privacy and cookies",
+      "description": "How Solvitek handles personal data and cookies on this website: no cookies without your consent.",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "Here we briefly describe how we handle personal data and cookies on this website."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Data controller"
+        },
+        {
+          "type": "text",
+          "html": "Solvitek [company name and registration number to be completed]. Privacy enquiries can be sent to <a href=\"mailto:info@solvitek.example\">info@solvitek.example</a>."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Cookies and statistics"
+        },
+        {
+          "type": "text",
+          "html": "By default, the website sets no cookies and collects no visitor statistics. If we enable Google Analytics in the future, it will only happen after you have actively accepted it in a banner. You can then change your choice at any time via “Cookie settings” in the footer, and nothing is loaded from Google before you have said yes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Embedded videos"
+        },
+        {
+          "type": "text",
+          "html": "YouTube videos are shown as an image with a button. Only when you click the button is the video loaded from YouTube (youtube-nocookie.com), at which point Google may process data such as your IP address and set cookies according to its own policy."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Contacting us"
+        },
+        {
+          "type": "text",
+          "html": "If you email or call us, we process the information you provide yourself (for example name, contact details and the content of your enquiry) in order to answer you and handle your request. The information is kept for as long as needed for the matter or to meet legal requirements."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Hosting"
+        },
+        {
+          "type": "text",
+          "html": "The website is provided via GitHub Pages (GitHub, Inc.). When you visit, GitHub may process technical data such as your IP address in its server logs in accordance with <a href=\"https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement\">GitHub’s privacy statement</a>."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Your rights"
+        },
+        {
+          "type": "text",
+          "html": "You have the right to request access to, rectification or erasure of your personal data, to request restriction of processing and to object to it. You also have the right to lodge a complaint with the competent supervisory authority (in Spain, the <a href=\"https://www.aepd.es\">Spanish Data Protection Agency</a>)."
+        }
+      ],
+      "published": true
+    }
+  }
+}

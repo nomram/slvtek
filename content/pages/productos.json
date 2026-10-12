@@ -1,0 +1,182 @@
+{
+  "path": "/productos",
+  "updated": "2026-10-10",
+  "template": "listing",
+  "order": 2,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/produkter-hero.gif"
+  },
+  "i18n": {
+    "es": {
+      "title": "Productos",
+      "h1": "Productos",
+      "description": "Productos: maquinaria y soluciones para la construcción, de los fabricantes que representa Solvitek.",
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "href": "/productos/tei",
+              "html": "Fabricante líder de equipos de perforación para excavadoras, accesorios de perforación y equipos de perforación para espacios reducidos.",
+              "text": "Fabricante líder de equipos de perforación para excavadoras, accesorios de perforación y equipos de perforación para espacios reducidos.",
+              "image": "/assets/img/tei.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "TEI Rock Drills logotipo"
+            },
+            {
+              "href": "/productos/geobrugg",
+              "html": "Productos y sistemas para la estabilización de taludes y la protección frente a desprendimientos.",
+              "text": "Productos y sistemas para la estabilización de taludes y la protección frente a desprendimientos.",
+              "image": "/assets/img/geobrugg.webp",
+              "width": 1000,
+              "height": 1000,
+              "alt": "Geobrugg logotipo"
+            },
+            {
+              "href": "/productos/marini",
+              "html": "Maquinaria para cimentaciones y canteras. Vehículos de orugas, equipos de perforación y sierras de hilo con accesorios.",
+              "text": "Maquinaria para cimentaciones y canteras. Vehículos de orugas, equipos de perforación y sierras de hilo con accesorios.",
+              "image": "/assets/img/marini-2.webp",
+              "width": 698,
+              "height": 698,
+              "alt": "Marini logotipo"
+            },
+            {
+              "href": "/productos/ahlm",
+              "html": "Silos para mortero seco para el manejo de cemento y mortero seco en un sistema cerrado, estanco al polvo y al agua.",
+              "text": "Silos para mortero seco para el manejo de cemento y mortero seco en un sistema cerrado, estanco al polvo y al agua.",
+              "image": "/assets/img/ahlm.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "AHLM logotipo"
+            },
+            {
+              "href": "/productos/terra-infrastructure",
+              "html": "Potentes unidades vibratorias para el hincado eficiente de tablestacas y la perforación en terrenos difíciles.",
+              "text": "Potentes unidades vibratorias para el hincado eficiente de tablestacas y la perforación en terrenos difíciles.",
+              "image": "/assets/img/terra-infrastructure.webp",
+              "width": 1000,
+              "height": 1000,
+              "alt": "Terra Infrastructure logotipo"
+            },
+            {
+              "href": "/productos/reed",
+              "html": "Equipos robustos para hormigón proyectado, bombas de hormigón y máquinas de gunitado.",
+              "text": "Equipos robustos para hormigón proyectado, bombas de hormigón y máquinas de gunitado.",
+              "image": "/assets/img/reed.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "REED logotipo"
+            },
+            {
+              "href": "/productos/ram-board",
+              "html": "Productos como protección de suelos y de marcos. Están fabricados para su reutilización y cuentan con certificación FSC.",
+              "text": "Productos como protección de suelos y de marcos. Están fabricados para su reutilización y cuentan con certificación FSC.",
+              "image": "/assets/img/ram-board.webp",
+              "width": 250,
+              "height": 250,
+              "alt": "Ram Board logotipo"
+            },
+            {
+              "href": "/productos/flexo-tekniikka",
+              "image": "/assets/img/flexo-tekniikka-1.webp",
+              "width": 527,
+              "height": 474,
+              "text": "Flexo-Tekniikka es un fabricante nórdico de grupos hidráulicos (HPU) de alta calidad a medida para aplicaciones industriales y móviles…",
+              "alt": "Flexo-Tekniikka logotipo",
+              "html": "Flexo-Tekniikka es un fabricante nórdico de grupos hidráulicos (HPU) de alta calidad a medida para aplicaciones industriales y móviles…"
+            }
+          ]
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Products",
+      "h1": "Products",
+      "description": "Products: machinery and solutions for construction, from the manufacturers Solvitek represents.",
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "href": "/productos/tei",
+              "html": "Leading manufacturer of drilling equipment for excavators, drilling accessories and drill rigs for confined spaces.",
+              "text": "Leading manufacturer of drilling equipment for excavators, drilling accessories and drill rigs for confined spaces.",
+              "image": "/assets/img/tei.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "TEI Rock Drills logo"
+            },
+            {
+              "href": "/productos/geobrugg",
+              "html": "Products and systems for slope stabilisation and protection against rockfall.",
+              "text": "Products and systems for slope stabilisation and protection against rockfall.",
+              "image": "/assets/img/geobrugg.webp",
+              "width": 1000,
+              "height": 1000,
+              "alt": "Geobrugg logo"
+            },
+            {
+              "href": "/productos/marini",
+              "html": "Machinery for foundation work and quarrying. Tracked vehicles, drilling rigs and wire saws with accessories.",
+              "text": "Machinery for foundation work and quarrying. Tracked vehicles, drilling rigs and wire saws with accessories.",
+              "image": "/assets/img/marini-2.webp",
+              "width": 698,
+              "height": 698,
+              "alt": "Marini logo"
+            },
+            {
+              "href": "/productos/ahlm",
+              "html": "Dry-mix silos for handling cement and dry mortar in a closed, dust- and watertight system.",
+              "text": "Dry-mix silos for handling cement and dry mortar in a closed, dust- and watertight system.",
+              "image": "/assets/img/ahlm.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "AHLM logo"
+            },
+            {
+              "href": "/productos/terra-infrastructure",
+              "html": "Powerful vibratory units for efficient driving of sheet piles and drilling in tough ground.",
+              "text": "Powerful vibratory units for efficient driving of sheet piles and drilling in tough ground.",
+              "image": "/assets/img/terra-infrastructure.webp",
+              "width": 1000,
+              "height": 1000,
+              "alt": "Terra Infrastructure logo"
+            },
+            {
+              "href": "/productos/reed",
+              "html": "Robust equipment for shotcrete, concrete pumps and gunite machines.",
+              "text": "Robust equipment for shotcrete, concrete pumps and gunite machines.",
+              "image": "/assets/img/reed.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "REED logo"
+            },
+            {
+              "href": "/productos/ram-board",
+              "html": "Products such as floor protection and frame protection. These are made for reuse and carry FSC certification.",
+              "text": "Products such as floor protection and frame protection. These are made for reuse and carry FSC certification.",
+              "image": "/assets/img/ram-board.webp",
+              "width": 250,
+              "height": 250,
+              "alt": "Ram Board logo"
+            },
+            {
+              "href": "/productos/flexo-tekniikka",
+              "image": "/assets/img/flexo-tekniikka-1.webp",
+              "width": 527,
+              "height": 474,
+              "text": "Flexo-Tekniikka is a Nordic manufacturer of high-quality hydraulic power packs (HPUs) tailored for industrial and mobile…",
+              "alt": "Flexo-Tekniikka logo",
+              "html": "Flexo-Tekniikka is a Nordic manufacturer of high-quality hydraulic power packs (HPUs) tailored for industrial and mobile…"
+            }
+          ]
+        }
+      ],
+      "published": true
+    }
+  }
+}

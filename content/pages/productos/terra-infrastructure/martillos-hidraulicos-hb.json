@@ -1,0 +1,646 @@
+{
+  "path": "/productos/terra-infrastructure/martillos-hidraulicos-hb",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 1,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Martillos perforadores hidráulicos (HB)",
+      "h1": "Martillos perforadores hidráulicos (HB)",
+      "description": "La serie HB son perforadoras hidráulicas potentes y compactas, diseñadas para ofrecer un rendimiento óptimo en todo tipo de terrenos.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Martillos perforadores hidráulicos (HB)",
+          "width": 744,
+          "height": 502,
+          "src": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "La serie HB son perforadoras hidráulicas potentes y compactas, diseñadas para ofrecer un rendimiento óptimo en todo tipo de terrenos."
+        },
+        {
+          "type": "text",
+          "html": "Con décadas de desarrollo a sus espaldas, la serie HB ofrece una solución para casi cualquier tarea de perforación. Las máquinas están construidas para soportar condiciones duras, minimizar las paradas y maximizar la eficiencia:"
+        },
+        {
+          "type": "text",
+          "html": "Diseño compacto y robusto:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Permite perforaciones avanzadas en espacios reducidos.",
+            "Se adapta fácilmente a los requisitos específicos de cada proyecto.",
+            "Alta fiabilidad de funcionamiento."
+          ]
+        },
+        {
+          "type": "text",
+          "html": "La serie HB es extremadamente versátil y la elección evidente para trabajos geotécnicos como micropilotes y perforación de anclajes, estabilización de taludes y anclajes posteriores, cimentaciones, refuerzo de terraplenes y control de flotabilidad."
+        },
+        {
+          "type": "text",
+          "html": "Ofrecemos modelos para todos los pares y profundidades de perforación: desde el ágil HB5 hasta el potente HB60."
+        },
+        {
+          "type": "text",
+          "html": "Modelos: HB5, HB10, HB15, HB20, HB35, HB45, HB50, HB60"
+        },
+        {
+          "type": "text",
+          "html": "¿Quiere saber qué modelo se adapta a su próximo proyecto? Consulte el folleto que figura a continuación o <a href=\"/contacto\">contáctenos</a> para más información."
+        },
+        {
+          "type": "table",
+          "header": true,
+          "align": "center",
+          "groups": [
+            {
+              "text": "",
+              "span": 1
+            },
+            {
+              "text": "Micropilotes y sobrecarga",
+              "span": 2
+            },
+            {
+              "text": "Perforación con barra hueca",
+              "span": 1
+            },
+            {
+              "text": "Especificaciones de rendimiento",
+              "span": 2
+            },
+            {
+              "text": "Portador recomendado",
+              "span": 1
+            }
+          ],
+          "rows": [
+            [
+              "Tipo HB",
+              "Entubación de micropilote Ø máx. (mm)",
+              "Entubación de sobrecarga Ø máx. (mm)",
+              "Barra hueca Ø máx. (mm)",
+              "Energía de impacto máx. (Nm)",
+              "Par máx. (Nm)",
+              "Peso / potencia de equipo recomendado"
+            ],
+            [
+              "HB 5",
+              "76.2",
+              "-",
+              "40.0",
+              "140.0",
+              "480.0",
+              "3-5 t (>37 kW)"
+            ],
+            [
+              "HB 10",
+              "63.5",
+              "-",
+              "40.0",
+              "160.0",
+              "1,000",
+              "5-10 t (>56 kW)"
+            ],
+            [
+              "HB 15",
+              "76.2",
+              "-",
+              "52.0",
+              "270.0",
+              "2,450",
+              "12-14 t (>65 kW)"
+            ],
+            [
+              "HB 20",
+              "101.6",
+              "-",
+              "52.0",
+              "270.0",
+              "4,900",
+              "12-14 t (>65 kW)"
+            ],
+            [
+              "HB 35",
+              "152.4",
+              "-",
+              "76.2",
+              "590.0",
+              "11,700",
+              "10-12 t (>107 kW)"
+            ],
+            [
+              "HB 45",
+              "177.8",
+              "152.4",
+              "101.6",
+              "590.0",
+              "16,200",
+              "10-12 t (>107 kW)"
+            ],
+            [
+              "HB 50",
+              "228.6",
+              "203.2",
+              "152.4",
+              "840.0",
+              "21,600",
+              "14-16 t (>127 kW)"
+            ],
+            [
+              "HB 60",
+              "304.8",
+              "254.0",
+              "203.2",
+              "840.0",
+              "42,100",
+              "14-16 t (>147 kW)"
+            ]
+          ]
+        },
+        {
+          "type": "modules",
+          "layout": "cards",
+          "items": [
+            {
+              "title": "HB5",
+              "alt": "HB5",
+              "bullets": [
+                "Micropilotes de hasta 76,2 mm",
+                "Perforación con martillo en cabeza",
+                "Anclajes de hasta 40 mm",
+                "Par: hasta 0,48 kNm"
+              ],
+              "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-3.webp",
+              "doc": {
+                "text": "Folleto HB5",
+                "href": "/assets/docs/terra-infrastructure-hydrauliska-topphammare-hb-las-mer.pdf"
+              }
+            },
+            {
+              "title": "HB10",
+              "alt": "HB10",
+              "bullets": [
+                "Micropilotes: hasta 63,5 mm (2,5\")",
+                "Barras de perforación/anclajes: hasta 40 mm (1,5\")",
+                "Energía de impacto: máx. 160 Nm",
+                "Par: hasta 1,0 kNm",
+                "Peso propio: 100 kg"
+              ],
+              "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-4.webp",
+              "doc": {
+                "text": "Folleto HB10",
+                "href": "/assets/docs/terra-infrastructure-hydrauliska-topphammare-hb-las-mer-2.pdf"
+              }
+            },
+            {
+              "title": "HB15",
+              "alt": "HB15",
+              "bullets": [
+                "Micropilotes: hasta 76,2 mm (3\")",
+                "Barras de perforación/anclajes: hasta 52 mm (2\")",
+                "Energía de impacto: máx. 270 Nm",
+                "Par: hasta 2,45 kNm",
+                "Vehículo portador recomendado: 12-14 t"
+              ],
+              "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-5.webp",
+              "doc": {
+                "text": "Folleto HB15",
+                "href": "/assets/docs/terra-infrastructure-hydrauliska-topphammare-hb-las-mer-3.pdf"
+              }
+            },
+            {
+              "title": "HB20",
+              "alt": "HB20",
+              "bullets": [
+                "Micropilotes: hasta 101,6 mm (4\")",
+                "Barras de perforación/anclajes: hasta 52 mm (2\")",
+                "Energía de impacto: máx. 270 Nm",
+                "Par: hasta 4,9 kNm",
+                "Control: cambio eléctrico, hidráulico o manual"
+              ],
+              "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-6.webp",
+              "doc": {
+                "text": "Folleto HB20",
+                "href": "/assets/docs/terra-infrastructure-hydrauliska-topphammare-hb-las-mer-4.pdf"
+              }
+            },
+            {
+              "title": "HB35",
+              "alt": "HB35",
+              "bullets": [
+                "Micropilotes: hasta 152,4 mm (6\")",
+                "Barras de perforación/anclajes: hasta 76,2 mm (3\")",
+                "Energía de impacto: máx. 590 Nm",
+                "Par: hasta 11,7 kNm",
+                "Peso propio: 360-410 kg"
+              ],
+              "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-7.webp",
+              "doc": {
+                "text": "Folleto HB35",
+                "href": "/assets/docs/terra-infrastructure-hydrauliska-topphammare-hb-las-mer-5.pdf"
+              }
+            },
+            {
+              "title": "HB45",
+              "alt": "HB45",
+              "bullets": [
+                "Micropilotes: hasta 177,8 mm (7\")",
+                "Perforación con entubado: diámetro exterior de hasta 152,4 mm (6\")",
+                "Barras de perforación/anclajes: hasta 101,6 mm (4\")",
+                "Energía de impacto: máx. 590 Nm",
+                "Par: hasta 16,2 kNm",
+                "Peso propio: 420-440 kg"
+              ],
+              "image": "/assets/img/terra-infrastructure-vibrodrill-vibrodrill-vd150.webp",
+              "doc": {
+                "text": "Folleto HB45",
+                "href": "/assets/docs/terra-infrastructure-drifter-hb45-en.pdf"
+              }
+            },
+            {
+              "title": "HB50",
+              "alt": "HB50",
+              "image": "/assets/img/terra-infrastructure-vibrodrill-vibrodrill-vd150-2.webp",
+              "bullets": [
+                "Micropilotes: hasta 228,6 mm (9\")",
+                "Perforación con entubado: diámetro exterior de hasta 203,2 mm (8\")",
+                "Barras de perforación/anclajes: hasta 152,4 mm (6\")",
+                "Energía de impacto: máx. 840 Nm",
+                "Par: hasta 21,6 kNm",
+                "Peso propio: 670-710 kg"
+              ]
+            },
+            {
+              "title": "HB60",
+              "alt": "HB60",
+              "bullets": [
+                "Micropilotes: hasta 304,8 mm (12\")",
+                "Perforación con entubado: diámetro exterior de hasta 254,0 mm (10\")",
+                "Barras de perforación/anclajes: hasta 203,2 mm (8\")",
+                "Energía de impacto: máx. 840 Nm",
+                "Par: hasta 42,1 kNm",
+                "Peso propio: aprox. 1050-1100 kg"
+              ],
+              "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-9.webp",
+              "doc": {
+                "text": "Folleto HB60",
+                "href": "/assets/docs/terra-infrastructure-hydrauliska-topphammare-hb-las-mer-7.pdf"
+              }
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "html": "La serie HB"
+        },
+        {
+          "type": "text",
+          "html": "La serie consta de los siguientes modelos: HB 5, HB 10, HB 15, HB 20, HB 35, HB 45, HB 50 y HB 60."
+        },
+        {
+          "type": "text",
+          "html": "Póngase en contacto con nosotros y le explicaremos más sobre las aplicaciones y qué modelo HB se adapta mejor a sus proyectos."
+        },
+        {
+          "type": "text",
+          "html": "Consulte el folleto o <a href=\"/contacto\">contáctenos</a> para más información."
+        },
+        {
+          "type": "image",
+          "alt": "Martillos perforadores hidráulicos (HB), imagen 10",
+          "width": 688,
+          "height": 525,
+          "src": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-10.webp"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Hydraulic drifters (HB)",
+      "h1": "Hydraulic drifters (HB)",
+      "description": "The HB series are powerful and compact hydraulic drills, designed to deliver optimal performance in all ground conditions.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Hydraulic drifters (HB)",
+          "width": 744,
+          "height": 502,
+          "src": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "The HB series are powerful and compact hydraulic drills, designed to deliver optimal performance in all ground conditions."
+        },
+        {
+          "type": "text",
+          "html": "With decades of development behind it, the HB series offers a solution for almost every drilling task. The machines are built to handle tough conditions, minimise downtime and maximise efficiency:"
+        },
+        {
+          "type": "text",
+          "html": "Compact and robust design:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Handles advanced drilling in confined spaces.",
+            "Easily adapted to specific project requirements.",
+            "High operational reliability."
+          ]
+        },
+        {
+          "type": "text",
+          "html": "The HB series is extremely versatile and the obvious choice for geotechnical work such as micropiles and anchor drilling, slope stabilisation and back-anchoring, foundation work, embankment reinforcement and buoyancy control."
+        },
+        {
+          "type": "text",
+          "html": "We offer models for every torque and drilling depth, from the agile HB5 to the powerhouse HB60."
+        },
+        {
+          "type": "text",
+          "html": "Models: HB5, HB10, HB15, HB20, HB35, HB45, HB50, HB60"
+        },
+        {
+          "type": "text",
+          "html": "Want to know which model suits your next project? Take a look at the brochure below or <a href=\"/contacto\">contact us</a> for more information."
+        },
+        {
+          "type": "table",
+          "header": true,
+          "align": "center",
+          "groups": [
+            {
+              "text": "",
+              "span": 1
+            },
+            {
+              "text": "Micropile & Overburden",
+              "span": 2
+            },
+            {
+              "text": "Hollow Bar Drilling",
+              "span": 1
+            },
+            {
+              "text": "Performance Specs",
+              "span": 2
+            },
+            {
+              "text": "Recommended Carrier",
+              "span": 1
+            }
+          ],
+          "rows": [
+            [
+              "HB-Type",
+              "Micropile Casing Max Ø (mm)",
+              "Overburden Casing Max Ø (mm)",
+              "Hollow Bar Max Ø (mm)",
+              "Max Impact Energy (Nm)",
+              "Max Torque (Nm)",
+              "Recommended Rig Weight / Power"
+            ],
+            [
+              "HB 5",
+              "76.2",
+              "-",
+              "40.0",
+              "140.0",
+              "480.0",
+              "3-5 t (>37 kW)"
+            ],
+            [
+              "HB 10",
+              "63.5",
+              "-",
+              "40.0",
+              "160.0",
+              "1,000",
+              "5-10 t (>56 kW)"
+            ],
+            [
+              "HB 15",
+              "76.2",
+              "-",
+              "52.0",
+              "270.0",
+              "2,450",
+              "12-14 t (>65 kW)"
+            ],
+            [
+              "HB 20",
+              "101.6",
+              "-",
+              "52.0",
+              "270.0",
+              "4,900",
+              "12-14 t (>65 kW)"
+            ],
+            [
+              "HB 35",
+              "152.4",
+              "-",
+              "76.2",
+              "590.0",
+              "11,700",
+              "10-12 t (>107 kW)"
+            ],
+            [
+              "HB 45",
+              "177.8",
+              "152.4",
+              "101.6",
+              "590.0",
+              "16,200",
+              "10-12 t (>107 kW)"
+            ],
+            [
+              "HB 50",
+              "228.6",
+              "203.2",
+              "152.4",
+              "840.0",
+              "21,600",
+              "14-16 t (>127 kW)"
+            ],
+            [
+              "HB 60",
+              "304.8",
+              "254.0",
+              "203.2",
+              "840.0",
+              "42,100",
+              "14-16 t (>147 kW)"
+            ]
+          ]
+        },
+        {
+          "type": "modules",
+          "layout": "cards",
+          "items": [
+            {
+              "title": "HB5",
+              "alt": "HB5",
+              "bullets": [
+                "Micropiles up to 76.2 mm",
+                "Top hammer drilling",
+                "Anchors up to 40 mm",
+                "Torque: up to 0.48 kNm"
+              ],
+              "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-3.webp",
+              "doc": {
+                "text": "Brochure HB5",
+                "href": "/assets/docs/terra-infrastructure-hydrauliska-topphammare-hb-las-mer.pdf"
+              }
+            },
+            {
+              "title": "HB10",
+              "alt": "HB10",
+              "bullets": [
+                "Micropiles: up to 63.5 mm (2.5\")",
+                "Drill rods/anchors: up to 40 mm (1.5\")",
+                "Impact energy: max 160 Nm",
+                "Torque: up to 1.0 kNm",
+                "Weight: 100 kg"
+              ],
+              "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-4.webp",
+              "doc": {
+                "text": "Brochure HB10",
+                "href": "/assets/docs/terra-infrastructure-hydrauliska-topphammare-hb-las-mer-2.pdf"
+              }
+            },
+            {
+              "title": "HB15",
+              "alt": "HB15",
+              "bullets": [
+                "Micropiles: up to 76.2 mm (3\")",
+                "Drill rods/anchors: up to 52 mm (2\")",
+                "Impact energy: max 270 Nm",
+                "Torque: up to 2.45 kNm",
+                "Recommended carrier: 12-14 t"
+              ],
+              "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-5.webp",
+              "doc": {
+                "text": "Brochure HB15",
+                "href": "/assets/docs/terra-infrastructure-hydrauliska-topphammare-hb-las-mer-3.pdf"
+              }
+            },
+            {
+              "title": "HB20",
+              "alt": "HB20",
+              "bullets": [
+                "Micropiles: up to 101.6 mm (4\")",
+                "Drill rods/anchors: up to 52 mm (2\")",
+                "Impact energy: max 270 Nm",
+                "Torque: up to 4.9 kNm",
+                "Control: electric, hydraulic or manual shifting"
+              ],
+              "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-6.webp",
+              "doc": {
+                "text": "Brochure HB20",
+                "href": "/assets/docs/terra-infrastructure-hydrauliska-topphammare-hb-las-mer-4.pdf"
+              }
+            },
+            {
+              "title": "HB35",
+              "alt": "HB35",
+              "bullets": [
+                "Micropiles: up to 152.4 mm (6\")",
+                "Drill rods/anchors: up to 76.2 mm (3\")",
+                "Impact energy: max 590 Nm",
+                "Torque: up to 11.7 kNm",
+                "Weight: 360-410 kg"
+              ],
+              "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-7.webp",
+              "doc": {
+                "text": "Brochure HB35",
+                "href": "/assets/docs/terra-infrastructure-hydrauliska-topphammare-hb-las-mer-5.pdf"
+              }
+            },
+            {
+              "title": "HB45",
+              "alt": "HB45",
+              "bullets": [
+                "Micropiles: up to 177.8 mm (7\")",
+                "Casing drilling: outer diameter up to 152.4 mm (6\")",
+                "Drill rods/anchors: up to 101.6 mm (4\")",
+                "Impact energy: max 590 Nm",
+                "Torque: up to 16.2 kNm",
+                "Weight: 420-440 kg"
+              ],
+              "image": "/assets/img/terra-infrastructure-vibrodrill-vibrodrill-vd150.webp",
+              "doc": {
+                "text": "Brochure HB45",
+                "href": "/assets/docs/terra-infrastructure-drifter-hb45-en.pdf"
+              }
+            },
+            {
+              "title": "HB50",
+              "alt": "HB50",
+              "image": "/assets/img/terra-infrastructure-vibrodrill-vibrodrill-vd150-2.webp",
+              "bullets": [
+                "Micropiles: up to 228.6 mm (9\")",
+                "Casing drilling: outer diameter up to 203.2 mm (8\")",
+                "Drill rods/anchors: up to 152.4 mm (6\")",
+                "Impact energy: max 840 Nm",
+                "Torque: up to 21.6 kNm",
+                "Weight: 670-710 kg"
+              ]
+            },
+            {
+              "title": "HB60",
+              "alt": "HB60",
+              "bullets": [
+                "Micropiles: up to 304.8 mm (12\")",
+                "Casing drilling: outer diameter up to 254.0 mm (10\")",
+                "Drill rods/anchors: up to 203.2 mm (8\")",
+                "Impact energy: max 840 Nm",
+                "Torque: up to 42.1 kNm",
+                "Weight: approx. 1,050-1,100 kg"
+              ],
+              "image": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-9.webp",
+              "doc": {
+                "text": "Brochure HB60",
+                "href": "/assets/docs/terra-infrastructure-hydrauliska-topphammare-hb-las-mer-7.pdf"
+              }
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "html": "The HB series"
+        },
+        {
+          "type": "text",
+          "html": "The series consists of the following models: HB 5, HB 10, HB 15, HB 20, HB 35, HB 45, HB 50 and HB 60."
+        },
+        {
+          "type": "text",
+          "html": "Get in touch and we will tell you more about applications and which HB model suits your projects best."
+        },
+        {
+          "type": "text",
+          "html": "Take a look at the brochure or <a href=\"/contacto\">contact us</a> for more information."
+        },
+        {
+          "type": "image",
+          "alt": "Hydraulic drifters (HB): image 10",
+          "width": 688,
+          "height": 525,
+          "src": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-10.webp"
+        }
+      ],
+      "published": true
+    }
+  }
+}

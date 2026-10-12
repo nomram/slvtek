@@ -1,0 +1,80 @@
+{
+  "name": "Solvitek",
+  "legalName": "Solvitek [razón social por completar]",
+  "origin": "https://www.solvitek.example",
+  "defaultLang": "es",
+  "languages": {
+    "es": {
+      "label": "Español",
+      "htmlLang": "es",
+      "locale": "es_ES",
+      "published": true
+    },
+    "en": {
+      "label": "English",
+      "htmlLang": "en",
+      "locale": "en_GB",
+      "published": true
+    }
+  },
+  "tagline": "Maquinaria y soluciones para la construcción",
+  "contact": {
+    "email": "info@solvitek.example",
+    "phones": [
+      {
+        "label": "Teléfono",
+        "value": "+34 000 000 000"
+      }
+    ],
+    "address": "Calle de Ejemplo 1, 00000 Ciudad",
+    "addressDetail": {
+      "street": "Calle de Ejemplo 1",
+      "postalCode": "00000",
+      "locality": "Ciudad",
+      "region": "",
+      "country": "ES"
+    },
+    "person": {
+      "name": "Nombre Apellido",
+      "email": "info@solvitek.example"
+    },
+    "hours": {
+      "opens": "09:00",
+      "closes": "18:00"
+    }
+  },
+  "social": [],
+  "nav": [
+    "/productos",
+    "/sobre-nosotros",
+    "/contacto"
+  ],
+  "analytics": {
+    "enabled": false,
+    "provider": "ga4",
+    "measurementId": ""
+  },
+  "theme": {
+    "primary": "#f4791f",
+    "dark": "#293a51",
+    "surface": "#f1f4f8",
+    "text": "#1f2d40",
+    "accent": "#2f77a6"
+  },
+  "adminPath": "/cms/",
+  "urlStyle": "file",
+  "github": {
+    "owner": "",
+    "repo": "",
+    "branch": "main"
+  },
+  "privacyPath": "/politica-de-privacidad",
+  "sectionBarLogos": false,
+  "quoteForm": {
+    "endpoint": ""
+  },
+  "sectionBars": [
+    "/productos"
+  ],
+  "megaMenu": true
+}

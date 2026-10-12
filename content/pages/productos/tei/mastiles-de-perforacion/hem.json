@@ -1,0 +1,591 @@
+{
+  "path": "/productos/tei/mastiles-de-perforacion/hem",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 2,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hem-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "HEM",
+      "h1": "HEM",
+      "description": "El HEM (Hydraulic Excavator Mount) es el segundo mástil más pesado que ofrece TEI para instalar micropilotes de hasta 76 mm.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1024,
+          "height": 950,
+          "src": "/assets/img/tei-borrmaster-hem-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 708,
+          "height": 563,
+          "src": "/assets/img/tei-borrmaster-hem-3.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1536,
+          "height": 2048,
+          "src": "/assets/img/tei-borrmaster-hem-4.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1798,
+          "height": 1408,
+          "src": "/assets/img/tei-borrmaster-hem-5.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 800,
+          "height": 800,
+          "src": "/assets/img/tei-borrmaster-hem-6.webp"
+        },
+        {
+          "type": "text",
+          "html": "El HEM (Hydraulic Excavator Mount) es el segundo mástil más pesado que ofrece TEI para instalar micropilotes de hasta 76 mm."
+        },
+        {
+          "type": "text",
+          "html": "Consulte el folleto que figura a continuación para más información y <a href=\"/contacto\">contáctenos</a> si tiene preguntas."
+        },
+        {
+          "type": "datasheet",
+          "title": "Datos técnicos",
+          "note": "Las especificaciones técnicas de TEI suponen una pérdida de potencia hidráulica del 40 %.",
+          "tagline": "Unidad de perforación hidráulica montada en excavadora",
+          "intro": [
+            "El HEM (Hydraulic Excavator Mount) es el accesorio de perforación más popular fabricado por TEI Rock Drills. La estable base de la excavadora y el largo brazo forman una excelente plataforma de perforación. El HEM recibe su potencia hidráulica del circuito de martillo de la excavadora, por lo que no se necesita ninguna instalación hidráulica adicional.",
+            "TEI utiliza exclusivamente sus martillos perforadores hidráulicos y sistemas de avance patentados en el HEM. Estos martillos avanzados disponen de ajuste automático de carrera (ASA): cuando la sarta de perforación no está acoplada, el martillo pasa a modo de reposo, y cuando el operario aplica presión sobre la sarta, el ASA lleva automáticamente el martillo a plena potencia. El swivel integrado admite aire, agua o lechada para todo tipo de perforación, incluida la instalación de las populares barras huecas."
+          ],
+          "groups": [
+            {
+              "title": "HEM 360 con TE360",
+              "rows": [
+                {
+                  "label": "Caudal hidráulico",
+                  "metric": "136 lpm",
+                  "us": "36 gpm"
+                },
+                {
+                  "label": "Presión hidráulica",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Diámetro del agujero",
+                  "metric": "35-76 mm",
+                  "us": "1 3/8-3 pulg."
+                },
+                {
+                  "label": "Longitud total",
+                  "metric": "4,9 m",
+                  "us": "16 ft"
+                },
+                {
+                  "label": "Carrera de perforación",
+                  "metric": "3,6 m",
+                  "us": "11,75 ft"
+                },
+                {
+                  "label": "Fuerza de tracción",
+                  "metric": "33 kN",
+                  "us": "7 350 lbf"
+                },
+                {
+                  "label": "Peso aproximado",
+                  "metric": "1 492 kg",
+                  "us": "3 290 lbs"
+                },
+                {
+                  "label": "Excavadora mínima",
+                  "metric": "13 toneladas",
+                  "us": "13 toneladas"
+                }
+              ]
+            },
+            {
+              "title": "HEM 350R con RDS350",
+              "rows": [
+                {
+                  "label": "Caudal hidráulico",
+                  "metric": "114 lpm",
+                  "us": "30 gpm"
+                },
+                {
+                  "label": "Presión hidráulica",
+                  "metric": "207 bar",
+                  "us": "3000 psi"
+                },
+                {
+                  "label": "Diámetro del agujero",
+                  "metric": "70-203 mm",
+                  "us": "2 3/4-8 pulg."
+                },
+                {
+                  "label": "Longitud total",
+                  "metric": "4,9 m",
+                  "us": "16 ft"
+                },
+                {
+                  "label": "Carrera de perforación",
+                  "metric": "3,6 m",
+                  "us": "11,75 ft"
+                },
+                {
+                  "label": "Fuerza de tracción",
+                  "metric": "33 kN",
+                  "us": "7 350 lbf"
+                },
+                {
+                  "label": "Peso aproximado",
+                  "metric": "1 440 kg",
+                  "us": "3 175 lbs"
+                },
+                {
+                  "label": "Excavadora mínima",
+                  "metric": "13 toneladas",
+                  "us": "13 toneladas"
+                }
+              ]
+            },
+            {
+              "title": "HEM 760 con TE760",
+              "rows": [
+                {
+                  "label": "Caudal hidráulico",
+                  "metric": "178 lpm",
+                  "us": "47 gpm"
+                },
+                {
+                  "label": "Presión hidráulica",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Diámetro del agujero",
+                  "metric": "52-127 mm",
+                  "us": "2-5 pulg."
+                },
+                {
+                  "label": "Longitud total",
+                  "metric": "4,9 m",
+                  "us": "16 ft"
+                },
+                {
+                  "label": "Carrera de perforación",
+                  "metric": "3,6 m",
+                  "us": "11,75 ft"
+                },
+                {
+                  "label": "Fuerza de tracción",
+                  "metric": "33 kN",
+                  "us": "7 350 lbf"
+                },
+                {
+                  "label": "Peso aproximado",
+                  "metric": "1 700 kg",
+                  "us": "3 750 lbs"
+                },
+                {
+                  "label": "Excavadora mínima",
+                  "metric": "20 toneladas",
+                  "us": "20 toneladas"
+                }
+              ]
+            },
+            {
+              "title": "HEM 550R con RDS550",
+              "rows": [
+                {
+                  "label": "Caudal hidráulico",
+                  "metric": "152 lpm",
+                  "us": "40 gpm"
+                },
+                {
+                  "label": "Presión hidráulica",
+                  "metric": "207 bar",
+                  "us": "3000 psi"
+                },
+                {
+                  "label": "Diámetro del agujero",
+                  "metric": "102-305 mm",
+                  "us": "4-12 pulg."
+                },
+                {
+                  "label": "Longitud total",
+                  "metric": "4,9 m",
+                  "us": "16 ft"
+                },
+                {
+                  "label": "Carrera de perforación",
+                  "metric": "3,6 m",
+                  "us": "11,75 ft"
+                },
+                {
+                  "label": "Fuerza de tracción",
+                  "metric": "33 kN",
+                  "us": "7 350 lbf"
+                },
+                {
+                  "label": "Peso aproximado",
+                  "metric": "2 177 kg",
+                  "us": "4 800 lbs"
+                },
+                {
+                  "label": "Excavadora mínima",
+                  "metric": "20 toneladas",
+                  "us": "20 toneladas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Ficha de producto",
+          "href": "/assets/docs/tei-borrmaster-hem-ladda-ner-pdf.pdf",
+          "driveId": "1YVw0dkKKyJumE-_ITzuzpD1Q7v91PspM"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "Lr3tuh0J0ko",
+          "start": 4,
+          "title": ""
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "gjcKSa1_gjE",
+          "title": ""
+        },
+        {
+          "type": "image",
+          "alt": "HEM: imagen 7",
+          "width": 761,
+          "height": 821,
+          "src": "/assets/img/tei-borrmaster-hem-7.webp"
+        },
+        {
+          "type": "image",
+          "alt": "HEM: imagen 8",
+          "width": 635,
+          "height": 140,
+          "src": "/assets/img/tei-borrmaster-hem-8.webp"
+        },
+        {
+          "type": "text",
+          "html": "HEM25ED"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "HEM",
+      "h1": "HEM",
+      "description": "HEM (Hydraulic Excavator Mount) is the second heaviest mast TEI offers for installing micropiles up to 76 mm.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "src": "/assets/img/tei-borrmaster-hem-2.webp",
+              "alt": "HEM, image 1",
+              "width": 1024,
+              "height": 950
+            },
+            {
+              "src": "/assets/img/tei-borrmaster-hem-3.webp",
+              "alt": "HEM, image 2",
+              "width": 708,
+              "height": 563
+            },
+            {
+              "src": "/assets/img/tei-borrmaster-hem-4.webp",
+              "alt": "HEM, image 3",
+              "width": 1536,
+              "height": 2048
+            },
+            {
+              "src": "/assets/img/tei-borrmaster-hem-5.webp",
+              "alt": "HEM, image 4",
+              "width": 1798,
+              "height": 1408
+            },
+            {
+              "src": "/assets/img/tei-borrmaster-hem-6.webp",
+              "alt": "HEM, image 5",
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "autoplay": false
+        },
+        {
+          "type": "text",
+          "html": "HEM (Hydraulic Excavator Mount) is the second heaviest mast TEI offers for installing micropiles up to 76 mm."
+        },
+        {
+          "type": "text",
+          "html": "See the brochure below for more information and <a href=\"/contacto\">contact us</a> if you have questions."
+        },
+        {
+          "type": "datasheet",
+          "title": "Technical data",
+          "note": "TEI’s technical specifications assume a 40% hydraulic power loss.",
+          "tagline": "Hydraulic excavator-mounted drilling unit",
+          "intro": [
+            "HEM (Hydraulic Excavator Mount) is the most popular drilling attachment manufactured by TEI Rock Drills. The stable excavator base and the long boom together form an excellent drilling platform. HEM receives its hydraulic power from the excavator’s hammer circuit, so no extra hydraulic installation is required.",
+            "TEI uses exclusively its patented hydraulic drifters and feed systems in the HEM. These advanced drifters have Automatic Stroke Adjustment (ASA): when the drill string is not engaged the hammer goes into idle mode, and when the operator applies pressure to the drill string, ASA automatically brings the hammer up to full power. The built-in swivel accepts air, water or grout for all types of drilling, including installation of the popular hollow bars."
+          ],
+          "groups": [
+            {
+              "title": "HEM 360 with TE360",
+              "rows": [
+                {
+                  "label": "Hydraulic flow",
+                  "metric": "136 lpm",
+                  "us": "36 gpm"
+                },
+                {
+                  "label": "Hydraulic pressure",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Hole diameter",
+                  "metric": "35-76 mm",
+                  "us": "1 3/8-3 in"
+                },
+                {
+                  "label": "Total length",
+                  "metric": "4,9 m",
+                  "us": "16 ft"
+                },
+                {
+                  "label": "Drill travel",
+                  "metric": "3,6 m",
+                  "us": "11,75 ft"
+                },
+                {
+                  "label": "Pull force",
+                  "metric": "33 kN",
+                  "us": "7 350 lbf"
+                },
+                {
+                  "label": "Approximate weight",
+                  "metric": "1 492 kg",
+                  "us": "3 290 lbs"
+                },
+                {
+                  "label": "Minimum excavator size",
+                  "metric": "13 tonnes",
+                  "us": "13 tonnes"
+                }
+              ]
+            },
+            {
+              "title": "HEM 350R with RDS350",
+              "rows": [
+                {
+                  "label": "Hydraulic flow",
+                  "metric": "114 lpm",
+                  "us": "30 gpm"
+                },
+                {
+                  "label": "Hydraulic pressure",
+                  "metric": "207 bar",
+                  "us": "3000 psi"
+                },
+                {
+                  "label": "Hole diameter",
+                  "metric": "70-203 mm",
+                  "us": "2 3/4-8 in"
+                },
+                {
+                  "label": "Total length",
+                  "metric": "4,9 m",
+                  "us": "16 ft"
+                },
+                {
+                  "label": "Drill travel",
+                  "metric": "3,6 m",
+                  "us": "11,75 ft"
+                },
+                {
+                  "label": "Pull force",
+                  "metric": "33 kN",
+                  "us": "7 350 lbf"
+                },
+                {
+                  "label": "Approximate weight",
+                  "metric": "1 440 kg",
+                  "us": "3 175 lbs"
+                },
+                {
+                  "label": "Minimum excavator size",
+                  "metric": "13 tonnes",
+                  "us": "13 tonnes"
+                }
+              ]
+            },
+            {
+              "title": "HEM 760 with TE760",
+              "rows": [
+                {
+                  "label": "Hydraulic flow",
+                  "metric": "178 lpm",
+                  "us": "47 gpm"
+                },
+                {
+                  "label": "Hydraulic pressure",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Hole diameter",
+                  "metric": "52-127 mm",
+                  "us": "2-5 in"
+                },
+                {
+                  "label": "Total length",
+                  "metric": "4,9 m",
+                  "us": "16 ft"
+                },
+                {
+                  "label": "Drill travel",
+                  "metric": "3,6 m",
+                  "us": "11,75 ft"
+                },
+                {
+                  "label": "Pull force",
+                  "metric": "33 kN",
+                  "us": "7 350 lbf"
+                },
+                {
+                  "label": "Approximate weight",
+                  "metric": "1 700 kg",
+                  "us": "3 750 lbs"
+                },
+                {
+                  "label": "Minimum excavator size",
+                  "metric": "20 tonnes",
+                  "us": "20 tonnes"
+                }
+              ]
+            },
+            {
+              "title": "HEM 550R with RDS550",
+              "rows": [
+                {
+                  "label": "Hydraulic flow",
+                  "metric": "152 lpm",
+                  "us": "40 gpm"
+                },
+                {
+                  "label": "Hydraulic pressure",
+                  "metric": "207 bar",
+                  "us": "3000 psi"
+                },
+                {
+                  "label": "Hole diameter",
+                  "metric": "102-305 mm",
+                  "us": "4-12 in"
+                },
+                {
+                  "label": "Total length",
+                  "metric": "4,9 m",
+                  "us": "16 ft"
+                },
+                {
+                  "label": "Drill travel",
+                  "metric": "3,6 m",
+                  "us": "11,75 ft"
+                },
+                {
+                  "label": "Pull force",
+                  "metric": "33 kN",
+                  "us": "7 350 lbf"
+                },
+                {
+                  "label": "Approximate weight",
+                  "metric": "2 177 kg",
+                  "us": "4 800 lbs"
+                },
+                {
+                  "label": "Minimum excavator size",
+                  "metric": "20 tonnes",
+                  "us": "20 tonnes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Data sheet",
+          "href": "/assets/docs/tei-borrmaster-hem-ladda-ner-pdf.pdf",
+          "driveId": "1YVw0dkKKyJumE-_ITzuzpD1Q7v91PspM"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "Lr3tuh0J0ko",
+          "start": 4,
+          "title": ""
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "gjcKSa1_gjE",
+          "title": ""
+        },
+        {
+          "type": "image",
+          "alt": "HEM: image 7",
+          "width": 761,
+          "height": 821,
+          "src": "/assets/img/tei-borrmaster-hem-7.webp"
+        },
+        {
+          "type": "image",
+          "alt": "HEM: image 8",
+          "width": 635,
+          "height": 140,
+          "src": "/assets/img/tei-borrmaster-hem-8.webp"
+        },
+        {
+          "type": "text",
+          "html": "HEM25ED"
+        }
+      ],
+      "published": true
+    }
+  }
+}

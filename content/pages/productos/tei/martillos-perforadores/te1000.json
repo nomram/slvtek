@@ -1,0 +1,204 @@
+{
+  "path": "/productos/tei/martillos-perforadores/te1000",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 7,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hem-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "TE1000",
+      "h1": "TE1000",
+      "description": "TE1000 - 3 acumuladores para un funcionamiento suave; perfil más corto y bajo de su clase de potencia; amortiguador de baja presión; sistema de percusión con ASA; potencia de salida: 25 kW…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "TE1000: imagen 2",
+          "width": 1920,
+          "height": 1130,
+          "src": "/assets/img/tei-topphammare-te1000-2.webp"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "3 acumuladores para un funcionamiento suave",
+            "Perfil más corto y bajo de su clase de potencia",
+            "Amortiguador de baja presión",
+            "Sistema de percusión con ASA",
+            "Potencia de salida: 25 kW",
+            "Par de rotación: hasta 13 569 Nm",
+            "Peso: 449 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Datos técnicos",
+          "tagline": "Martillo perforador hidráulico",
+          "intro": [
+            "El TE1000 es el martillo perforador más grande de la gama de TEI, concebido para instalar barra hueca con agujeros de 3-7 pulgadas (76,2-177,8 mm) y para perforar micropilotes en todo tipo de suelos. El potente sistema de percusión incorpora el sistema ASA patentado (ajuste automático de carrera), que adapta la potencia a las distintas condiciones de suelo y roca.",
+            "El sistema tiene tres niveles de golpe diferentes que pueden ajustarse manual o automáticamente para que sigan la fuerza de avance del equipo de perforación. Un segundo acumulador para el golpe de alta presión proporciona un funcionamiento más suave y amortiguación.",
+            "La rotación del TE1000 utiliza rodamientos sobredimensionados en los ejes radial y axial para soportar las fuerzas de empuje de los equipos de anclaje actuales. El sistema tiene dos motores para distintos niveles de par y una perforación más suave."
+          ],
+          "groups": [
+            {
+              "title": "Rotación",
+              "rows": [
+                {
+                  "label": "Par de rotación",
+                  "metric": "6779 Nm",
+                  "us": "5,000 lbf-ft"
+                },
+                {
+                  "label": "Velocidad",
+                  "metric": "2",
+                  "us": "1"
+                }
+              ]
+            },
+            {
+              "title": "Percusión",
+              "rows": [
+                {
+                  "label": "Potencia de salida",
+                  "metric": "25 kW",
+                  "us": "33 hp"
+                },
+                {
+                  "label": "Caudal del martillo",
+                  "metric": "117 lpm",
+                  "us": "31 gpm"
+                },
+                {
+                  "label": "Presión del martillo",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Frecuencia de golpeo",
+                  "metric": "45 Hz",
+                  "us": "2700 bpm"
+                }
+              ]
+            }
+          ],
+          "note": "Las especificaciones técnicas de TEI suponen una pérdida de potencia hidráulica del 40 %."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Ficha de producto",
+          "href": "/assets/docs/tei-topphammare-te1000-broschyr-eng.pdf",
+          "driveId": "1s6xKWdbyezuUa9D9cnWYM92-bVQ5A1WS"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "TE1000",
+      "h1": "TE1000",
+      "description": "TE1000 - 3 accumulators for smooth operation; Shortest and lowest profile in its power class; Low-pressure damper; Percussion system with ASA; Output power: 25 kW…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "TE1000: image 2",
+          "width": 1920,
+          "height": 1130,
+          "src": "/assets/img/tei-topphammare-te1000-2.webp"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "3 accumulators for smooth operation",
+            "Shortest and lowest profile in its power class",
+            "Low-pressure damper",
+            "Percussion system with ASA",
+            "Output power: 25 kW",
+            "Rotation torque: up to 13,569 Nm",
+            "Weight: 449 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Technical data",
+          "tagline": "Hydraulic drifter",
+          "intro": [
+            "TE1000 is the largest drifter in TEI’s range, intended for installing hollow bar with holes of 3-7 inches (76.2-177.8 mm) and for drilling micropiles in all soil types. The powerful percussion system has the patented ASA system (automatic stroke adjustment), which adapts the power output to varying soil and rock conditions.",
+            "The system has three different stroke levels that can be set manually or automatically so that they follow the feed force of the drill rig. A second accumulator for the high-pressure stroke gives smoother operation and damping.",
+            "The rotation of the TE1000 uses oversized bearings on the radial and axial shafts to withstand the thrust forces of today’s anchor rigs. The system has two motors for different torque levels and smoother drilling."
+          ],
+          "groups": [
+            {
+              "title": "Rotation",
+              "rows": [
+                {
+                  "label": "Rotation torque",
+                  "metric": "6779 Nm",
+                  "us": "5,000 lbf-ft"
+                },
+                {
+                  "label": "Speed",
+                  "metric": "2",
+                  "us": "1"
+                }
+              ]
+            },
+            {
+              "title": "Percussion",
+              "rows": [
+                {
+                  "label": "Output power",
+                  "metric": "25 kW",
+                  "us": "33 hp"
+                },
+                {
+                  "label": "Hammer flow",
+                  "metric": "117 lpm",
+                  "us": "31 gpm"
+                },
+                {
+                  "label": "Hammer pressure",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Blow frequency",
+                  "metric": "45 Hz",
+                  "us": "2700 bpm"
+                }
+              ]
+            }
+          ],
+          "note": "TEI’s technical specifications assume a 40% hydraulic power loss."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Data sheet",
+          "href": "/assets/docs/tei-topphammare-te1000-broschyr-eng.pdf",
+          "driveId": "1s6xKWdbyezuUa9D9cnWYM92-bVQ5A1WS"
+        }
+      ],
+      "published": true
+    }
+  }
+}

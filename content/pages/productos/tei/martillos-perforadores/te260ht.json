@@ -1,0 +1,280 @@
+{
+  "path": "/productos/tei/martillos-perforadores/te260ht",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 3,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hem-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "TE260HT",
+      "h1": "TE260HT",
+      "description": "TE260HT: alto par para anclajes autoperforantes; diseño compacto para perforación geotécnica y de túneles; sistema ASA patentado; potencia de salida: 10 kW…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "TE260HT: imagen 2",
+          "width": 1289,
+          "height": 893,
+          "src": "/assets/img/tei-topphammare-te260ht-2.webp"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Alto par para anclajes autoperforantes",
+            "Diseño compacto para perforación geotécnica y de túneles",
+            "Sistema ASA patentado",
+            "Potencia de salida: 10 kW",
+            "Par de rotación: 1357 Nm",
+            "Peso: 82 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Datos técnicos",
+          "tagline": "Martillo perforador hidráulico",
+          "intro": [
+            "El TE260HT incorpora nuestra tecnología ASA patentada (Automatic Stroke Adjustment, ajuste automático de carrera) como parte del sistema de percusión. La alta frecuencia y el funcionamiento suave del sistema ASA prolongan la vida útil del martillo perforador, lo que se traduce en mayor productividad y rentabilidad. Dos modos de potencia permiten controlar con precisión la energía y la frecuencia del sistema de percusión.",
+            "Los motores de rotación reversibles permiten una perforación eficaz y reducen el riesgo de que la sarta se atasque. El perfil bajo permite perforar junto a paredes y acceder a espacios estrechos. El tamaño compacto y la alta relación potencia-peso hacen que las perforadoras de TEI sean únicas en el mercado."
+          ],
+          "groups": [
+            {
+              "title": "Rotación",
+              "rows": [
+                {
+                  "label": "Par de rotación",
+                  "metric": "1357 Nm",
+                  "us": "1000 lbf-ft"
+                },
+                {
+                  "label": "Caudal de rotación",
+                  "metric": "38 - 76 lpm",
+                  "us": "10 - 20 gpm"
+                },
+                {
+                  "label": "Presión de rotación",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Peso",
+                  "metric": "82 kg",
+                  "us": "180 lb"
+                },
+                {
+                  "label": "Velocidad",
+                  "metric": "200 rpm",
+                  "us": "200 rpm"
+                }
+              ]
+            },
+            {
+              "title": "Percusión",
+              "rows": [
+                {
+                  "label": "Potencia de salida",
+                  "metric": "10 kW",
+                  "us": "13 hp"
+                },
+                {
+                  "label": "Caudal del martillo",
+                  "metric": "68 lpm",
+                  "us": "18 gpm"
+                },
+                {
+                  "label": "Presión del martillo",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Frecuencia de golpeo",
+                  "metric": "70 Hz",
+                  "us": "4200 bpm"
+                }
+              ]
+            },
+            {
+              "title": "Lavado",
+              "rows": [
+                {
+                  "label": "Presión de agua",
+                  "metric": "10 bar",
+                  "us": "150 psi"
+                },
+                {
+                  "label": "Caudal de agua",
+                  "metric": "25 lpm",
+                  "us": "7 gpm"
+                },
+                {
+                  "label": "Presión de aire",
+                  "metric": "8 bar",
+                  "us": "110 psi"
+                },
+                {
+                  "label": "Caudal de aire",
+                  "metric": "5 m³/min",
+                  "us": "179 cfm"
+                }
+              ]
+            }
+          ],
+          "note": "Las especificaciones técnicas de TEI suponen una pérdida de potencia hidráulica del 40 %."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Ficha de producto",
+          "href": "/assets/docs/tei-topphammare-te260ht-broschyr-eng.pdf",
+          "driveId": "1TkhWG2b0gzhYADDc6dMcr4F1URcM1ilV"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "TE260HT",
+      "h1": "TE260HT",
+      "description": "TE260HT: High torque for self-drilling anchors; Compact design for geotechnical and tunnel drilling; Patented ASA system; Output power: 10 kW…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "TE260HT: image 2",
+          "width": 1289,
+          "height": 893,
+          "src": "/assets/img/tei-topphammare-te260ht-2.webp"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "High torque for self-drilling anchors",
+            "Compact design for geotechnical and tunnel drilling",
+            "Patented ASA system",
+            "Output power: 10 kW",
+            "Rotation torque: 1,357 Nm",
+            "Weight: 82 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Technical data",
+          "tagline": "Hydraulic drifter",
+          "intro": [
+            "TE260HT has our patented ASA technology (Automatic Stroke Adjustment) as part of the percussion system. The high frequency and smooth operation of the ASA system extend the drifter’s service life, giving higher productivity and better profitability. Two power modes give precise control of the energy and frequency of the percussion system.",
+            "Reversible rotation motors give effective drilling and reduce the risk of the drill string jamming. The low profile makes it possible to drill next to walls and reach into tight spaces. The compact size and high power-to-weight ratio make TEI’s drills unique on the market."
+          ],
+          "groups": [
+            {
+              "title": "Rotation",
+              "rows": [
+                {
+                  "label": "Rotation torque",
+                  "metric": "1357 Nm",
+                  "us": "1000 lbf-ft"
+                },
+                {
+                  "label": "Rotation flow",
+                  "metric": "38 - 76 lpm",
+                  "us": "10 - 20 gpm"
+                },
+                {
+                  "label": "Rotation pressure",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Weight",
+                  "metric": "82 kg",
+                  "us": "180 lb"
+                },
+                {
+                  "label": "Speed",
+                  "metric": "200 rpm",
+                  "us": "200 rpm"
+                }
+              ]
+            },
+            {
+              "title": "Percussion",
+              "rows": [
+                {
+                  "label": "Output power",
+                  "metric": "10 kW",
+                  "us": "13 hp"
+                },
+                {
+                  "label": "Hammer flow",
+                  "metric": "68 lpm",
+                  "us": "18 gpm"
+                },
+                {
+                  "label": "Hammer pressure",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Blow frequency",
+                  "metric": "70 Hz",
+                  "us": "4200 bpm"
+                }
+              ]
+            },
+            {
+              "title": "Flushing",
+              "rows": [
+                {
+                  "label": "Water pressure",
+                  "metric": "10 bar",
+                  "us": "150 psi"
+                },
+                {
+                  "label": "Water flow",
+                  "metric": "25 lpm",
+                  "us": "7 gpm"
+                },
+                {
+                  "label": "Air pressure",
+                  "metric": "8 bar",
+                  "us": "110 psi"
+                },
+                {
+                  "label": "Air flow",
+                  "metric": "5 m³/min",
+                  "us": "179 cfm"
+                }
+              ]
+            }
+          ],
+          "note": "TEI’s technical specifications assume a 40% hydraulic power loss."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Data sheet",
+          "href": "/assets/docs/tei-topphammare-te260ht-broschyr-eng.pdf",
+          "driveId": "1TkhWG2b0gzhYADDc6dMcr4F1URcM1ilV"
+        }
+      ],
+      "published": true
+    }
+  }
+}

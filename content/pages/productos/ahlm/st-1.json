@@ -1,0 +1,120 @@
+{
+  "path": "/productos/ahlm/st-1",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 2,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/ahlm-st-1-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "ST-1",
+      "h1": "Estación de vaciado de sacos ST-1",
+      "description": "ST-1 es una estación de vaciado de sacos grandes (desarrollada por AHLM). Está diseñada para montarse sobre un TB-10 o HTB para vaciar big bags.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Estación de vaciado de sacos ST-1",
+          "width": 1920,
+          "height": 961,
+          "src": "/assets/img/ahlm-st-1-1.webp",
+          "href": "/productos/ahlm"
+        },
+        {
+          "type": "image",
+          "alt": "Estación de vaciado de sacos ST-1, imagen 2",
+          "width": 1920,
+          "height": 1920,
+          "src": "/assets/img/ahlm-st-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "ST-1 es una estación de vaciado de sacos grandes (desarrollada por AHLM). Está diseñada para montarse sobre un TB-10 o HTB para vaciar big bags."
+        },
+        {
+          "type": "text",
+          "html": "Incorpora un abresacos integrado y la tapa se maneja con una manivela desmontable. Se incluyen soportes de fijación para montar de forma segura la parte superior al contenedor, o correas."
+        },
+        {
+          "type": "text",
+          "html": "El big bag se baja sobre una cuchilla abresacos integrada, se abre de forma controlada y el material cae al silo, lo que permite un llenado rápido y relativamente libre de polvo con camión grúa o cargadora de ruedas."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Datos técnicos"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Anchura: 1500 mm",
+            "Altura: 1500 mm",
+            "Longitud: 1200 mm",
+            "Peso (vacío): aprox. 150 kg"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "ST-1",
+      "h1": "Bag emptying station ST-1",
+      "description": "ST-1 is a big-bag emptying station (developed by AHLM). It is designed to be mounted on top of a TB-10 or HTB for emptying large bags.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Bag emptying station ST-1",
+          "width": 1920,
+          "height": 961,
+          "src": "/assets/img/ahlm-st-1-1.webp",
+          "href": "/productos/ahlm"
+        },
+        {
+          "type": "image",
+          "alt": "Bag emptying station ST-1, image 2",
+          "width": 1920,
+          "height": 1920,
+          "src": "/assets/img/ahlm-st-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "ST-1 is a big-bag emptying station (developed by AHLM). It is designed to be mounted on top of a TB-10 or HTB for emptying large bags."
+        },
+        {
+          "type": "text",
+          "html": "It has a built-in bag splitter and the lid is operated with a removable handle. Mounting brackets for securely fixing the top to the container, or straps, are included."
+        },
+        {
+          "type": "text",
+          "html": "The big bag is lowered over a built-in bag-splitting knife, opened in a controlled way and the material flows down into the silo, giving fast and relatively dust-free filling with a crane truck or wheel loader."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Technical data"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Width: 1500 mm",
+            "Height: 1500 mm",
+            "Length: 1200 mm",
+            "Weight (empty): approx. 150 kg"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        }
+      ],
+      "published": true
+    }
+  }
+}

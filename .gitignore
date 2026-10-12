@@ -1,0 +1,13 @@
+*.log
+.DS_Store
+.cache/
+crawl/
+dist/
+node_modules/
+
+# local-only material (not needed for hosting)
+docs-private/
+tools/firefox/
+.env*
+*.local
+

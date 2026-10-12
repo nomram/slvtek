@@ -1,0 +1,332 @@
+{
+  "path": "/productos/tei/mastiles-de-perforacion",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 2,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Mástiles de perforación",
+      "h1": "Mástiles de perforación",
+      "description": "Los mástiles de perforación de TEI existen en distintas clases de tamaño, que dependen principalmente del peso de la excavadora y del equipo montado en el mástil. Haga clic en los mástiles…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Los mástiles de perforación de TEI existen en distintas clases de tamaño, que dependen principalmente del peso de la excavadora y del equipo montado en el mástil. Haga clic en los mástiles que figuran a continuación para acceder a los folletos y obtener más información."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "href": "/productos/tei/mastiles-de-perforacion/mme",
+              "title": "MME",
+              "image": "/assets/img/tei-borrmaster-mme.webp",
+              "width": 1280,
+              "height": 1280,
+              "alt": "MME logotipo"
+            },
+            {
+              "href": "/productos/tei/mastiles-de-perforacion/mem",
+              "title": "MEM",
+              "image": "/assets/img/tei-borrmaster-mem.webp",
+              "width": 334,
+              "height": 334,
+              "alt": "MEM logotipo"
+            },
+            {
+              "href": "/productos/tei/mastiles-de-perforacion/hem",
+              "title": "HEM",
+              "image": "/assets/img/tei-borrmaster-hem.webp",
+              "width": 601,
+              "height": 602,
+              "alt": "HEM logotipo"
+            },
+            {
+              "href": "/productos/tei/mastiles-de-perforacion/hemh",
+              "title": "HEMH",
+              "html": "- Para excavadoras de 5 a 8 toneladas.",
+              "text": "- Para excavadoras de 5 a 8 toneladas.",
+              "image": "/assets/img/tei-borrmaster-hemh.webp",
+              "width": 1304,
+              "height": 1304,
+              "alt": "HEMH logotipo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "html": "MME"
+        },
+        {
+          "type": "text",
+          "html": "- Cabezal de rotación o martillo en cabeza."
+        },
+        {
+          "type": "text",
+          "html": "- Carrera de 3,2 metros."
+        },
+        {
+          "type": "text",
+          "html": "- Mordaza hidráulica de 102 mm."
+        },
+        {
+          "type": "text",
+          "html": "MEM"
+        },
+        {
+          "type": "text",
+          "html": "- Para excavadoras de 12 a 15 toneladas."
+        },
+        {
+          "type": "text",
+          "html": "- Cabezal de rotación o martillo en cabeza"
+        },
+        {
+          "type": "text",
+          "html": "- Carrera de 3,35 metros"
+        },
+        {
+          "type": "text",
+          "html": "- Mordaza hidráulica de 165 mm"
+        },
+        {
+          "type": "text",
+          "html": "HEM"
+        },
+        {
+          "type": "text",
+          "html": "- Para excavadoras de 20 a 25 toneladas"
+        },
+        {
+          "type": "text",
+          "html": "- Cabezal de rotación o martillo en cabeza"
+        },
+        {
+          "type": "text",
+          "html": "- Entre 3,58 y 3,89 metros"
+        },
+        {
+          "type": "text",
+          "html": "de carrera"
+        },
+        {
+          "type": "text",
+          "html": "HEMH"
+        },
+        {
+          "type": "text",
+          "html": "- Para excavadoras de 25 a 30 toneladas"
+        },
+        {
+          "type": "text",
+          "html": "- Montaje y desmontaje sencillos"
+        },
+        {
+          "type": "text",
+          "html": "- Carrera de 3,96 metros."
+        },
+        {
+          "type": "text",
+          "html": "- Cabezal de rotación o martillo en cabeza"
+        },
+        {
+          "type": "text",
+          "html": "Además, también hay mástiles portátiles (man portable), que se encuentran más abajo."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "href": "/productos/tei/mastiles-de-perforacion/mp260",
+              "title": "MP260",
+              "image": "/assets/img/tei-borrmaster-mp260.webp",
+              "width": 405,
+              "height": 405,
+              "alt": "MP260 logotipo"
+            },
+            {
+              "href": "/productos/tei/mastiles-de-perforacion/mph",
+              "title": "MPH",
+              "image": "/assets/img/tei-borrmaster-mph.webp",
+              "width": 504,
+              "height": 504,
+              "alt": "MPH logotipo"
+            }
+          ]
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Drill masts",
+      "h1": "Drill masts",
+      "description": "TEI drill masts come in different size classes, mainly depending on the weight of the excavator and the equipment mounted on the mast. Click through on the masts…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "TEI drill masts come in different size classes, mainly depending on the weight of the excavator and the equipment mounted on the mast. Click through on the masts below to get to the brochures and read more."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "href": "/productos/tei/mastiles-de-perforacion/mme",
+              "title": "MME",
+              "image": "/assets/img/tei-borrmaster-mme.webp",
+              "width": 1280,
+              "height": 1280,
+              "alt": "MME logo"
+            },
+            {
+              "href": "/productos/tei/mastiles-de-perforacion/mem",
+              "title": "MEM",
+              "image": "/assets/img/tei-borrmaster-mem.webp",
+              "width": 334,
+              "height": 334,
+              "alt": "MEM logo"
+            },
+            {
+              "href": "/productos/tei/mastiles-de-perforacion/hem",
+              "title": "HEM",
+              "image": "/assets/img/tei-borrmaster-hem.webp",
+              "width": 601,
+              "height": 602,
+              "alt": "HEM logo"
+            },
+            {
+              "href": "/productos/tei/mastiles-de-perforacion/hemh",
+              "title": "HEMH",
+              "html": "- For 5-8 tonne excavators.",
+              "text": "- For 5-8 tonne excavators.",
+              "image": "/assets/img/tei-borrmaster-hemh.webp",
+              "width": 1304,
+              "height": 1304,
+              "alt": "HEMH logo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "html": "MME"
+        },
+        {
+          "type": "text",
+          "html": "- Rotary or top hammer."
+        },
+        {
+          "type": "text",
+          "html": "- 3.2 metre stroke length."
+        },
+        {
+          "type": "text",
+          "html": "- 102 mm hydraulic clamp."
+        },
+        {
+          "type": "text",
+          "html": "MEM"
+        },
+        {
+          "type": "text",
+          "html": "- For 12-15 tonne excavators."
+        },
+        {
+          "type": "text",
+          "html": "- Rotary or top hammer"
+        },
+        {
+          "type": "text",
+          "html": "- 3.35 metre stroke length"
+        },
+        {
+          "type": "text",
+          "html": "- 165 mm hydraulic clamp"
+        },
+        {
+          "type": "text",
+          "html": "HEM"
+        },
+        {
+          "type": "text",
+          "html": "- For 20-25 tonne excavators"
+        },
+        {
+          "type": "text",
+          "html": "- Rotary or top hammer"
+        },
+        {
+          "type": "text",
+          "html": "- Between 3.58 and 3.89 metres"
+        },
+        {
+          "type": "text",
+          "html": "stroke length"
+        },
+        {
+          "type": "text",
+          "html": "HEMH"
+        },
+        {
+          "type": "text",
+          "html": "- For 25-30 tonne excavators"
+        },
+        {
+          "type": "text",
+          "html": "- Easy mounting and dismantling"
+        },
+        {
+          "type": "text",
+          "html": "- 3.96 metre stroke length."
+        },
+        {
+          "type": "text",
+          "html": "- Rotary or top hammer"
+        },
+        {
+          "type": "text",
+          "html": "In addition there are also man-portable masts, which are found further down."
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "href": "/productos/tei/mastiles-de-perforacion/mp260",
+              "title": "MP260",
+              "image": "/assets/img/tei-borrmaster-mp260.webp",
+              "width": 405,
+              "height": 405,
+              "alt": "MP260 logo"
+            },
+            {
+              "href": "/productos/tei/mastiles-de-perforacion/mph",
+              "title": "MPH",
+              "image": "/assets/img/tei-borrmaster-mph.webp",
+              "width": 504,
+              "height": 504,
+              "alt": "MPH logo"
+            }
+          ]
+        }
+      ],
+      "published": true
+    }
+  }
+}

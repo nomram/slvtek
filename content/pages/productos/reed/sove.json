@@ -1,0 +1,108 @@
+{
+  "path": "/productos/reed/sove",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 0,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/reed-sove-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "SOVE",
+      "h1": "REED SOVE",
+      "description": "Máquina profesional de accionamiento eléctrico para el proyectado de hormigón por vía seca, con flujo de material uniforme e hidratación sencilla. Perfecta para reparaciones, refuerzo de roca, túneles…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "REED SOVE",
+          "width": 946,
+          "height": 768,
+          "src": "/assets/img/reed-sove-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "Máquina profesional de accionamiento eléctrico para el proyectado de hormigón por vía seca, con flujo de material uniforme e hidratación sencilla. Perfecta para reparaciones, refuerzo de roca, túneles, piscinas, etc."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Capacidad: hasta 6,9 m³/h",
+            "Tamaño máx. de grano: 10 mm",
+            "Diámetro de manguera recomendado: manguera de 38 mm / 1½\"",
+            "Compresor: aprox. 9-11 m³/min @ ~7 bar según la configuración",
+            "Accionamiento: compresor y motor auxiliar eléctrico",
+            "Motor eléctrico: trifásico, 50 Hz, 220 V (motor eléctrico) o según sus requisitos",
+            "Alcance: horizontal hasta 300 m, vertical hasta 90 m",
+            "Peso: aprox. 350 kg (según opciones)"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Opciones: colector de polvo, caperuza de seguridad, disco alimentador ultraligero, montaje para carretilla elevadora, etc."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto",
+          "href": "/assets/docs/reed-sove-broschyr.pdf",
+          "driveId": "13PbHuG7rqq0gEmMkKsJVMy-0j6tMgKo6"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "SOVE",
+      "h1": "REED SOVE",
+      "description": "Professional, electrically driven machine for dry-mix shotcreting, for an even material flow and easy hydration. Perfect for repairs, rock reinforcement, tunnels…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "REED SOVE",
+          "width": 946,
+          "height": 768,
+          "src": "/assets/img/reed-sove-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "Professional, electrically driven machine for dry-mix shotcreting, for an even material flow and easy hydration. Perfect for repairs, rock reinforcement, tunnels, pools, etc."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Capacity: up to 6.9 m³/h",
+            "Max. grain size: 10 mm",
+            "Rec. hose size: 38 mm / 1½\" hose",
+            "Compressor: approx. 9-11 m³/min @ ~7 bar depending on configuration",
+            "Drive: compressor and electric auxiliary motor",
+            "Electric motor: 3-phase, 50 Hz, 220 V (electric motor) or according to your requirements",
+            "Reach: horizontally up to 300 m, vertically up to 90 m",
+            "Weight: approx. 350 kg (depending on options)"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Options: dust collector, safety hood, ultra-light feed disc, forklift mounting, etc."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure",
+          "href": "/assets/docs/reed-sove-broschyr.pdf",
+          "driveId": "13PbHuG7rqq0gEmMkKsJVMy-0j6tMgKo6"
+        }
+      ],
+      "published": true
+    }
+  }
+}

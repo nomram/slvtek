@@ -1,0 +1,171 @@
+{
+  "path": "/productos/tei",
+  "updated": "2026-10-10",
+  "template": "brand",
+  "order": 0,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "TEI",
+      "h1": "TEI Rock Drills",
+      "description": "TEI Rock Drills es un fabricante líder de mástiles de perforación para excavadoras, herramientas de perforación para espacios reducidos, martillos perforadores, cabezales de rotación y…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills",
+          "width": 1280,
+          "height": 616,
+          "src": "/assets/img/tei-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "TEI Rock Drills es un fabricante líder de mástiles de perforación para excavadoras, herramientas de perforación para espacios reducidos, martillos perforadores, cabezales de rotación y carros de perforación eléctricos (equipos de sótano)."
+        },
+        {
+          "type": "text",
+          "html": "TEI es conocida por diseñar sus productos internamente y fabricarlos en una instalación con certificación ISO en Montrose, Colorado (EE. UU.), para garantizar que sus clientes obtengan las mejores soluciones para sus necesidades específicas."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto (ENG)",
+          "href": "/assets/docs/tei-broschyr-eng.pdf",
+          "driveId": "1WF8DBPhtUy3RRsbPXA6yrWNb44QbYLqL"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "href": "/productos/tei/martillos-perforadores",
+              "title": "Martillos perforadores",
+              "html": "Martillo perforador hidráulico para trabajos de perforación en roca dura y piedra. Alta potencia de impacto con una construcción robusta y rendimiento duradero.",
+              "text": "Martillo perforador hidráulico para trabajos de perforación en roca dura y piedra. Alta potencia de impacto con una construcción robusta y rendimiento duradero.",
+              "image": "/assets/img/tei-topphammare.webp",
+              "width": 1500,
+              "height": 1500,
+              "alt": "Martillos perforadores logotipo"
+            },
+            {
+              "href": "/productos/tei/cabezales-de-rotacion",
+              "title": "Cabezales de rotación",
+              "html": "Potentes cabezales de rotación hidráulicos, fáciles de usar y mantener. Se utilizan para bulonado de suelo y micropilotaje.",
+              "text": "Potentes cabezales de rotación hidráulicos, fáciles de usar y mantener. Se utilizan para bulonado de suelo y micropilotaje.",
+              "image": "/assets/img/tei-rotationshammare.webp",
+              "width": 1500,
+              "height": 1500,
+              "alt": "Cabezales de rotación logotipo"
+            },
+            {
+              "href": "/productos/tei/mastiles-de-perforacion",
+              "title": "Mástiles de perforación",
+              "html": "Los mástiles de perforación de TEI están adaptados a distintos tamaños de excavadora. Son ágiles, ligeros y no resultan difíciles de montar y desmontar.",
+              "text": "Los mástiles de perforación de TEI están adaptados a distintos tamaños de excavadora. Son ágiles, ligeros y no resultan difíciles de montar y desmontar.",
+              "image": "/assets/img/tei-borrmaster.webp",
+              "width": 498,
+              "height": 498,
+              "alt": "Mástiles de perforación logotipo"
+            },
+            {
+              "href": "/productos/tei/equipos-de-perforacion",
+              "title": "Equipos de perforación",
+              "html": "Equipos de perforación eléctricos diseñados especialmente para trabajar en espacios reducidos. Perfectos para instalar micropilotes y muros colados.",
+              "text": "Equipos de perforación eléctricos diseñados especialmente para trabajar en espacios reducidos. Perfectos para instalar micropilotes y muros colados.",
+              "image": "/assets/img/tei-borriggar.webp",
+              "width": 443,
+              "height": 443,
+              "alt": "Equipos de perforación logotipo"
+            }
+          ]
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "TEI",
+      "h1": "TEI Rock Drills",
+      "description": "TEI Rock Drills is a leading manufacturer of drill masts for excavators, drilling tools for confined spaces, drifters, rotary heads and electric…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills",
+          "width": 1280,
+          "height": 616,
+          "src": "/assets/img/tei-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "TEI Rock Drills is a leading manufacturer of drill masts for excavators, drilling tools for confined spaces, drifters, rotary heads and electric drill carriages (cellar rigs)."
+        },
+        {
+          "type": "text",
+          "html": "TEI is known for creating its products in-house and manufacturing them in an ISO-certified facility in Montrose, Colorado, USA, to ensure that its customers get the best solutions for their specific needs."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure (ENG)",
+          "href": "/assets/docs/tei-broschyr-eng.pdf",
+          "driveId": "1WF8DBPhtUy3RRsbPXA6yrWNb44QbYLqL"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "href": "/productos/tei/martillos-perforadores",
+              "title": "Drifters",
+              "html": "Hydraulic drifter for drilling in hard rock and stone. High impact power with a robust construction and long-lasting performance.",
+              "text": "Hydraulic drifter for drilling in hard rock and stone. High impact power with a robust construction and long-lasting performance.",
+              "image": "/assets/img/tei-topphammare.webp",
+              "width": 1500,
+              "height": 1500,
+              "alt": "Drifters logo"
+            },
+            {
+              "href": "/productos/tei/cabezales-de-rotacion",
+              "title": "Rotary heads",
+              "html": "Powerful hydraulic rotary heads, easy to use and maintain. Used for soil nailing and micropiling.",
+              "text": "Powerful hydraulic rotary heads, easy to use and maintain. Used for soil nailing and micropiling.",
+              "image": "/assets/img/tei-rotationshammare.webp",
+              "width": 1500,
+              "height": 1500,
+              "alt": "Rotary heads logo"
+            },
+            {
+              "href": "/productos/tei/mastiles-de-perforacion",
+              "title": "Drill masts",
+              "html": "TEI’s drill masts are adapted to different sizes of excavators. They are nimble, light and not difficult to fit and remove.",
+              "text": "TEI’s drill masts are adapted to different sizes of excavators. They are nimble, light and not difficult to fit and remove.",
+              "image": "/assets/img/tei-borrmaster.webp",
+              "width": 498,
+              "height": 498,
+              "alt": "Drill masts logo"
+            },
+            {
+              "href": "/productos/tei/equipos-de-perforacion",
+              "title": "Drill rigs",
+              "html": "Electric drill rigs specially designed for work in confined spaces. Perfect for installing micropiles and cast walls.",
+              "text": "Electric drill rigs specially designed for work in confined spaces. Perfect for installing micropiles and cast walls.",
+              "image": "/assets/img/tei-borriggar.webp",
+              "width": 443,
+              "height": 443,
+              "alt": "Drill rigs logo"
+            }
+          ]
+        }
+      ],
+      "published": true
+    }
+  },
+  "logo": "/assets/img/logo-tei.webp"
+}

@@ -1,0 +1,560 @@
+{
+  "path": "/productos/marini/estabilizacion-de-taludes",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 0,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-slantstabilisering-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Estabilización de taludes",
+      "h1": "MR / Máquinas neumáticas e hidráulicas",
+      "description": "La serie MR de Marini es una colección de equipos compactos diseñados especialmente para cimentaciones y estabilización de taludes. La serie está desarrollada para afrontar condiciones exigentes…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logotipo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "MR / Máquinas neumáticas e hidráulicas, imagen 2",
+          "width": 1125,
+          "height": 767,
+          "src": "/assets/img/marini-slantstabilisering-2-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "La serie MR de Marini es una colección de equipos compactos diseñados especialmente para cimentaciones y estabilización de taludes. La serie está desarrollada para afrontar condiciones exigentes y ofrecer un alto rendimiento en entornos complejos."
+        },
+        {
+          "type": "text",
+          "html": "La mayoría de los modelos que se muestran a continuación pueden ser tanto hidráulicos como neumáticos. Los modelos neumáticos son, en general, más ligeros. Muchos de estos equipos también pueden desmontarse en piezas más pequeñas para su transporte."
+        },
+        {
+          "type": "text",
+          "html": "Cada modelo ofrece distintas carreras, fuerzas de avance, fuerza de retroceso y par de rotación según los requisitos específicos."
+        },
+        {
+          "type": "text",
+          "html": "Consulte la tabla que aparece más abajo para ver las especificaciones técnicas."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "modules",
+          "layout": "cards",
+          "items": [
+            {
+              "title": "MR 1",
+              "image": "/assets/img/marini-slantstabilisering-2.webp",
+              "alt": "MR 1",
+              "text": "Unidad neumática sencilla.",
+              "bullets": [
+                "Peso: 180-200 kg",
+                "Fuerza de 5,0 kN"
+              ],
+              "doc": {
+                "text": "Folleto MR 1",
+                "href": "/assets/docs/marini-slantstabilisering-las-mer.pdf"
+              }
+            },
+            {
+              "title": "MR 2",
+              "image": "/assets/img/marini-slantstabilisering-mr-2.webp",
+              "alt": "MR 2",
+              "text": "El producto más vendido de Marini.",
+              "href": "/productos/marini/estabilizacion-de-taludes/mr-2",
+              "bullets": [
+                "Peso: 310-650 kg",
+                "Fuerza de avance de 9,5-15,0 kN"
+              ]
+            },
+            {
+              "title": "MR 3",
+              "image": "/assets/img/marini-slantstabilisering-mr-3.webp",
+              "alt": "MR 3",
+              "text": "Equipo sencillo sobre patines.",
+              "href": "/productos/marini/estabilizacion-de-taludes/mr-3",
+              "bullets": [
+                "Peso: 280-390 kg",
+                "Fuerza de 6,0-9,5 kN"
+              ]
+            },
+            {
+              "title": "MR 4",
+              "image": "/assets/img/marini-slantstabilisering-4.webp",
+              "alt": "MR 4",
+              "text": "Equipo hidráulico para mayor avance y fuerza de retroceso.",
+              "bullets": [
+                "Peso: ca 950 kg",
+                "15,0 kN de avance / 25,0 kN de fuerza de retroceso"
+              ],
+              "doc": {
+                "text": "Folleto MR 4",
+                "href": "/assets/docs/marini-slantstabilisering-las-mer-2.pdf"
+              }
+            },
+            {
+              "title": "MR 5",
+              "image": "/assets/img/marini-slantstabilisering-mr-5.webp",
+              "alt": "MR 5",
+              "text": "Equipo de cuatro ruedas para un desplazamiento lateral fluido.",
+              "href": "/productos/marini/estabilizacion-de-taludes/mr-5",
+              "bullets": [
+                "Peso 390-460 kg",
+                "Fuerza de 9,5-10,0 kN"
+              ]
+            },
+            {
+              "title": "MR 6",
+              "image": "/assets/img/marini-slantstabilisering-mr-6.webp",
+              "alt": "MR 6",
+              "text": "Mástil modular compacto y portátil.",
+              "href": "/productos/marini/estabilizacion-de-taludes/mr-6",
+              "bullets": [
+                "Peso 300-330 kg",
+                "Fuerza de 6,0-10,0 kN"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Especificaciones técnicas"
+        },
+        {
+          "type": "table",
+          "header": true,
+          "rows": [
+            [
+              "Modelo",
+              "Sistema de avance",
+              "Carrera del mástil (mm)",
+              "Peso (kg)",
+              "Fuerza de avance (kN)",
+              "Fuerza de retroceso (kN)",
+              "Rango de la mordaza (mm)",
+              "Par de rotación (Nm)",
+              "Velocidad de rotación (rpm)"
+            ],
+            [
+              "MR-1",
+              "Air",
+              "1260 - 1760",
+              "180 - 200",
+              "5.0",
+              "5.0",
+              "-",
+              "850",
+              "40"
+            ],
+            [
+              "MR-2 PN",
+              "Air",
+              "1260 - 1760",
+              "310 - 340",
+              "9.5",
+              "9.5",
+              "-",
+              "850",
+              "40 - 45"
+            ],
+            [
+              "MR-2 PN 80",
+              "Air",
+              "1260 - 1760",
+              "380 - 410",
+              "9.5",
+              "9.5",
+              "-",
+              "1200",
+              "40 - 45"
+            ],
+            [
+              "MR-2 ID 80",
+              "Hidráulico",
+              "1260 - 1760",
+              "390 - 430",
+              "10.0",
+              "10.0",
+              "25 - 115",
+              "1600",
+              "40 - 80"
+            ],
+            [
+              "MR-2 ID 100",
+              "Hidráulico",
+              "1260 - 1760",
+              "600 - 650",
+              "15.0",
+              "15.0",
+              "25 - 118",
+              "3500",
+              "40"
+            ],
+            [
+              "MR-4 ID",
+              "Hidráulico",
+              "1260 - 1760",
+              "850 - 1100",
+              "15.0",
+              "25.0",
+              "25 - 188",
+              "5000",
+              "40 - 80"
+            ],
+            [
+              "MR-5 ID",
+              "Hidráulico",
+              "1260 - 1760",
+              "400 - 460",
+              "10.0",
+              "10.0",
+              "-",
+              "1600",
+              "40 - 80"
+            ],
+            [
+              "MR-5 PN",
+              "Air",
+              "1260 - 1760",
+              "390 - 460",
+              "9.5",
+              "9.5",
+              "25 - 115",
+              "1200",
+              "40 - 45"
+            ],
+            [
+              "MR-6 ID",
+              "Hidráulico",
+              "700 - 1200",
+              "300 - 330",
+              "6",
+              "10",
+              "25 - 115",
+              "1600",
+              "60"
+            ],
+            [
+              "MR-6 PN",
+              "Air",
+              "700 - 1200",
+              "300 - 330",
+              "9.5",
+              "9.5",
+              "25 - 115",
+              "1200",
+              "40 - 45"
+            ]
+          ]
+        },
+        {
+          "type": "image",
+          "alt": "MR / Máquinas neumáticas e hidráulicas, imagen 5",
+          "width": 1024,
+          "height": 936,
+          "src": "/assets/img/marini-slantstabilisering-5.webp"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto breve (ENG)",
+          "href": "/assets/docs/marini-slantstabilisering-las-mer.pdf",
+          "driveId": "1IgvDyW_h2_D5Ay-d3_fM0SgXOW3WY_KD"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Catálogo de productos",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Slope stabilisation",
+      "h1": "MR / Pneumatic and hydraulic machines",
+      "description": "Marini’s MR series is a collection of compact rigs specially designed for foundation work and slope stabilisation. The series is developed to meet challenging…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "MR / Pneumatic and hydraulic machines, image 2",
+          "width": 1125,
+          "height": 767,
+          "src": "/assets/img/marini-slantstabilisering-2-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Marini’s MR series is a collection of compact rigs specially designed for foundation work and slope stabilisation. The series is developed to meet challenging conditions and deliver high performance in complex environments."
+        },
+        {
+          "type": "text",
+          "html": "Most of the models below can be both hydraulic and pneumatic. The pneumatic models are generally lighter. Many of these rigs can also be dismantled into smaller parts for transport."
+        },
+        {
+          "type": "text",
+          "html": "Each model offers different stroke lengths, feed forces, pull-back force and rotation torque depending on specific requirements."
+        },
+        {
+          "type": "text",
+          "html": "See the table a little further down for the technical specifications."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "modules",
+          "layout": "cards",
+          "items": [
+            {
+              "title": "MR 1",
+              "image": "/assets/img/marini-slantstabilisering-2.webp",
+              "alt": "MR 1",
+              "text": "Simple pneumatic unit.",
+              "bullets": [
+                "Weight: 180-200 kg",
+                "5.0 kN force"
+              ],
+              "doc": {
+                "text": "Brochure MR 1",
+                "href": "/assets/docs/marini-slantstabilisering-las-mer.pdf"
+              }
+            },
+            {
+              "title": "MR 2",
+              "image": "/assets/img/marini-slantstabilisering-mr-2.webp",
+              "alt": "MR 2",
+              "text": "Marini’s absolute best seller.",
+              "href": "/productos/marini/estabilizacion-de-taludes/mr-2",
+              "bullets": [
+                "Weight: 310-650 kg",
+                "9.5-15.0 kN feed force"
+              ]
+            },
+            {
+              "title": "MR 3",
+              "image": "/assets/img/marini-slantstabilisering-mr-3.webp",
+              "alt": "MR 3",
+              "text": "Simple skid-based rig.",
+              "href": "/productos/marini/estabilizacion-de-taludes/mr-3",
+              "bullets": [
+                "Weight: 280-390 kg",
+                "6.0-9.5 kN force"
+              ]
+            },
+            {
+              "title": "MR 4",
+              "image": "/assets/img/marini-slantstabilisering-4.webp",
+              "alt": "MR 4",
+              "text": "Hydraulic rig for higher feed and pull-back force.",
+              "bullets": [
+                "Weight: ca 950 kg",
+                "15.0 kN feed / 25.0 kN pull-back force"
+              ],
+              "doc": {
+                "text": "Brochure MR 4",
+                "href": "/assets/docs/marini-slantstabilisering-las-mer-2.pdf"
+              }
+            },
+            {
+              "title": "MR 5",
+              "image": "/assets/img/marini-slantstabilisering-mr-5.webp",
+              "alt": "MR 5",
+              "text": "Four-wheeled rig for smooth sideways movement.",
+              "href": "/productos/marini/estabilizacion-de-taludes/mr-5",
+              "bullets": [
+                "Weight 390-460 kg",
+                "9.5-10.0 kN force"
+              ]
+            },
+            {
+              "title": "MR 6",
+              "image": "/assets/img/marini-slantstabilisering-mr-6.webp",
+              "alt": "MR 6",
+              "text": "Portable compact modular mast.",
+              "href": "/productos/marini/estabilizacion-de-taludes/mr-6",
+              "bullets": [
+                "Weight 300-330 kg",
+                "6.0-10.0 kN force"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Technical specifications"
+        },
+        {
+          "type": "table",
+          "header": true,
+          "rows": [
+            [
+              "Model",
+              "Feed System",
+              "Mast Stroke (mm)",
+              "Weight (kg)",
+              "Feed Force (kN)",
+              "Retract Force (kN)",
+              "Clamp Range (mm)",
+              "Rotary Torque (Nm)",
+              "Rotary Speed (rpm)"
+            ],
+            [
+              "MR-1",
+              "Air",
+              "1260 - 1760",
+              "180 - 200",
+              "5.0",
+              "5.0",
+              "-",
+              "850",
+              "40"
+            ],
+            [
+              "MR-2 PN",
+              "Air",
+              "1260 - 1760",
+              "310 - 340",
+              "9.5",
+              "9.5",
+              "-",
+              "850",
+              "40 - 45"
+            ],
+            [
+              "MR-2 PN 80",
+              "Air",
+              "1260 - 1760",
+              "380 - 410",
+              "9.5",
+              "9.5",
+              "-",
+              "1200",
+              "40 - 45"
+            ],
+            [
+              "MR-2 ID 80",
+              "Hydraulic",
+              "1260 - 1760",
+              "390 - 430",
+              "10.0",
+              "10.0",
+              "25 - 115",
+              "1600",
+              "40 - 80"
+            ],
+            [
+              "MR-2 ID 100",
+              "Hydraulic",
+              "1260 - 1760",
+              "600 - 650",
+              "15.0",
+              "15.0",
+              "25 - 118",
+              "3500",
+              "40"
+            ],
+            [
+              "MR-4 ID",
+              "Hydraulic",
+              "1260 - 1760",
+              "850 - 1100",
+              "15.0",
+              "25.0",
+              "25 - 188",
+              "5000",
+              "40 - 80"
+            ],
+            [
+              "MR-5 ID",
+              "Hydraulic",
+              "1260 - 1760",
+              "400 - 460",
+              "10.0",
+              "10.0",
+              "-",
+              "1600",
+              "40 - 80"
+            ],
+            [
+              "MR-5 PN",
+              "Air",
+              "1260 - 1760",
+              "390 - 460",
+              "9.5",
+              "9.5",
+              "25 - 115",
+              "1200",
+              "40 - 45"
+            ],
+            [
+              "MR-6 ID",
+              "Hydraulic",
+              "700 - 1200",
+              "300 - 330",
+              "6",
+              "10",
+              "25 - 115",
+              "1600",
+              "60"
+            ],
+            [
+              "MR-6 PN",
+              "Air",
+              "700 - 1200",
+              "300 - 330",
+              "9.5",
+              "9.5",
+              "25 - 115",
+              "1200",
+              "40 - 45"
+            ]
+          ]
+        },
+        {
+          "type": "image",
+          "alt": "MR / Pneumatic and hydraulic machines, image 5",
+          "width": 1024,
+          "height": 936,
+          "src": "/assets/img/marini-slantstabilisering-5.webp"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Short brochure (ENG)",
+          "href": "/assets/docs/marini-slantstabilisering-las-mer.pdf",
+          "driveId": "1IgvDyW_h2_D5Ay-d3_fM0SgXOW3WY_KD"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Product catalogue",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        }
+      ],
+      "published": true
+    }
+  }
+}

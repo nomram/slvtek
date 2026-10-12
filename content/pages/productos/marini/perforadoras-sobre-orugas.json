@@ -1,0 +1,561 @@
+{
+  "path": "/productos/marini/perforadoras-sobre-orugas",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 1,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-crawlers-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Equipos sobre orugas",
+      "h1": "Equipos de perforación sobre orugas",
+      "description": "Los equipos de perforación sobre orugas de Marini son máquinas versátiles y potentes diseñadas para perforar en terrenos difíciles. Estos equipos se utilizan en cimentaciones…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logotipo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Equipos de perforación sobre orugas, imagen 2",
+          "width": 1245,
+          "height": 857,
+          "src": "/assets/img/marini-crawlers-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Los equipos de perforación sobre orugas de Marini son máquinas versátiles y potentes diseñadas para perforar en terrenos difíciles. Estos equipos se utilizan en cimentaciones, estabilización de taludes, micropilotaje y anclajes. Sus orugas ofrecen una excelente movilidad sobre terreno irregular y los hacen ideales tanto para proyectos pequeños como grandes."
+        },
+        {
+          "type": "text",
+          "html": "Con la línea MR-C, Marini ofrece equipos de perforación hidráulicos para perforar con martillos perforadores y cabezales de rotación, con posibilidad de jet grouting."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto breve (ENG)",
+          "href": "/assets/docs/marini-crawlers-kort-broschyr-eng.pdf",
+          "driveId": "1ieWNcqMvkkbHi3IYedIFbdB5CFFLiKLR"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Catálogo de productos",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        },
+        {
+          "type": "text",
+          "html": "Modelos como el MR-C 10 y el MR-C 15 son compactos y lo bastante potentes para proyectos más pequeños, mientras que el MR-C 90 y el MR-C 95 están diseñados para perforaciones más grandes y profundas, con mayor capacidad y fuerza. El MR-C 30 es el modelo óptimo, especialmente adaptado para interiores."
+        },
+        {
+          "type": "text",
+          "html": "Los equipos marcados con una A tras el número de modelo (p. ej., MR-C 85A Line) significan Attachment (o mástil desmontable), lo que implica que el mástil puede desmontarse para mayor flexibilidad y facilidad de transporte."
+        },
+        {
+          "type": "text",
+          "html": "Los equipos marcados con una P (p. ej., MR-C 95P) significan Power (o Performance, a menudo en referencia a modelos especialmente potentes). Estos equipos suelen tener mayor potencia de motor y están diseñados para trabajos de perforación más pesados y perforaciones más profundas."
+        },
+        {
+          "type": "text",
+          "html": "Las especificaciones técnicas de los equipos se resumen en la tabla siguiente."
+        },
+        {
+          "type": "text",
+          "html": "MR - C 95"
+        },
+        {
+          "type": "image",
+          "alt": "Equipos de perforación sobre orugas, imagen 3",
+          "width": 1879,
+          "height": 984,
+          "src": "/assets/img/marini-crawlers-3.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Especificaciones técnicas"
+        },
+        {
+          "type": "table",
+          "header": true,
+          "rows": [
+            [
+              "Modelo",
+              "Fuerza de retroceso/avance (kN)",
+              "Potencia del motor (kW)",
+              "Caballos de potencia (hp)",
+              "Peso (kg)",
+              "Carrera del mástil (mm)",
+              "Par de rotación (Nm)",
+              "Velocidad de rotación (rpm)",
+              "Rango de la mordaza (mm)"
+            ],
+            [
+              "MR-C 10",
+              "15",
+              "17",
+              "23",
+              "1300",
+              "1260 - 1760",
+              "350",
+              "40",
+              "25 - 188"
+            ],
+            [
+              "MR-C 15",
+              "25",
+              "17",
+              "23",
+              "1500",
+              "1260 - 1760",
+              "350",
+              "40",
+              "25 - 188"
+            ],
+            [
+              "MR-C 20",
+              "25",
+              "22",
+              "30",
+              "3100",
+              "1300 - 1800",
+              "500",
+              "40 - 80",
+              "25 - 188"
+            ],
+            [
+              "MR-C 20P",
+              "35",
+              "33",
+              "45",
+              "3800",
+              "1300 - 1800",
+              "500",
+              "40 - 80",
+              "25 - 230"
+            ],
+            [
+              "MR-C 30",
+              "35",
+              "33-55",
+              "45-75",
+              "6615",
+              "1200 - 2200",
+              "500 - 1000",
+              "40 - 90",
+              "25 - 310"
+            ],
+            [
+              "MR-C 35A",
+              "25",
+              "55",
+              "75",
+              "6500",
+              "1800 - 3500",
+              "500",
+              "40 - 80",
+              "25 - 188"
+            ],
+            [
+              "MR-C 35",
+              "35",
+              "55",
+              "75",
+              "7000",
+              "1800 - 3300",
+              "1000",
+              "40 - 90",
+              "25 - 310"
+            ],
+            [
+              "MR-C 50",
+              "50",
+              "85-103",
+              "115-140",
+              "9000",
+              "1800 - 3500",
+              "1350",
+              "45 - 160",
+              "25 - 310"
+            ],
+            [
+              "MR-C 80",
+              "25",
+              "85",
+              "115",
+              "11000",
+              "1800 - 3500",
+              "500",
+              "40 - 80",
+              "25 - 188"
+            ],
+            [
+              "MR-C 85A",
+              "35",
+              "85",
+              "115",
+              "11800",
+              "1800 - 3500",
+              "1000",
+              "40 - 90",
+              "25 - 230"
+            ],
+            [
+              "MR-C 85",
+              "35",
+              "85",
+              "115",
+              "11500",
+              "1800 - 3500",
+              "1000",
+              "40 - 90",
+              "25 - 230"
+            ],
+            [
+              "MR-C 90",
+              "60",
+              "103-115",
+              "140-154",
+              "14500",
+              "1800 - 3500",
+              "1600",
+              "40 - 160",
+              "25 - 330"
+            ],
+            [
+              "MR-C 95",
+              "80",
+              "103-115",
+              "140-154",
+              "22000",
+              "2500 - 7500",
+              "2400",
+              "40 - 140",
+              "70 - 420"
+            ],
+            [
+              "MR-C 95P",
+              "80",
+              "128",
+              "175",
+              "24000",
+              "2500 - 7500",
+              "2400",
+              "40 - 140",
+              "70 - 520"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MR-C 20"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "5y1Mfj7Iy6E",
+          "title": "Marini Srl - MR-C 20 crawler drilling rig"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MR-C 90"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "lh-WhCWMr9I",
+          "title": "Marini Srl - MR-C 90 long reach drill rig (technical info)"
+        }
+      ],
+      "published": true,
+      "navTitle": "Crawlers"
+    },
+    "en": {
+      "title": "Crawlers",
+      "h1": "Crawler rigs",
+      "description": "Tracked drilling rigs from Marini are versatile and powerful machines designed for drilling in challenging terrain. These rigs are used for foundation work…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Crawler rigs: image 2",
+          "width": 1245,
+          "height": 857,
+          "src": "/assets/img/marini-crawlers-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Tracked drilling rigs from Marini are versatile and powerful machines designed for drilling in challenging terrain. These rigs are used for foundation work, slope stabilisation, micropiling and anchoring. Their tracks give excellent mobility on uneven ground and make them ideal for both small and large projects."
+        },
+        {
+          "type": "text",
+          "html": "With the MR-C line, Marini offers hydraulic drilling rigs for drilling with drifters and rotary heads and with the possibility of jet grouting."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Short brochure (ENG)",
+          "href": "/assets/docs/marini-crawlers-kort-broschyr-eng.pdf",
+          "driveId": "1ieWNcqMvkkbHi3IYedIFbdB5CFFLiKLR"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Product catalogue",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        },
+        {
+          "type": "text",
+          "html": "Models such as MR-C 10 and MR-C 15 are compact and powerful enough for smaller projects, while MR-C 90 and MR-C 95 are designed for larger and deeper boreholes, with higher capacity and force. MR-C 30 is the optimal model specially adapted for indoor use."
+        },
+        {
+          "type": "text",
+          "html": "Rigs marked with A after the model number (e.g. MR-C 85A Line) stand for Attachment (or detachable mast), which means the mast can be dismantled for increased flexibility and ease of transport."
+        },
+        {
+          "type": "text",
+          "html": "Rigs marked with P (e.g. MR-C 95P) stand for Power (or Performance, often in reference to extra powerful models). These rigs usually have higher engine power and are designed to handle heavier drilling work and deeper boreholes."
+        },
+        {
+          "type": "text",
+          "html": "The technical specifications of the rigs are summarised in the table below."
+        },
+        {
+          "type": "text",
+          "html": "MR - C 95"
+        },
+        {
+          "type": "image",
+          "alt": "Crawler rigs: image 3",
+          "width": 1879,
+          "height": 984,
+          "src": "/assets/img/marini-crawlers-3.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Technical specifications"
+        },
+        {
+          "type": "table",
+          "header": true,
+          "rows": [
+            [
+              "Model",
+              "Pullback/Feed Force (kN)",
+              "Engine Power (kW)",
+              "Horsepower (hp)",
+              "Weight (kg)",
+              "Mast Stroke (mm)",
+              "Rotary Torque (Nm)",
+              "Rotary Speed (rpm)",
+              "Clamp Range (mm)"
+            ],
+            [
+              "MR-C 10",
+              "15",
+              "17",
+              "23",
+              "1300",
+              "1260 - 1760",
+              "350",
+              "40",
+              "25 - 188"
+            ],
+            [
+              "MR-C 15",
+              "25",
+              "17",
+              "23",
+              "1500",
+              "1260 - 1760",
+              "350",
+              "40",
+              "25 - 188"
+            ],
+            [
+              "MR-C 20",
+              "25",
+              "22",
+              "30",
+              "3100",
+              "1300 - 1800",
+              "500",
+              "40 - 80",
+              "25 - 188"
+            ],
+            [
+              "MR-C 20P",
+              "35",
+              "33",
+              "45",
+              "3800",
+              "1300 - 1800",
+              "500",
+              "40 - 80",
+              "25 - 230"
+            ],
+            [
+              "MR-C 30",
+              "35",
+              "33-55",
+              "45-75",
+              "6615",
+              "1200 - 2200",
+              "500 - 1000",
+              "40 - 90",
+              "25 - 310"
+            ],
+            [
+              "MR-C 35A",
+              "25",
+              "55",
+              "75",
+              "6500",
+              "1800 - 3500",
+              "500",
+              "40 - 80",
+              "25 - 188"
+            ],
+            [
+              "MR-C 35",
+              "35",
+              "55",
+              "75",
+              "7000",
+              "1800 - 3300",
+              "1000",
+              "40 - 90",
+              "25 - 310"
+            ],
+            [
+              "MR-C 50",
+              "50",
+              "85-103",
+              "115-140",
+              "9000",
+              "1800 - 3500",
+              "1350",
+              "45 - 160",
+              "25 - 310"
+            ],
+            [
+              "MR-C 80",
+              "25",
+              "85",
+              "115",
+              "11000",
+              "1800 - 3500",
+              "500",
+              "40 - 80",
+              "25 - 188"
+            ],
+            [
+              "MR-C 85A",
+              "35",
+              "85",
+              "115",
+              "11800",
+              "1800 - 3500",
+              "1000",
+              "40 - 90",
+              "25 - 230"
+            ],
+            [
+              "MR-C 85",
+              "35",
+              "85",
+              "115",
+              "11500",
+              "1800 - 3500",
+              "1000",
+              "40 - 90",
+              "25 - 230"
+            ],
+            [
+              "MR-C 90",
+              "60",
+              "103-115",
+              "140-154",
+              "14500",
+              "1800 - 3500",
+              "1600",
+              "40 - 160",
+              "25 - 330"
+            ],
+            [
+              "MR-C 95",
+              "80",
+              "103-115",
+              "140-154",
+              "22000",
+              "2500 - 7500",
+              "2400",
+              "40 - 140",
+              "70 - 420"
+            ],
+            [
+              "MR-C 95P",
+              "80",
+              "128",
+              "175",
+              "24000",
+              "2500 - 7500",
+              "2400",
+              "40 - 140",
+              "70 - 520"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MR-C 20"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "5y1Mfj7Iy6E",
+          "title": "Marini Srl - MR-C 20 crawler drilling rig"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MR-C 90"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "lh-WhCWMr9I",
+          "title": "Marini Srl - MR-C 90 long reach drill rig (technical info)"
+        }
+      ],
+      "published": true
+    }
+  }
+}

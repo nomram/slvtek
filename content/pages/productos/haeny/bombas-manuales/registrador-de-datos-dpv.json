@@ -1,0 +1,122 @@
+{
+  "path": "/productos/haeny/bombas-manuales/registrador-de-datos-dpv",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 2,
+  "published": false,
+  "hero": {
+    "image": "/assets/img/haeny-manuella-pumpar-dataloggare-dpv-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Registrador de datos (DPV)",
+      "h1": "Registrador de datos (DPV)",
+      "description": "DPV-H: pantalla y control sencillo de caudal, presión y volumen de Jean-Lutz",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Registrador de datos (DPV)",
+          "width": 876,
+          "height": 510,
+          "src": "/assets/img/haeny-automatiska-pumpar-1.webp",
+          "href": "/productos/haeny"
+        },
+        {
+          "type": "image",
+          "alt": "Registrador de datos (DPV), imagen 2",
+          "width": 504,
+          "height": 495,
+          "src": "/assets/img/haeny-manuella-pumpar-dataloggare-dpv-2.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Registrador de datos DPV-H"
+        },
+        {
+          "type": "text",
+          "html": "DPV-H: pantalla y control sencillo de caudal, presión y volumen de Jean-Lutz"
+        },
+        {
+          "type": "text",
+          "html": "Mostrar y supervisar de forma continua los parámetros clave suele ser esencial para garantizar un funcionamiento correcto en las fases críticas."
+        },
+        {
+          "type": "text",
+          "html": "Robusto y fácil de leer, con una interfaz actualizada y fácil de usar, el DPV-H es una solución eficiente y sencilla para visualizar y controlar la presión, el caudal y el volumen."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Interfaz sencilla y fácil de usar",
+            "Muestra presión, caudal y volumen",
+            "Control de la presión y el caudal según valores programados",
+            "Registro de datos (USB)",
+            "Conexión inalámbrica (Bluetooth) posible con un Dialog para control avanzado"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Data logger (DPV)",
+      "h1": "Data logger (DPV)",
+      "description": "DPV-H: display and simple control of flow, pressure and volume from Jean-Lutz",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Data logger (DPV)",
+          "width": 876,
+          "height": 510,
+          "src": "/assets/img/haeny-automatiska-pumpar-1.webp",
+          "href": "/productos/haeny"
+        },
+        {
+          "type": "image",
+          "alt": "Data logger (DPV): image 2",
+          "width": 504,
+          "height": 495,
+          "src": "/assets/img/haeny-manuella-pumpar-dataloggare-dpv-2.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "DPV-H data logger"
+        },
+        {
+          "type": "text",
+          "html": "DPV-H: display and simple control of flow, pressure and volume from Jean-Lutz"
+        },
+        {
+          "type": "text",
+          "html": "Displaying and continuously monitoring key parameters is often crucial for ensuring correct operation during critical phases."
+        },
+        {
+          "type": "text",
+          "html": "Robust and easy to read, with an updated and user-friendly interface, the DPV-H is an efficient and easy-to-use solution for displaying and controlling pressure, flow and volume."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Simple and user-friendly interface",
+            "Displays pressure, flow and volume",
+            "Control of pressure and flow according to scheduled values",
+            "Data recording/logging (USB)",
+            "Wireless connection (Bluetooth) possible with a Dialog for advanced control"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        }
+      ],
+      "published": true
+    }
+  }
+}

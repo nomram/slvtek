@@ -1,0 +1,162 @@
+{
+  "path": "/productos/marini/sierras-de-hilo",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 4,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-vajersagar-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Sierras de hilo",
+      "h1": "Sierras de hilo",
+      "description": "Marini ofrece una amplia gama de sierras de hilo para diferentes tipos de trabajos de cantera y roca.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logotipo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Sierras de hilo: imagen 2",
+          "width": 1920,
+          "height": 1369,
+          "src": "/assets/img/marini-vajersagar-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Marini ofrece una amplia gama de sierras de hilo para diferentes tipos de trabajos de cantera y roca."
+        },
+        {
+          "type": "text",
+          "html": "Para granito y piedras más duras, Marini ofrece máquinas con velocidad de hilo variable controlada mediante un inversor. Estas máquinas están adaptadas para trabajar materiales pétreos más duros y se utilizan tanto para cortes verticales como horizontales. Las máquinas se posicionan fácilmente y tienen una alta precisión gracias al control electrónico de la velocidad del hilo. Las máquinas con velocidad de hilo variable se designan con GRAN en el nombre del modelo."
+        },
+        {
+          "type": "text",
+          "html": "Para mármol y piedras más blandas similares en canteras se utilizan sierras de hilo con velocidad de hilo fija, como las sierras con la designación MAR en el nombre, por ejemplo: MAR FIL SUPER SP, que tiene motores de 75 o 100 caballos de potencia. Estas máquinas son ideales para cortes precisos con tensión uniforme del hilo y pueden trabajar sobre superficies inclinadas y en cortes horizontales cerca del nivel del suelo."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para obtener un folleto y más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto breve (ENG)",
+          "href": "/assets/docs/marini-vajersagar-kort-broschyr-eng.pdf",
+          "driveId": "1kL3YEuXhsDzFBRVB-3NPTbnwzCbd5uwq"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Catálogo de productos (ENG)",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Gran Fil Super Electronic 75 Hp"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "SGpf3tV2n1c",
+          "title": "Marini Quarries Group - Gran Fil Super Electronic 75 Hp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MR-T Line"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "UD-XGmg1clk",
+          "title": "Marini Quarries Group - MR-T Line"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Wire saws",
+      "h1": "Wire saws",
+      "description": "Marini offers a wide range of wire saws for different types of quarry and rock work.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Wire saws: image 2",
+          "width": 1920,
+          "height": 1369,
+          "src": "/assets/img/marini-vajersagar-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Marini offers a wide range of wire saws for different types of quarry and rock work."
+        },
+        {
+          "type": "text",
+          "html": "For granite and harder stones, Marini offers machines with variable wire speed controlled by an inverter. These machines are adapted to handle tougher stone materials and are used for both vertical and horizontal cuts. The machines can be easily positioned and have high precision thanks to electronic control of the wire speed. Machines with variable wire speed are designated GRAN in the model name."
+        },
+        {
+          "type": "text",
+          "html": "For marble and similar softer stones in quarries, wire saws with fixed wire speed are used, such as saws designated MAR in the name, for example: MAR FIL SUPER SP, which has motors of 75 or 100 horsepower. These machines are ideal for precise cuts with even wire tension, and they can work on sloping surfaces and horizontal cuts near ground level."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for a brochure and more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Short brochure (ENG)",
+          "href": "/assets/docs/marini-vajersagar-kort-broschyr-eng.pdf",
+          "driveId": "1kL3YEuXhsDzFBRVB-3NPTbnwzCbd5uwq"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Product catalogue (ENG)",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Gran Fil Super Electronic 75 Hp"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "SGpf3tV2n1c",
+          "title": "Marini Quarries Group - Gran Fil Super Electronic 75 Hp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MR-T Line"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "UD-XGmg1clk",
+          "title": "Marini Quarries Group - MR-T Line"
+        }
+      ],
+      "published": true
+    }
+  }
+}

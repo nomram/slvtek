@@ -1,0 +1,81 @@
+{
+  "path": "/productos/reed",
+  "updated": "2026-10-10",
+  "template": "brand",
+  "order": 10,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/reed-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "REED",
+      "h1": "REED",
+      "description": "REED está especializada en bombas de hormigón y equipos de hormigón proyectado para proyectos europeos exigentes de construcción, túneles, minería y refuerzo de roca. Para…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "REED",
+          "width": 1920,
+          "height": 1073,
+          "src": "/assets/img/reed-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "REED está especializada en bombas de hormigón y equipos de hormigón proyectado para proyectos europeos exigentes de construcción, túneles, minería y refuerzo de roca. Para el proyectado por vía seca ofrece las máquinas de gunitado Guncrete, de las que <a href=\"/productos/reed/sove\">SOVE</a> es el modelo estrella de la gama, con alimentación uniforme del material, bajo rebote y alta fiabilidad en producción continua. Las máquinas pueden adaptarse para piscinas, túneles en roca, avance en minería, refuerzo de taludes y muros de contención y trabajos de reparación avanzados. La gama se completa con la mezcladora de platos M2200 y diversas mezcladoras elevadoras para cargas pesadas de aproximadamente 1,0-1,4 toneladas por amasada, así como soluciones de inyección basadas en las bombas de alta presión de las series B y C, que cubren desde inyecciones y micropilotes hasta hormigón proyectado por vía húmeda con curvas granulométricas y dosificaciones europeas."
+        },
+        {
+          "type": "text",
+          "html": "Eche un vistazo a su sitio web a continuación o <a href=\"/contacto\">contáctenos</a> para más información."
+        },
+        {
+          "type": "text",
+          "html": "Eche también un vistazo a su modelo estrella: <a href=\"/productos/reed/sove\">SOVE</a>, proyectora compacta por vía seca con motor auxiliar eléctrico."
+        },
+        {
+          "type": "button",
+          "kind": "link",
+          "text": "Leer más",
+          "href": "https://www.reedpumps.com/",
+          "external": true
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "REED",
+      "h1": "REED",
+      "description": "REED specialises in concrete pumps and shotcrete equipment for demanding European projects in construction, tunnels, mining and rock reinforcement. For…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "REED",
+          "width": 1920,
+          "height": 1073,
+          "src": "/assets/img/reed-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "REED specialises in concrete pumps and shotcrete equipment for demanding European projects in construction, tunnels, mining and rock reinforcement. For dry-mix spraying they offer the Guncrete gunite machines, where <a href=\"/productos/reed/sove\">SOVE</a> is the flagship of the range with even material feeding, low rebound and high operational reliability in continuous production. The machines can be adapted for pools, rock tunnels, mine drifting, slope and retaining-wall reinforcement and advanced repair work. The range is complemented by the M2200 pan mixer and various lift mixers for heavy batches of about 1.0-1.4 tonnes per batch, as well as grout solutions based on the B and C series high-pressure pumps that cover everything from grouting and micropiles to wet-sprayed shotcrete with European grading curves and recipes."
+        },
+        {
+          "type": "text",
+          "html": "Take a look at their website below or <a href=\"/contacto\">contact us</a> for more information."
+        },
+        {
+          "type": "text",
+          "html": "Also take a look at their flagship: <a href=\"/productos/reed/sove\">SOVE</a>, compact dry-mix sprayer with an electric auxiliary motor."
+        },
+        {
+          "type": "button",
+          "kind": "link",
+          "text": "Read more",
+          "href": "https://www.reedpumps.com/",
+          "external": true
+        }
+      ],
+      "published": true
+    }
+  },
+  "logo": "/assets/img/logo-reed.webp"
+}

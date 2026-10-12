@@ -1,0 +1,132 @@
+{
+  "path": "/productos/marini/giraffa",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 5,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-giraffa-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "GIRAFFA",
+      "h1": "GIRAFFA",
+      "description": "El GIRAFFA 360° HV es un equipo de perforación hidráulico móvil y de control remoto de Marini, diseñado especialmente para la perforación vertical y horizontal en todo tipo de…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logotipo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "GIRAFFA: imagen 2",
+          "width": 1920,
+          "height": 2220,
+          "src": "/assets/img/marini-giraffa-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "El GIRAFFA 360° HV es un equipo de perforación hidráulico móvil y de control remoto de Marini, diseñado especialmente para la perforación vertical y horizontal en todo tipo de superficies inclinadas. Se utiliza principalmente para el escuadrado de bloques y la perforación de bancos, con una agilidad y eficiencia superiores."
+        },
+        {
+          "type": "text",
+          "html": "Con un potente motor de 110 kW y dos cabezales de perforación giratorios, ofrece una alta productividad y bajos costes de consumo energético, lo que la convierte en una solución rentable para canteras. La máquina puede adaptarse a distintas necesidades específicas y pesa 29 000 kg."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto breve (ENG)",
+          "href": "/assets/docs/marini-broschyr-stenbrott-sv.pdf",
+          "driveId": "10EjXyLpVSTh4RGNbGmudQ7sdDhKMxp98"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Catálogo de productos (ENG)",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "GIRAFFA 360° HV"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "EOnPYCEFl-w",
+          "title": "Marini Srl - GIRAFFA 360° HV hydraulic quarry drill"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "GIRAFFA",
+      "h1": "GIRAFFA",
+      "description": "GIRAFFA 360° HV is a mobile, remote-controlled hydraulic drilling rig from Marini, specially designed for both vertical and horizontal drilling on all types of…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "GIRAFFA: image 2",
+          "width": 1920,
+          "height": 2220,
+          "src": "/assets/img/marini-giraffa-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "GIRAFFA 360° HV is a mobile, remote-controlled hydraulic drilling rig from Marini, specially designed for both vertical and horizontal drilling on all types of sloping surfaces. It is used mainly for block squaring and bench drilling with superior agility and efficiency."
+        },
+        {
+          "type": "text",
+          "html": "With a powerful 110 kW engine and two rotating drill heads, it offers high productivity and low energy consumption costs, making it a cost-effective solution for quarries. The machine can be adapted to different specific needs and weighs 29,000 kg."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Short brochure (ENG)",
+          "href": "/assets/docs/marini-broschyr-stenbrott-sv.pdf",
+          "driveId": "10EjXyLpVSTh4RGNbGmudQ7sdDhKMxp98"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Product catalogue (ENG)",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "GIRAFFA 360° HV"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "EOnPYCEFl-w",
+          "title": "Marini Srl - GIRAFFA 360° HV hydraulic quarry drill"
+        }
+      ],
+      "published": true
+    }
+  }
+}

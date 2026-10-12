@@ -1,0 +1,230 @@
+{
+  "path": "/productos/tei/martillos-perforadores/te160",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 0,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hem-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "TE160",
+      "h1": "TE160",
+      "description": "TE160: martillo perforador hidráulico de alto par; compatible con la mayoría de equipos de anclaje de tamaño medio; percusión ASA patentada por TEI; potencia de salida: 9 kW; par de rotación: 144…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "TE160: imagen 2",
+          "width": 1876,
+          "height": 1152,
+          "src": "/assets/img/tei-topphammare-te160-2.webp"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Martillo perforador hidráulico de alto par",
+            "Compatible con la mayoría de equipos de anclaje de tamaño medio",
+            "Percusión ASA patentada por TEI",
+            "Potencia de salida: 9 kW",
+            "Par de rotación: 144 Nm",
+            "Peso: 48 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Datos técnicos",
+          "tagline": "Martillo perforador hidráulico",
+          "intro": [
+            "El TE160 incorpora nuestra tecnología ASA patentada (Automatic Stroke Adjustment, ajuste automático de carrera) como parte del sistema de percusión. La alta frecuencia y el funcionamiento suave del sistema ASA prolongan la vida útil del martillo perforador, lo que se traduce en mayor productividad y rentabilidad. Dos modos de potencia permiten controlar con precisión la energía y la frecuencia del sistema de percusión.",
+            "Los motores de rotación reversibles permiten una perforación eficaz y reducen el riesgo de que la sarta se atasque. El perfil bajo permite perforar junto a paredes y acceder a espacios estrechos. El tamaño compacto y la alta relación potencia-peso hacen que las perforadoras de TEI sean únicas en el mercado."
+          ],
+          "groups": [
+            {
+              "title": "Rotación",
+              "rows": [
+                {
+                  "label": "Par de rotación",
+                  "metric": "144 Nm",
+                  "us": "106 lbf-ft"
+                },
+                {
+                  "label": "Caudal de rotación",
+                  "metric": "23 - 27 lpm",
+                  "us": "6 - 7 gpm"
+                },
+                {
+                  "label": "Presión de rotación",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Peso",
+                  "metric": "48 kg",
+                  "us": "105 lb"
+                },
+                {
+                  "label": "Velocidad",
+                  "metric": "300 rpm",
+                  "us": "300 rpm"
+                }
+              ]
+            },
+            {
+              "title": "Percusión",
+              "rows": [
+                {
+                  "label": "Potencia de salida",
+                  "metric": "9 kW",
+                  "us": "12 hp"
+                },
+                {
+                  "label": "Caudal del martillo",
+                  "metric": "61 lpm",
+                  "us": "16 gpm"
+                },
+                {
+                  "label": "Presión del martillo",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Frecuencia de golpeo",
+                  "metric": "110 Hz",
+                  "us": "6600 bpm"
+                }
+              ]
+            }
+          ],
+          "note": "Las especificaciones técnicas de TEI suponen una pérdida de potencia hidráulica del 40 %."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Ficha de producto",
+          "href": "/assets/docs/tei-topphammare-te160-broschyr-eng.pdf",
+          "driveId": "16wFGfLM-1JL39-VqGhFb0_J4M1CjvW3n"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "TE160",
+      "h1": "TE160",
+      "description": "TE160: High-torque hydraulic drifter; Fits most medium-sized anchor rigs; TEI patented ASA percussion; Output power: 9 kW; Rotation torque: 144…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "TE160: image 2",
+          "width": 1876,
+          "height": 1152,
+          "src": "/assets/img/tei-topphammare-te160-2.webp"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "High-torque hydraulic drifter",
+            "Fits most medium-sized anchor rigs",
+            "TEI patented ASA percussion",
+            "Output power: 9 kW",
+            "Rotation torque: 144 Nm",
+            "Weight: 48 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Technical data",
+          "tagline": "Hydraulic drifter",
+          "intro": [
+            "TE160 has our patented ASA technology (Automatic Stroke Adjustment) as part of the percussion system. The high frequency and smooth operation of the ASA system extend the drifter’s service life, giving higher productivity and better profitability. Two power modes give precise control of the energy and frequency of the percussion system.",
+            "Reversible rotation motors give effective drilling and reduce the risk of the drill string jamming. The low profile makes it possible to drill next to walls and reach into tight spaces. The compact size and high power-to-weight ratio make TEI’s drills unique on the market."
+          ],
+          "groups": [
+            {
+              "title": "Rotation",
+              "rows": [
+                {
+                  "label": "Rotation torque",
+                  "metric": "144 Nm",
+                  "us": "106 lbf-ft"
+                },
+                {
+                  "label": "Rotation flow",
+                  "metric": "23 - 27 lpm",
+                  "us": "6 - 7 gpm"
+                },
+                {
+                  "label": "Rotation pressure",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Weight",
+                  "metric": "48 kg",
+                  "us": "105 lb"
+                },
+                {
+                  "label": "Speed",
+                  "metric": "300 rpm",
+                  "us": "300 rpm"
+                }
+              ]
+            },
+            {
+              "title": "Percussion",
+              "rows": [
+                {
+                  "label": "Output power",
+                  "metric": "9 kW",
+                  "us": "12 hp"
+                },
+                {
+                  "label": "Hammer flow",
+                  "metric": "61 lpm",
+                  "us": "16 gpm"
+                },
+                {
+                  "label": "Hammer pressure",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Blow frequency",
+                  "metric": "110 Hz",
+                  "us": "6600 bpm"
+                }
+              ]
+            }
+          ],
+          "note": "TEI’s technical specifications assume a 40% hydraulic power loss."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Data sheet",
+          "href": "/assets/docs/tei-topphammare-te160-broschyr-eng.pdf",
+          "driveId": "16wFGfLM-1JL39-VqGhFb0_J4M1CjvW3n"
+        }
+      ],
+      "published": true
+    }
+  }
+}

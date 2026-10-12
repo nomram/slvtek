@@ -1,0 +1,281 @@
+{
+  "path": "/productos/marini/grupos-hidraulicos",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 2,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-powerpacks-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Grupos hidráulicos (powerpacks)",
+      "h1": "Grupos hidráulicos (powerpacks)",
+      "description": "Los powerpacks de Marini son grupos hidráulicos diseñados para accionar equipos de perforación y otra maquinaria pesada en los sectores de la construcción y la obra civil…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logotipo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Grupos hidráulicos (powerpacks), imagen 2",
+          "width": 1920,
+          "height": 937,
+          "src": "/assets/img/marini-powerpacks-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Los powerpacks de Marini son grupos hidráulicos diseñados para accionar equipos de perforación y otra maquinaria pesada en la industria de la construcción y la obra civil. Están construidos para suministrar potencia hidráulica estable en entornos exigentes y son robustos y eficientes. Estos grupos pueden configurarse con distintas opciones de motor (diésel o eléctrico) según las necesidades y condiciones específicas. Consulte la tabla siguiente para ver las especificaciones o descargue el folleto que figura a continuación."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para obtener información más detallada sobre las distintas unidades."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto breve (ENG)",
+          "href": "/assets/docs/marini-powerpacks-kort-broschyr-eng.pdf",
+          "driveId": "19N2p6sed2cnRW1jLZIMamFKpWhUvLI-6"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Catálogo de productos",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Especificaciones técnicas"
+        },
+        {
+          "type": "table",
+          "header": true,
+          "rows": [
+            [
+              "Atributos",
+              "20 - E",
+              "23 - D",
+              "30 - D",
+              "30 - E",
+              "45 - D",
+              "45 - E",
+              "75 - D",
+              "75 - E",
+              "115 - D",
+              "140 - D"
+            ],
+            [
+              "Alimentación",
+              "Eléctrico",
+              "Diésel",
+              "Diésel",
+              "Eléctrico",
+              "Diésel",
+              "Eléctrico",
+              "Diésel",
+              "Eléctrico",
+              "Diésel",
+              "Diésel"
+            ],
+            [
+              "Potencia del motor",
+              "15 kW / 20 hp",
+              "17 kW / 23 hp",
+              "22 kW / 30 hp",
+              "22 kW / 30 hp",
+              "33 kW / 45 hp",
+              "33 kW / 45 hp",
+              "55 kW / 75 hp",
+              "55 kW / 75 hp",
+              "85 kW / 115 hp",
+              "103 kW / 140 hp"
+            ],
+            [
+              "Max. Flow",
+              "40 lpm",
+              "40 lpm",
+              "65 lpm",
+              "65 lpm",
+              "90 lpm",
+              "90 lpm",
+              "160 lpm",
+              "160 lpm",
+              "250 lpm",
+              "270 lpm"
+            ],
+            [
+              "Presión máx.",
+              "180 bar",
+              "180 bar",
+              "200 bar",
+              "200 bar",
+              "200 bar",
+              "200 bar",
+              "200 bar",
+              "200 bar",
+              "250 bar",
+              "250 bar"
+            ],
+            [
+              "Peso",
+              "330 kg",
+              "380 kg",
+              "630 kg",
+              "680 kg",
+              "800 kg",
+              "840 kg",
+              "1.350 kg",
+              "1.410 kg",
+              "1.950 kg",
+              "2.300 kg"
+            ]
+          ]
+        }
+      ],
+      "published": true,
+      "navTitle": "Powerpacks"
+    },
+    "en": {
+      "title": "Powerpacks",
+      "h1": "Powerpacks",
+      "description": "Marini’s power packs are hydraulic power units designed to drive drilling equipment and other heavy machinery in the construction and civil engineering…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Powerpacks: image 2",
+          "width": 1920,
+          "height": 937,
+          "src": "/assets/img/marini-powerpacks-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Marini’s power packs are hydraulic power units designed to drive drilling equipment and other heavy machinery in the construction and civil engineering industry. They are built to deliver stable hydraulic power in demanding environments and are both robust and efficient. These power units can be configured with different engine options, diesel engine or electric motor, depending on specific needs and conditions. See the table below for specifications or download the brochure below."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more detailed information about the different units."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Short brochure (ENG)",
+          "href": "/assets/docs/marini-powerpacks-kort-broschyr-eng.pdf",
+          "driveId": "19N2p6sed2cnRW1jLZIMamFKpWhUvLI-6"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Product catalogue",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Technical specifications"
+        },
+        {
+          "type": "table",
+          "header": true,
+          "rows": [
+            [
+              "Attributes",
+              "20 - E",
+              "23 - D",
+              "30 - D",
+              "30 - E",
+              "45 - D",
+              "45 - E",
+              "75 - D",
+              "75 - E",
+              "115 - D",
+              "140 - D"
+            ],
+            [
+              "Power supply",
+              "Electric",
+              "Diesel",
+              "Diesel",
+              "Electric",
+              "Diesel",
+              "Electric",
+              "Diesel",
+              "Electric",
+              "Diesel",
+              "Diesel"
+            ],
+            [
+              "Engine power",
+              "15 kW / 20 hp",
+              "17 kW / 23 hp",
+              "22 kW / 30 hp",
+              "22 kW / 30 hp",
+              "33 kW / 45 hp",
+              "33 kW / 45 hp",
+              "55 kW / 75 hp",
+              "55 kW / 75 hp",
+              "85 kW / 115 hp",
+              "103 kW / 140 hp"
+            ],
+            [
+              "Max. Flow",
+              "40 lpm",
+              "40 lpm",
+              "65 lpm",
+              "65 lpm",
+              "90 lpm",
+              "90 lpm",
+              "160 lpm",
+              "160 lpm",
+              "250 lpm",
+              "270 lpm"
+            ],
+            [
+              "Max. pressure",
+              "180 bar",
+              "180 bar",
+              "200 bar",
+              "200 bar",
+              "200 bar",
+              "200 bar",
+              "200 bar",
+              "200 bar",
+              "250 bar",
+              "250 bar"
+            ],
+            [
+              "Weight",
+              "330 kg",
+              "380 kg",
+              "630 kg",
+              "680 kg",
+              "800 kg",
+              "840 kg",
+              "1.350 kg",
+              "1.410 kg",
+              "1.950 kg",
+              "2.300 kg"
+            ]
+          ]
+        }
+      ],
+      "published": true
+    }
+  }
+}

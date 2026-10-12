@@ -1,0 +1,468 @@
+{
+  "path": "/productos/haeny/bombas-manuales",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 0,
+  "published": false,
+  "hero": {
+    "image": "/assets/img/haeny-manuella-pumpar-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Bombas manuales",
+      "h1": "Häny: Bombas de hormigón manuales (IC)",
+      "description": "Existen varias variantes manuales según el volumen y la presión necesarios. Las unidades compactas IC310, IC311 e IC325 son las más vendidas. El nombre del modelo ofrece una pista…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Häny: Bombas de hormigón manuales (IC)",
+          "width": 876,
+          "height": 510,
+          "src": "/assets/img/haeny-automatiska-pumpar-1.webp",
+          "href": "/productos/haeny"
+        },
+        {
+          "type": "image",
+          "alt": "Häny: Bombas de hormigón manuales (IC), imagen 2",
+          "width": 1920,
+          "height": 1315,
+          "src": "/assets/img/haeny-manuella-pumpar-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Existen varias variantes manuales según el volumen y la presión necesarios. Las unidades compactas IC310, IC311 e IC325 son las más vendidas. El nombre del modelo ofrece una pista sobre el volumen total de la mezcladora y el agitador, y la última cifra indica el tipo de bomba de pistón (ZMP) utilizado. El IC310 tiene una presión de trabajo algo mayor que el IC311, mientras que el IC311 es algo más económico. En el IC311 la presión máxima es de 75 bar en lugar de los 100 bar del IC310, pero tiene un caudal mayor, de 2 m³/hora."
+        },
+        {
+          "type": "text",
+          "html": "La variante <a href=\"/productos/haeny/bombas-manuales/ic-325-ic325-ccp\">IC325</a>, a diferencia del IC310, tiene dos bombas de pistón, lo que proporciona un caudal más uniforme. La presión máxima es de 100 bar y el caudal máximo de 2 m³/hora. Este modelo también puede combinarse con un módulo para inyección de PU."
+        },
+        {
+          "type": "text",
+          "html": "A continuación se muestran los gráficos de caudal de cada bomba. Haga clic en la bomba que le interese para acceder al folleto y obtener más información sobre ella."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para obtener más información."
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "columns": 3,
+          "more": false,
+          "items": [
+            {
+              "title": "IC310",
+              "image": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311.webp",
+              "alt": "IC310",
+              "href": "/productos/haeny/bombas-manuales/ic-310-ic-311",
+              "bullets": [
+                "Presión máx.: 100 bar",
+                "Caudal máx.: 1,5 m³/hora"
+              ]
+            },
+            {
+              "title": "IC311",
+              "image": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311.webp",
+              "alt": "IC311",
+              "href": "/productos/haeny/bombas-manuales/ic-310-ic-311",
+              "bullets": [
+                "Presión máx.: 75 bar",
+                "Caudal máx.: 2 m³/hora"
+              ]
+            },
+            {
+              "title": "IC325",
+              "image": "/assets/img/haeny-manuella-pumpar-ic-325-ic325-ccp.webp",
+              "alt": "IC325",
+              "href": "/productos/haeny/bombas-manuales/ic-325-ic325-ccp",
+              "bullets": [
+                "Presión máx.: 100 bar",
+                "Caudal máx.: 2 m³/hora"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "columns": 3,
+          "more": false,
+          "items": [
+            {
+              "image": "/assets/img/haeny-manuella-pumpar-6.webp",
+              "alt": "Häny: Bombas de hormigón manuales (IC), imagen 6"
+            },
+            {
+              "image": "/assets/img/haeny-manuella-pumpar-7.webp",
+              "alt": "Häny: Bombas de hormigón manuales (IC), imagen 7"
+            },
+            {
+              "image": "/assets/img/haeny-manuella-pumpar-8.webp",
+              "alt": "Häny: Bombas de hormigón manuales (IC), imagen 8"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Existen varias variantes de bombas además de estas tres. A continuación se indican las especificaciones de las bombas en forma de tabla. <a href=\"/contacto\">Contáctenos</a> si tiene algún deseo o duda."
+        },
+        {
+          "type": "table",
+          "header": false,
+          "align": "center",
+          "groups": [
+            {
+              "text": "Model IC",
+              "span": 2
+            },
+            {
+              "text": "310",
+              "span": 1
+            },
+            {
+              "text": "311",
+              "span": 1
+            },
+            {
+              "text": "325",
+              "span": 1
+            },
+            {
+              "text": "650",
+              "span": 3
+            },
+            {
+              "text": "1100",
+              "span": 4
+            },
+            {
+              "text": "1400",
+              "span": 4
+            }
+          ],
+          "rows": [
+            [
+              "Configuración",
+              "HCM/HRW",
+              "100/150",
+              "100/150",
+              "100/150",
+              "300/350",
+              "300/350",
+              "300/350",
+              "300/800",
+              "300/800",
+              "300/800",
+              "300/800",
+              "600/800",
+              "600/800",
+              "600/800",
+              "600/800"
+            ],
+            [
+              "Bomba de inyección",
+              "ZMP",
+              "610",
+              "611",
+              "625",
+              "710",
+              "712",
+              "725",
+              "710",
+              "712",
+              "725",
+              "726",
+              "710",
+              "712",
+              "725",
+              "726"
+            ],
+            [
+              "Capacidad máx.",
+              "m³/h",
+              "1.5",
+              "2.0",
+              "2.0",
+              "5.0",
+              "4.9",
+              "5.0",
+              "5.0",
+              "4.9",
+              "5.0",
+              "5.0",
+              "7.5",
+              "4.9",
+              "8.0",
+              "8.0"
+            ],
+            [
+              "Presión máx.",
+              "bar",
+              "100",
+              "75",
+              "100",
+              "100",
+              "88",
+              "100",
+              "100",
+              "88",
+              "100",
+              "100",
+              "100",
+              "88",
+              "100",
+              "100"
+            ],
+            [
+              "Potencia nominal",
+              "kW",
+              "9.1",
+              "9.1",
+              "9.1",
+              "17.5",
+              "17.5",
+              "19.0",
+              "17.5",
+              "17.5",
+              "19.0",
+              "39.8",
+              "17.5",
+              "17.5",
+              "19.0",
+              "39.8"
+            ]
+          ]
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Manual pumps",
+      "h1": "Häny: Manual concrete pumps (IC)",
+      "description": "There are several manual variants depending on volume and pressure requirements. The compact IC310, IC311 and IC325 units are best sellers. The model name gives a hint…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Häny: Manual concrete pumps (IC)",
+          "width": 876,
+          "height": 510,
+          "src": "/assets/img/haeny-automatiska-pumpar-1.webp",
+          "href": "/productos/haeny"
+        },
+        {
+          "type": "image",
+          "alt": "Häny: Manual concrete pumps (IC), image 2",
+          "width": 1920,
+          "height": 1315,
+          "src": "/assets/img/haeny-manuella-pumpar-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "There are several manual variants depending on volume and pressure requirements. The compact IC310, IC311 and IC325 units are best sellers. The model name gives a hint about the total volume of mixer and agitator, and the last digit indicates which type of piston pump (ZMP) is used. IC310 has a slightly higher working pressure than IC311, while IC311 is a little cheaper. On the IC311 the maximum pressure is 75 bar instead of 100 bar as on the IC310, but it has a higher flow of 2 m³/hour."
+        },
+        {
+          "type": "text",
+          "html": "The <a href=\"/productos/haeny/bombas-manuales/ic-325-ic325-ccp\">IC325</a> variant, unlike the IC310, has two piston pumps, which gives a smoother flow. The maximum pressure is 100 bar and the maximum flow is 2 m³/hour. This model can also be combined with a module for PU injection."
+        },
+        {
+          "type": "text",
+          "html": "Below are the pump flow graphs for each pump. Click the pump of interest to go to the brochure and get more information about the pump."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for further information."
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "columns": 3,
+          "more": false,
+          "items": [
+            {
+              "title": "IC310",
+              "image": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311.webp",
+              "alt": "IC310",
+              "href": "/productos/haeny/bombas-manuales/ic-310-ic-311",
+              "bullets": [
+                "Max. pressure: 100 bar",
+                "Max flow: 1.5 m³/hour"
+              ]
+            },
+            {
+              "title": "IC311",
+              "image": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311.webp",
+              "alt": "IC311",
+              "href": "/productos/haeny/bombas-manuales/ic-310-ic-311",
+              "bullets": [
+                "Max pressure: 75 bar",
+                "Max flow: 2 m³/hour"
+              ]
+            },
+            {
+              "title": "IC325",
+              "image": "/assets/img/haeny-manuella-pumpar-ic-325-ic325-ccp.webp",
+              "alt": "IC325",
+              "href": "/productos/haeny/bombas-manuales/ic-325-ic325-ccp",
+              "bullets": [
+                "Max. pressure: 100 bar",
+                "Max flow: 2 m³/hour"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "columns": 3,
+          "more": false,
+          "items": [
+            {
+              "image": "/assets/img/haeny-manuella-pumpar-6.webp",
+              "alt": "Häny: Manual concrete pumps (IC), image 6"
+            },
+            {
+              "image": "/assets/img/haeny-manuella-pumpar-7.webp",
+              "alt": "Häny: Manual concrete pumps (IC), image 7"
+            },
+            {
+              "image": "/assets/img/haeny-manuella-pumpar-8.webp",
+              "alt": "Häny: Manual concrete pumps (IC), image 8"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "html": "There are several pump variants beyond these three. The pump specifications are given in table form below. <a href=\"/contacto\">Contact us</a> if you have any wishes or questions."
+        },
+        {
+          "type": "table",
+          "header": false,
+          "align": "center",
+          "groups": [
+            {
+              "text": "Model IC",
+              "span": 2
+            },
+            {
+              "text": "310",
+              "span": 1
+            },
+            {
+              "text": "311",
+              "span": 1
+            },
+            {
+              "text": "325",
+              "span": 1
+            },
+            {
+              "text": "650",
+              "span": 3
+            },
+            {
+              "text": "1100",
+              "span": 4
+            },
+            {
+              "text": "1400",
+              "span": 4
+            }
+          ],
+          "rows": [
+            [
+              "Configuration",
+              "HCM/HRW",
+              "100/150",
+              "100/150",
+              "100/150",
+              "300/350",
+              "300/350",
+              "300/350",
+              "300/800",
+              "300/800",
+              "300/800",
+              "300/800",
+              "600/800",
+              "600/800",
+              "600/800",
+              "600/800"
+            ],
+            [
+              "Grout pump",
+              "ZMP",
+              "610",
+              "611",
+              "625",
+              "710",
+              "712",
+              "725",
+              "710",
+              "712",
+              "725",
+              "726",
+              "710",
+              "712",
+              "725",
+              "726"
+            ],
+            [
+              "Max. capacity",
+              "m³/h",
+              "1.5",
+              "2.0",
+              "2.0",
+              "5.0",
+              "4.9",
+              "5.0",
+              "5.0",
+              "4.9",
+              "5.0",
+              "5.0",
+              "7.5",
+              "4.9",
+              "8.0",
+              "8.0"
+            ],
+            [
+              "Max. pressure",
+              "bar",
+              "100",
+              "75",
+              "100",
+              "100",
+              "88",
+              "100",
+              "100",
+              "88",
+              "100",
+              "100",
+              "100",
+              "88",
+              "100",
+              "100"
+            ],
+            [
+              "Nominal power",
+              "kW",
+              "9.1",
+              "9.1",
+              "9.1",
+              "17.5",
+              "17.5",
+              "19.0",
+              "17.5",
+              "17.5",
+              "19.0",
+              "39.8",
+              "17.5",
+              "17.5",
+              "19.0",
+              "39.8"
+            ]
+          ]
+        }
+      ],
+      "published": true
+    }
+  }
+}

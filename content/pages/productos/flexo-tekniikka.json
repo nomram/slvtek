@@ -1,0 +1,171 @@
+{
+  "path": "/productos/flexo-tekniikka",
+  "updated": "2026-10-10",
+  "template": "brand",
+  "order": 13,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/flexo-tekniikka-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Flexo-Tekniikka",
+      "h1": "Flexo-Tekniikka",
+      "description": "Flexo-Tekniikka es un fabricante nórdico de grupos hidráulicos (HPU) de alta calidad a medida para aplicaciones industriales y móviles…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Flexo-Tekniikka",
+          "width": 527,
+          "height": 474,
+          "src": "/assets/img/flexo-tekniikka-1.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Flexo-Tekniikka: imagen 2",
+          "width": 663,
+          "height": 537,
+          "src": "/assets/img/flexo-tekniikka-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Flexo-Tekniikka es un fabricante nórdico de grupos hidráulicos (HPU) de alta calidad a medida para aplicaciones industriales y móviles. <a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "text",
+          "html": "A su lado puede verse el grupo hidráulico diésel FPU D56."
+        },
+        {
+          "type": "text",
+          "html": "Flexo FPU D56 es un grupo hidráulico diésel de 55,4 kW, integrado en un bastidor de elevación de acero protector con paneles laterales y tapa superior de aluminio. La unidad está equipada con una válvula proporcional para el control simultáneo de todos los circuitos hidráulicos y dispone de sistemas de seguridad integrados que apagan automáticamente la máquina ante niveles críticos de presión o temperatura."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Motor: Kohler KDI 2504TCR de 4 cilindros refrigerado por agua.",
+            "Potencia: 55,4 kW a un máximo de 2100 rpm.",
+            "Clasificación medioambiental: cumple los requisitos de emisiones de la fase V de la UE (STAGE V).",
+            "Caudal hidráulico: máx. 155 litros/minuto, opcional 15-50 l/min.",
+            "Presión hidráulica: máx. 260 bar, opcionalmente máx. 320 bar con bomba lateral.",
+            "Peso: 750 kg en seco, aprox. 1 tonelada en húmedo",
+            "Dimensiones L x An x Al: 1510 mm x 1030 mm x 1320 mm."
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Otras especificaciones:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Depósito de combustible: 80 litros de diésel.",
+            "Depósito de aceite hidráulico: 160 litros.",
+            "Bomba hidráulica: Danfoss JRR 75C.",
+            "Válvula de control: válvula proporcional Danfoss PVG 100/32.",
+            "Circuitos hidráulicos: 3 de serie, pero pueden elegirse de 1 a 4 como opción.",
+            "Refrigeración: equipado con un enfriador de aceite hidráulico con control de temperatura.",
+            "Sistema eléctrico: arranque eléctrico con batería de 12 V 110 Ah.",
+            "Interfaz de usuario: pantalla digital que muestra el régimen del motor, la temperatura del refrigerante, el par y las horas de funcionamiento y de servicio. También hay indicadores visuales del nivel de diésel y de aceite hidráulico.",
+            "Sistema de seguridad: la parada automática se activa con baja presión de aceite, temperatura elevada del motor, nivel bajo de aceite hidráulico o temperatura elevada del aceite hidráulico.",
+            "Conexiones: TEMA 3800-5000-7500/10000 macho/hembra y 2 x ISO 7241-1-A de 3/8 pulgadas para drenaje.",
+            "Tratamiento de superficie: pintura en polvo con un método de pintado resistente a la corrosión."
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Puede <a href=\"/contacto\">contactarnos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto",
+          "href": "/assets/docs/flexo-tekniikka-visa-broschyr.pdf",
+          "driveId": "1SyxogGWU40KcTLBXZ2TGZnUySxiNVCr-"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Flexo-Tekniikka",
+      "h1": "Flexo-Tekniikka",
+      "description": "Flexo-Tekniikka is a Nordic manufacturer of high-quality hydraulic power packs (HPUs) tailored for industrial and mobile…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Flexo-Tekniikka",
+          "width": 527,
+          "height": 474,
+          "src": "/assets/img/flexo-tekniikka-1.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Flexo-Tekniikka: image 2",
+          "width": 663,
+          "height": 537,
+          "src": "/assets/img/flexo-tekniikka-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Flexo-Tekniikka is a Nordic manufacturer of high-quality hydraulic power packs (HPUs) tailored for industrial and mobile applications. <a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "text",
+          "html": "Next to it you can see the diesel-driven hydraulic power pack FPU D56."
+        },
+        {
+          "type": "text",
+          "html": "Flexo FPU D56 is a 55.4 kW diesel-driven hydraulic power unit, built into a protective steel lifting frame with side panels and an aluminium top cover. The unit is equipped with a proportional valve for simultaneous control of all hydraulic circuits and has built-in safety systems that automatically shut down the machine at critical pressure or temperature levels."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Engine: Water-cooled 4-cylinder Kohler KDI 2504TCR.",
+            "Power: 55.4 kW at max 2,100 rpm.",
+            "Emissions class: Meets the emission requirements of EU STAGE V.",
+            "Hydraulic flow: Max 155 litres/minute, optional 15-50 l/min.",
+            "Hydraulic pressure: Max 260 bar, optionally max 320 bar with side pump.",
+            "Weight: 750 kg dry, approx. 1 tonne wet",
+            "Dimensions L x W x H: 1,510 mm x 1,030 mm x 1,320 mm."
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Other specifications:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Fuel tank: Holds 80 litres of diesel.",
+            "Hydraulic oil tank: Holds 160 litres.",
+            "Hydraulic pump: Danfoss JRR 75C.",
+            "Control valve: Proportional valve Danfoss PVG 100/32.",
+            "Hydraulic circuits: 3 as standard, but 1-4 can be chosen as an option.",
+            "Cooling: Equipped with a temperature-controlled hydraulic oil cooler.",
+            "Electrical system: Electric start with a 12 V 110 Ah battery.",
+            "User interface: Digital display showing engine speed, coolant temperature, torque and operating and service hours. There are also visual indicators for diesel and hydraulic oil level.",
+            "Safety system: Automatic stop is activated at low oil pressure, high engine temperature, low hydraulic oil level or high hydraulic oil temperature.",
+            "Connections: TEMA 3800-5000-7500/10000 male/female and 2 x ISO 7241-1-A 3/8 inch for drainage.",
+            "Surface treatment: Powder-coated with a corrosion-resistant painting method."
+          ]
+        },
+        {
+          "type": "text",
+          "html": "You can <a href=\"/contacto\">contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure",
+          "href": "/assets/docs/flexo-tekniikka-visa-broschyr.pdf",
+          "driveId": "1SyxogGWU40KcTLBXZ2TGZnUySxiNVCr-"
+        }
+      ],
+      "published": true
+    }
+  },
+  "logo": "/assets/img/logo-flexo-tekniikka.webp"
+}

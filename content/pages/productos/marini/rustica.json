@@ -1,0 +1,218 @@
+{
+  "path": "/productos/marini/rustica",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 6,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-rustica-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "RUSTICA",
+      "h1": "RUSTICA",
+      "description": "Rustica y Big Rustica son máquinas neumáticas de corte de bloques de Marini, diseñadas para realizar perforaciones tanto verticales como horizontales al escuadrar…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logotipo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "text",
+          "html": "Rustica y Big Rustica son máquinas neumáticas de corte de bloques de Marini, diseñadas para realizar perforaciones tanto verticales como horizontales al escuadrar bloques de piedra en canteras, y pueden montarse en una excavadora para aumentar el alcance."
+        },
+        {
+          "type": "text",
+          "html": "Ambas máquinas pueden adaptarse a necesidades específicas y forman parte de la amplia gama de soluciones de Marini para canteras y manejo de bloques, lo que las convierte en una excelente elección para proyectos de perforación grandes y exigentes."
+        },
+        {
+          "type": "image",
+          "alt": "RUSTICA: imagen 2",
+          "width": 1920,
+          "height": 1079,
+          "src": "/assets/img/marini-rustica-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Rustica:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Clasificada como cortadora de bloques pesada",
+            "Equipada con dos perforadoras rotopercutoras",
+            "Longitud de perforación 4000 mm",
+            "Peso: 1600 kg",
+            "Diseñada especialmente para la perforación rápida y precisa y el escuadrado de bloques de piedra"
+          ]
+        },
+        {
+          "type": "image",
+          "alt": "RUSTICA: imagen 3",
+          "width": 775,
+          "height": 436,
+          "src": "/assets/img/marini-rustica-3.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "BIG RUSTICA"
+        },
+        {
+          "type": "text",
+          "html": "Big Rustica:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Una versión más grande y potente de Rustica.",
+            "Equipada con cuatro cabezales de perforación independientes y amortiguados",
+            "La construcción pesada permite posicionar la máquina rápidamente sin necesidad de anclaje",
+            "Longitud de perforación 4000 mm (igual que Rustica)",
+            "Peso: 1900 kg",
+            "La máquina es especialmente adecuada para el escuadrado de bloques y otras tareas que requieren una perforación rápida y precisa"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto breve (ENG)",
+          "href": "/assets/docs/marini-rustica-kort-broschyr-eng.pdf",
+          "driveId": "135nLblxd_rzJ1KdYNSmERdDWuZKpVD42"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Catálogo de productos",
+          "href": "/assets/docs/marini-broschyr-stenbrott-eng.pdf",
+          "driveId": "1vDz1kVepWEGje74TDo-PjtYLCP-tbBQB"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "wx8-TijdUh4",
+          "title": "Marini Quarries Group - Big Rustica and Giraffa 360 HV"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "BIG RUSTICA & GIRAFFA"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "RUSTICA",
+      "h1": "RUSTICA",
+      "description": "Rustica and Big Rustica are both pneumatic block-cutting machines from Marini, designed to handle both vertical and horizontal drilling when squaring…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "text",
+          "html": "Rustica and Big Rustica are both pneumatic block-cutting machines from Marini, designed to handle both vertical and horizontal drilling when squaring stone blocks in quarries, and can be mounted on an excavator for increased reach."
+        },
+        {
+          "type": "text",
+          "html": "Both of these machines can be adapted to specific needs and are part of Marini’s wide range of solutions for quarries and block handling, which makes them an excellent choice for large and demanding drilling projects."
+        },
+        {
+          "type": "image",
+          "alt": "RUSTICA: image 2",
+          "width": 1920,
+          "height": 1079,
+          "src": "/assets/img/marini-rustica-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Rustica:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Classified as a heavy block cutter",
+            "Equipped with two rotary percussion drills",
+            "Drilling length 4,000 mm",
+            "Weighs 1,600 kg",
+            "Specially designed for fast and accurate drilling and squaring of stone blocks"
+          ]
+        },
+        {
+          "type": "image",
+          "alt": "RUSTICA: image 3",
+          "width": 775,
+          "height": 436,
+          "src": "/assets/img/marini-rustica-3.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "BIG RUSTICA"
+        },
+        {
+          "type": "text",
+          "html": "Big Rustica:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "A larger and more powerful version of Rustica.",
+            "Equipped with four independent, shock-absorbed drill heads",
+            "The heavy construction makes it possible to position the machine quickly without the need for anchoring",
+            "Drilling length 4,000 mm (same as Rustica)",
+            "Weighs 1,900 kg",
+            "The machine is particularly well suited for squaring blocks and other tasks where fast and accurate drilling is required"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Short brochure (ENG)",
+          "href": "/assets/docs/marini-rustica-kort-broschyr-eng.pdf",
+          "driveId": "135nLblxd_rzJ1KdYNSmERdDWuZKpVD42"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Product catalogue",
+          "href": "/assets/docs/marini-broschyr-stenbrott-eng.pdf",
+          "driveId": "1vDz1kVepWEGje74TDo-PjtYLCP-tbBQB"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "wx8-TijdUh4",
+          "title": "Marini Quarries Group - Big Rustica and Giraffa 360 HV"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "BIG RUSTICA & GIRAFFA"
+        }
+      ],
+      "published": true
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "path": "/productos/tei/martillos-perforadores/te726",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 8,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hem-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "TE726",
+      "h1": "TE726",
+      "description": "El TE726 tiene tres modos de potencia para que el martillo perforador cumpla todos los requisitos de perforación dentro de su rango de trabajo, para agujeros de 2,0-4,0 pulgadas (52-101 mm) de diámetro. La función ASA…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "TE726: imagen 2",
+          "width": 1563,
+          "height": 1152,
+          "src": "/assets/img/tei-topphammare-te726-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "TE726"
+        },
+        {
+          "type": "datasheet",
+          "title": "Datos técnicos",
+          "tagline": "Martillo perforador hidráulico",
+          "intro": [
+            "El TE726 tiene tres modos de potencia para que el martillo perforador cumpla todos los requisitos de perforación dentro de su rango de trabajo, para agujeros de 2,0-4,0 pulgadas (52-101 mm) de diámetro. La función ASA (ajuste automático de carrera) proporciona un funcionamiento suave, mayor eficiencia y la mejor protección para el martillo perforador. Además, amortigua tanto en el punto de impacto como en el de retorno, lo que prolonga la vida útil de las juntas y las herramientas de perforación.",
+            "El diseño robusto de la parte delantera, con rodamientos de mayor tamaño, es óptimo tanto para la perforación horizontal de frentes como para la perforación vertical de barrenos de voladura."
+          ],
+          "groups": [
+            {
+              "title": "Rotación",
+              "rows": [
+                {
+                  "label": "Par de rotación",
+                  "metric": "836 Nm",
+                  "us": "616 lbf-ft"
+                },
+                {
+                  "label": "Caudal de rotación",
+                  "metric": "38 - 76 lpm",
+                  "us": "10 - 20 gpm"
+                },
+                {
+                  "label": "Presión de rotación",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Peso",
+                  "metric": "154 kg",
+                  "us": "340 lb"
+                },
+                {
+                  "label": "Velocidad",
+                  "metric": "300 rpm",
+                  "us": "300 rpm"
+                }
+              ]
+            },
+            {
+              "title": "Percusión",
+              "rows": [
+                {
+                  "label": "Potencia de salida",
+                  "metric": "18 kW",
+                  "us": "24 hp"
+                },
+                {
+                  "label": "Caudal del martillo",
+                  "metric": "102 lpm",
+                  "us": "27 gpm"
+                },
+                {
+                  "label": "Presión del martillo",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Frecuencia de golpeo",
+                  "metric": "60 Hz",
+                  "us": "3600 bpm"
+                }
+              ]
+            }
+          ],
+          "note": "Tipos de enmangue disponibles (shanks): Rope 1.25, T38, T45. Las especificaciones técnicas de TEI suponen una pérdida de potencia hidráulica del 40 %."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Ficha de producto",
+          "href": "/assets/docs/tei-topphammare-te726-ladda-ner-pdf.pdf",
+          "driveId": "1d-rIwoTbgFAoKU3aX_tBD2j0kxzS85fM"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "TE726",
+      "h1": "TE726",
+      "description": "TE726 has three power modes so that the drifter meets all drilling requirements within its working range, for holes 2.0-4.0 inches (52-101 mm) in diameter. The ASA function…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "TE726: image 2",
+          "width": 1563,
+          "height": 1152,
+          "src": "/assets/img/tei-topphammare-te726-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "TE726"
+        },
+        {
+          "type": "datasheet",
+          "title": "Technical data",
+          "tagline": "Hydraulic drifter",
+          "intro": [
+            "TE726 has three power modes so that the drifter meets all drilling requirements within its working range, for holes 2.0-4.0 inches (52-101 mm) in diameter. The ASA function (automatic stroke adjustment) gives smooth operation, higher efficiency and the best protection for the drifter. It also dampens at both the strike point and the return point, which extends the life of seals and drilling tools.",
+            "The heavy-duty front-end design with larger bearings is optimal for both horizontal face drilling and vertical blast-hole drilling."
+          ],
+          "groups": [
+            {
+              "title": "Rotation",
+              "rows": [
+                {
+                  "label": "Rotation torque",
+                  "metric": "836 Nm",
+                  "us": "616 lbf-ft"
+                },
+                {
+                  "label": "Rotation flow",
+                  "metric": "38 - 76 lpm",
+                  "us": "10 - 20 gpm"
+                },
+                {
+                  "label": "Rotation pressure",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Weight",
+                  "metric": "154 kg",
+                  "us": "340 lb"
+                },
+                {
+                  "label": "Speed",
+                  "metric": "300 rpm",
+                  "us": "300 rpm"
+                }
+              ]
+            },
+            {
+              "title": "Percussion",
+              "rows": [
+                {
+                  "label": "Output power",
+                  "metric": "18 kW",
+                  "us": "24 hp"
+                },
+                {
+                  "label": "Hammer flow",
+                  "metric": "102 lpm",
+                  "us": "27 gpm"
+                },
+                {
+                  "label": "Hammer pressure",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Blow frequency",
+                  "metric": "60 Hz",
+                  "us": "3600 bpm"
+                }
+              ]
+            }
+          ],
+          "note": "Available shank types: Rope 1.25, T38, T45. TEI’s technical specifications assume a 40% hydraulic power loss."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Data sheet",
+          "href": "/assets/docs/tei-topphammare-te726-ladda-ner-pdf.pdf",
+          "driveId": "1d-rIwoTbgFAoKU3aX_tBD2j0kxzS85fM"
+        }
+      ],
+      "published": true
+    }
+  }
+}

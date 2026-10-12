@@ -1,0 +1,284 @@
+{
+  "path": "/productos/tei/cabezales-de-rotacion",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 1,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-rotationshammare-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Cabezales de rotación",
+      "h1": "Cabezales de rotación",
+      "description": "Los cabezales de rotación existen en distintas clases que dependen principalmente del peso de la excavadora y del equipo montado en el mástil.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Cabezales de rotación: imagen 2",
+          "width": 1500,
+          "height": 1242,
+          "src": "/assets/img/tei-rotationshammare-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Los cabezales de rotación existen en distintas clases que dependen principalmente del peso de la excavadora y del equipo montado en el mástil."
+        },
+        {
+          "type": "text",
+          "html": "Con su tamaño compacto y su alta relación potencia-peso, las perforadoras de TEI destacan en el mercado."
+        },
+        {
+          "type": "text",
+          "html": "Consulte a continuación la gama de martillos perforadores de TEI. Al final hay una tabla con sus especificaciones técnicas."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "table",
+          "header": true,
+          "align": "center",
+          "caption": "Rango de diámetro de perforación recomendado (mm)",
+          "rows": [
+            [
+              "Modelo",
+              "Diámetro de perforación (mm)",
+              "Par (Nm)",
+              "Peso (kg)",
+              "Caudal de rotación (LPM)",
+              "Ø interior del eje de lavado (mm)"
+            ],
+            [
+              "RDS250",
+              "70 - 102",
+              "1361",
+              "48",
+              "57-76",
+              "22"
+            ],
+            [
+              "RDS350",
+              "70 - 203",
+              "2721",
+              "55",
+              "76",
+              "25"
+            ],
+            [
+              "RDS550",
+              "102 - 305",
+              "6803",
+              "177",
+              "126",
+              "38"
+            ],
+            [
+              "RDS1004",
+              "127 - 610",
+              "13605",
+              "356",
+              "144-227",
+              "51, 76, 102"
+            ],
+            [
+              "RDS1500",
+              "127 - 750",
+              "20408",
+              "442",
+              "163-227",
+              "51, 76, 102"
+            ]
+          ]
+        },
+        {
+          "type": "modules",
+          "layout": "compact",
+          "items": [
+            {
+              "title": "RDS250",
+              "image": "/assets/img/tei-rotationshammare-rds250.webp",
+              "alt": "RDS250",
+              "href": "/productos/tei/cabezales-de-rotacion/rds250"
+            },
+            {
+              "title": "RDS350",
+              "image": "/assets/img/tei-rotationshammare-rds350.webp",
+              "alt": "RDS350",
+              "href": "/productos/tei/cabezales-de-rotacion/rds350"
+            },
+            {
+              "title": "RDS550",
+              "image": "/assets/img/tei-rotationshammare-rds550.webp",
+              "alt": "RDS550",
+              "href": "/productos/tei/cabezales-de-rotacion/rds550"
+            },
+            {
+              "title": "RDS1004",
+              "image": "/assets/img/tei-rotationshammare-rds1004.webp",
+              "alt": "RDS1004",
+              "href": "/productos/tei/cabezales-de-rotacion/rds1004"
+            },
+            {
+              "title": "RDS1500",
+              "image": "/assets/img/tei-rotationshammare-rds1004-2.webp",
+              "alt": "RDS1500",
+              "text": "Cabezal de rotación hidráulico de alta resistencia para mástiles de perforación y equipos de perforación de mayor tamaño.",
+              "href": "/productos/tei/cabezales-de-rotacion/rds1500"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Etiquetas: martillo en cabeza, martillo de fondo, cabezal de rotación"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Rotary heads",
+      "h1": "Rotary heads",
+      "description": "Rotary heads come in different classes that mainly depend on the weight of the excavator and the equipment fitted to the mast.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Rotary heads: image 2",
+          "width": 1500,
+          "height": 1242,
+          "src": "/assets/img/tei-rotationshammare-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Rotary heads come in different classes that mainly depend on the weight of the excavator and the equipment fitted to the mast."
+        },
+        {
+          "type": "text",
+          "html": "With their compact size and high power-to-weight ratio, TEI’s drills stand out in the market."
+        },
+        {
+          "type": "text",
+          "html": "See the range of TEI’s drifters below. At the bottom there is a table with their technical specifications."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "table",
+          "header": true,
+          "align": "center",
+          "caption": "Recommended hole size range (mm)",
+          "rows": [
+            [
+              "Model",
+              "Hole size (mm)",
+              "Torque (Nm)",
+              "Weight (kg)",
+              "Rotation flow (LPM)",
+              "Flush shaft ID (mm)"
+            ],
+            [
+              "RDS250",
+              "70 - 102",
+              "1361",
+              "48",
+              "57-76",
+              "22"
+            ],
+            [
+              "RDS350",
+              "70 - 203",
+              "2721",
+              "55",
+              "76",
+              "25"
+            ],
+            [
+              "RDS550",
+              "102 - 305",
+              "6803",
+              "177",
+              "126",
+              "38"
+            ],
+            [
+              "RDS1004",
+              "127 - 610",
+              "13605",
+              "356",
+              "144-227",
+              "51, 76, 102"
+            ],
+            [
+              "RDS1500",
+              "127 - 750",
+              "20408",
+              "442",
+              "163-227",
+              "51, 76, 102"
+            ]
+          ]
+        },
+        {
+          "type": "modules",
+          "layout": "compact",
+          "items": [
+            {
+              "title": "RDS250",
+              "image": "/assets/img/tei-rotationshammare-rds250.webp",
+              "alt": "RDS250",
+              "href": "/productos/tei/cabezales-de-rotacion/rds250"
+            },
+            {
+              "title": "RDS350",
+              "image": "/assets/img/tei-rotationshammare-rds350.webp",
+              "alt": "RDS350",
+              "href": "/productos/tei/cabezales-de-rotacion/rds350"
+            },
+            {
+              "title": "RDS550",
+              "image": "/assets/img/tei-rotationshammare-rds550.webp",
+              "alt": "RDS550",
+              "href": "/productos/tei/cabezales-de-rotacion/rds550"
+            },
+            {
+              "title": "RDS1004",
+              "image": "/assets/img/tei-rotationshammare-rds1004.webp",
+              "alt": "RDS1004",
+              "href": "/productos/tei/cabezales-de-rotacion/rds1004"
+            },
+            {
+              "title": "RDS1500",
+              "image": "/assets/img/tei-rotationshammare-rds1004-2.webp",
+              "alt": "RDS1500",
+              "text": "Heavy-duty hydraulic rotary head for larger drill masts and drill rigs.",
+              "href": "/productos/tei/cabezales-de-rotacion/rds1500"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Tags: top hammer, DTH hammer, rotary head"
+        }
+      ],
+      "published": true
+    }
+  }
+}

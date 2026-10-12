@@ -1,0 +1,330 @@
+{
+  "path": "/productos/terra-infrastructure/vibrodrill/vibrodrill-vd150",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 2,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/terra-infrastructure-vibrodrill-vibrodrill-vd150-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "VibroDrill VD150",
+      "h1": "VibroDrill VD150",
+      "description": "El VibroDrill VD150 es el sistema de perforación más potente de la serie VibroDrill.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "VibroDrill VD150",
+          "width": 927,
+          "height": 1043,
+          "src": "/assets/img/terra-infrastructure-vibrodrill-vibrodrill-vd150-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "El VibroDrill VD150 es el sistema de perforación más potente de la serie VibroDrill."
+        },
+        {
+          "type": "text",
+          "html": "VibroDrill combina rotación con vibración controlada para hacer avanzar la perforadora de forma eficiente a través de capas de suelo difíciles. Se utiliza para cimentaciones y trabajos geotécnicos como micropilotes, anclajes autoperforantes y perforación geotérmica. La vibración ayuda a reducir la resistencia del terreno y proporciona una perforación más uniforme y con mejor control."
+        },
+        {
+          "type": "text",
+          "html": "VibroDrill VD150: cuando quiere la máxima capacidad"
+        },
+        {
+          "type": "text",
+          "html": "El VD150 es el modelo más potente de la serie y está construido para trabajos más pesados, dimensiones mayores y alta producción."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Tamaño de máquina portadora recomendado: 16-22 toneladas",
+            "Capacidad: tubos de hasta 304,8 mm",
+            "Muy adecuado para: grandes proyectos de refuerzo de cimentaciones, trabajos geotécnicos más pesados y aplicaciones en las que se desea una reserva de potencia adicional"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "No dude en consultar el folleto que figura a continuación o <a href=\"/contacto\">contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto",
+          "href": "/assets/docs/terra-infrastructure-vibrodrill-vibrodrill-vd150-broschyr.pdf"
+        },
+        {
+          "type": "text",
+          "html": "Datos técnicos (VD150)"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Velocidad de perforación: hasta 1 m/minuto",
+            "Profundidad de perforación: hasta 100 metros",
+            "Desviación: solo 1-2 %",
+            "Fuerza de empuje: hasta 30 kN",
+            "Fuerza de tracción: hasta 100 kN",
+            "Fuerza centrífuga: hasta 240 kN",
+            "Par: máx. 20 700 Nm",
+            "Tamaño de la máquina portadora: aprox. 16-22 toneladas",
+            "Caudal hidráulico: 126-144 l/min (vibración) y 170 l/min (rotación)",
+            "Versatilidad: desde arena y arcilla hasta roca",
+            "Peso: 1500 kg"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Opciones de frecuencia"
+        },
+        {
+          "type": "text",
+          "html": "El VibroDrill VD150 trabaja con vibración de alta frecuencia entre 100 Hz y 120 Hz para una penetración óptima."
+        },
+        {
+          "type": "text",
+          "html": "No dude en consultar el folleto que figura a continuación o <a href=\"/contacto\">contáctenos</a> para más información."
+        },
+        {
+          "type": "image",
+          "alt": "VibroDrill VD150: imagen 2",
+          "width": 829,
+          "height": 1474,
+          "src": "/assets/img/terra-infrastructure-vibrodrill-vibrodrill-vd100-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "VibroDrill VD150: imagen 3",
+          "width": 833,
+          "height": 1100,
+          "src": "/assets/img/terra-infrastructure-vibrodrill-vibrodrill-vd150-3.webp"
+        },
+        {
+          "type": "image",
+          "alt": "VibroDrill VD150: imagen 4",
+          "width": 630,
+          "height": 574,
+          "src": "/assets/img/terra-infrastructure-vibrodrill-4.webp"
+        },
+        {
+          "type": "text",
+          "html": "VibroDrill"
+        },
+        {
+          "type": "text",
+          "html": "VibroDrill está construido para ofrecer estabilidad, rendimiento y una larga vida útil. Está equipado con un mecanismo de amortiguación integrado (de goma) que evita que las vibraciones se transmitan al mástil. Esto supone menos esfuerzo para el equipo, una perforación más uniforme y mejor control en producción."
+        },
+        {
+          "type": "text",
+          "html": "Con un ángulo de perforación de 0° a 90°, el VibroDrill VD150 puede utilizarse tanto en vertical como en horizontal: perfecto para todo, desde cimentaciones clásicas hasta instalaciones más avanzadas en las que el acceso y la geometría exigen flexibilidad. El operador también puede ajustar el momento excéntrico para optimizar el rendimiento según las condiciones del terreno."
+        },
+        {
+          "type": "text",
+          "html": "Opciones de frecuencia"
+        },
+        {
+          "type": "text",
+          "html": "El VibroDrill VD150 se suministra de serie con 100 Hz, pero también puede adaptarse a 85 Hz o 120 Hz según la aplicación y el comportamiento de perforación deseado."
+        },
+        {
+          "type": "text",
+          "html": "Referencias"
+        },
+        {
+          "type": "text",
+          "html": "Tras una prueba muy satisfactoria en Copenhague, en el túnel de Nordhavn, realizada por Grundbau Nord GmbH, esta potente tecnología ya está disponible en el mercado."
+        },
+        {
+          "type": "text",
+          "html": "Consulte el folleto que figura a continuación o <a href=\"/contacto\">contáctenos</a> para más información."
+        },
+        {
+          "type": "text",
+          "html": "La serie VibroDrill"
+        },
+        {
+          "type": "text",
+          "html": "La serie consta de otras unidades de perforación, a saber: VD50, VD100 y VD150."
+        },
+        {
+          "type": "text",
+          "html": "Póngase en contacto con nosotros y le explicaremos más sobre las aplicaciones y qué modelo VibroDrill (VD50, VD100 o VD150) se adapta mejor a sus proyectos."
+        },
+        {
+          "type": "text",
+          "html": "Consulte el folleto o <a href=\"/contacto\">contáctenos</a> para más información."
+        },
+        {
+          "type": "image",
+          "alt": "VibroDrill VD150: imagen 5",
+          "width": 331,
+          "height": 437,
+          "src": "/assets/img/terra-infrastructure-vibrodrill-5.webp"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "VibroDrill VD150",
+      "h1": "VibroDrill VD150",
+      "description": "VibroDrill VD150 is the most powerful drilling system in the VibroDrill series.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "VibroDrill VD150",
+          "width": 927,
+          "height": 1043,
+          "src": "/assets/img/terra-infrastructure-vibrodrill-vibrodrill-vd150-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "VibroDrill VD150 is the most powerful drilling system in the VibroDrill series."
+        },
+        {
+          "type": "text",
+          "html": "VibroDrill combines rotation with controlled vibration to drive the drill efficiently through difficult soil layers. It is used for foundation work and geotechnical works such as micropiles, self-drilling anchors and geothermal drilling. The vibration helps reduce resistance in the ground and gives a smoother drilling process with better control."
+        },
+        {
+          "type": "text",
+          "html": "VibroDrill VD150: when you want maximum capacity"
+        },
+        {
+          "type": "text",
+          "html": "VD150 is the powerhouse of the series and is built for heavier jobs, larger dimensions and high production."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Recommended carrier size: 16-22 tonnes",
+            "Capacity: pipes up to 304.8 mm",
+            "Well suited for: larger foundation reinforcement projects, heavier geotechnical work and applications where you want extra power reserves"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Feel free to take a look at the brochure below or <a href=\"/contacto\">contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure",
+          "href": "/assets/docs/terra-infrastructure-vibrodrill-vibrodrill-vd150-broschyr.pdf"
+        },
+        {
+          "type": "text",
+          "html": "Technical data (VD150)"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Drilling speed: up to 1 m/minute",
+            "Drilling depth: down to 100 metres",
+            "Deviation: only 1-2%",
+            "Push force: up to 30 kN",
+            "Pull force: up to 100 kN",
+            "Centrifugal force: up to 240 kN",
+            "Torque: max 20,700 Nm",
+            "Carrier size: approx. 16-22 tonnes",
+            "Hydraulic flow: 126-144 l/min (vibro) and 170 l/min (rotation)",
+            "Versatility: from sand and clay to rock",
+            "Weight: 1,500 kg"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Frequency options"
+        },
+        {
+          "type": "text",
+          "html": "VibroDrill VD150 works with high-frequency vibration between 100 Hz and 120 Hz for optimal penetration."
+        },
+        {
+          "type": "text",
+          "html": "Feel free to take a look at the brochure below or <a href=\"/contacto\">contact us</a> for more information."
+        },
+        {
+          "type": "image",
+          "alt": "VibroDrill VD150: image 2",
+          "width": 829,
+          "height": 1474,
+          "src": "/assets/img/terra-infrastructure-vibrodrill-vibrodrill-vd100-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "VibroDrill VD150: image 3",
+          "width": 833,
+          "height": 1100,
+          "src": "/assets/img/terra-infrastructure-vibrodrill-vibrodrill-vd150-3.webp"
+        },
+        {
+          "type": "image",
+          "alt": "VibroDrill VD150: image 4",
+          "width": 630,
+          "height": 574,
+          "src": "/assets/img/terra-infrastructure-vibrodrill-4.webp"
+        },
+        {
+          "type": "text",
+          "html": "VibroDrill"
+        },
+        {
+          "type": "text",
+          "html": "VibroDrill is built for stability, performance and long service life. It is equipped with a built-in damping mechanism (rubber) that prevents vibrations from being transferred to the mast. This means less strain on the equipment, smoother drilling and better control in production."
+        },
+        {
+          "type": "text",
+          "html": "With a drilling angle of 0° to 90°, VibroDrill VD150 can be used both vertically and horizontally, perfect for everything from classic foundation work to more advanced installations where access and geometry require flexibility. The operator can also adjust the eccentric moment to optimise performance depending on ground conditions."
+        },
+        {
+          "type": "text",
+          "html": "Frequency options"
+        },
+        {
+          "type": "text",
+          "html": "VibroDrill VD150 is delivered as standard with 100 Hz, but can also be adapted to 85 Hz or 120 Hz depending on application and desired drilling behaviour."
+        },
+        {
+          "type": "text",
+          "html": "References"
+        },
+        {
+          "type": "text",
+          "html": "After a very successful trial in Copenhagen in the Nordhavn tunnel, carried out by Grundbau Nord GmbH, this powerful technology is now available on the market."
+        },
+        {
+          "type": "text",
+          "html": "Take a look at the brochure below or <a href=\"/contacto\">contact us</a> for more information."
+        },
+        {
+          "type": "text",
+          "html": "The VibroDrill series"
+        },
+        {
+          "type": "text",
+          "html": "The series consists of further drilling units, namely: VD50, VD100 and VD150."
+        },
+        {
+          "type": "text",
+          "html": "Get in touch and we will tell you more about applications and which VibroDrill model (VD50, VD100 or VD150) suits your projects best."
+        },
+        {
+          "type": "text",
+          "html": "Take a look at the brochure or <a href=\"/contacto\">contact us</a> for more information."
+        },
+        {
+          "type": "image",
+          "alt": "VibroDrill VD150: image 5",
+          "width": 331,
+          "height": 437,
+          "src": "/assets/img/terra-infrastructure-vibrodrill-5.webp"
+        }
+      ],
+      "published": true
+    }
+  }
+}

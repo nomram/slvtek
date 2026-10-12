@@ -1,0 +1,536 @@
+{
+  "path": "/productos/marini/pilotaje",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 3,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-palning-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Pilotaje",
+      "h1": "MR-P / Pilotaje",
+      "description": "MR-P es la serie de equipos de pilotaje compactos y potentes de Marini, diseñados para ofrecer precisión y eficiencia en proyectos exigentes. Estos equipos, que trabajan con…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logotipo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "MR-P / Pilotaje: imagen 2",
+          "width": 1920,
+          "height": 1752,
+          "src": "/assets/img/marini-palning-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "MR-P es la serie de equipos de pilotaje compactos y potentes de Marini, diseñados para ofrecer precisión y eficiencia en proyectos exigentes. Estos equipos, que trabajan con sistemas Kelly y barrenas helicoidales, son conocidos por su versatilidad y su sólido rendimiento. Con profundidades de perforación de entre 18 y 32 metros y un diámetro máximo de perforación de hasta 1300 mm, la serie MR-P es perfecta para distintos tipos de terreno y proyectos."
+        },
+        {
+          "type": "text",
+          "html": "Con motores de hasta 103 kW y una velocidad de rotación de hasta 90 rpm, el MR-P combina alta capacidad con un manejo sencillo."
+        },
+        {
+          "type": "text",
+          "html": "Los equipos son compactos, lo que facilita su transporte y uso en distintas obras, y ofrecen impresionantes fuerzas de tracción y empuje para una perforación estable en profundidad. Además del sistema Kelly (marcado BP, bored piles), la serie incluye también modelos CFA (Continuous Flight Auger), que aportan aún más flexibilidad para distintas aplicaciones de perforación."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto breve (ENG)",
+          "href": "/assets/docs/marini-palning-kort-broschyr-eng.pdf",
+          "driveId": "12DpogXhUTUSUvyUiNMTmqQwxWIY9ddps"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Catálogo de productos (ENG)",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1024,
+          "height": 768,
+          "src": "/assets/img/marini-palning-3.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1024,
+          "height": 768,
+          "src": "/assets/img/marini-palning-4.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1600,
+          "height": 1200,
+          "src": "/assets/img/marini-palning-5.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1600,
+          "height": 1200,
+          "src": "/assets/img/marini-palning-6.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1024,
+          "height": 768,
+          "src": "/assets/img/marini-palning-7.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1600,
+          "height": 1200,
+          "src": "/assets/img/marini-palning-8.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 768,
+          "height": 1024,
+          "src": "/assets/img/marini-palning-9.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MR - P 350"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "cqxTgdjmOCw",
+          "title": "Marini Srl - MR-P 350 compact piling rig"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1920,
+          "height": 1440,
+          "src": "/assets/img/marini-palning-10.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1536,
+          "height": 2048,
+          "src": "/assets/img/marini-palning-11.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1536,
+          "height": 2048,
+          "src": "/assets/img/marini-palning-12.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1920,
+          "height": 1440,
+          "src": "/assets/img/marini-palning-13.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1536,
+          "height": 2048,
+          "src": "/assets/img/marini-palning-14.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1920,
+          "height": 1440,
+          "src": "/assets/img/marini-palning-15.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1920,
+          "height": 1440,
+          "src": "/assets/img/marini-palning-16.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1920,
+          "height": 1440,
+          "src": "/assets/img/marini-palning-17.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1536,
+          "height": 2048,
+          "src": "/assets/img/marini-palning-18.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MR - P 400"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "vgPbTG4YY8Y",
+          "title": "Marini Srl - MR-P 400 Compact piling rig (CPD & CFA)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Especificaciones técnicas"
+        },
+        {
+          "type": "table",
+          "header": true,
+          "rows": [
+            [
+              "Modelo",
+              "Potencia del motor (kW)",
+              "Fuerza de avance (kN)",
+              "Fuerza de retroceso (kN)",
+              "Par de rotación (Nm)",
+              "Velocidad de rotación (rpm)",
+              "Profundidad máx. (m)",
+              "Diámetro máx. (mm)",
+              "Peso (kg)"
+            ],
+            [
+              "MR-P 350",
+              "55",
+              "90",
+              "60",
+              "35000",
+              "60",
+              "18",
+              "1200",
+              "9000"
+            ],
+            [
+              "MR-P 400 BP",
+              "55",
+              "90",
+              "60",
+              "40000",
+              "75",
+              "27",
+              "1200",
+              "16300"
+            ],
+            [
+              "MR-P 400 CFA",
+              "55",
+              "50",
+              "180",
+              "40000",
+              "75",
+              "11",
+              "750",
+              "17500"
+            ],
+            [
+              "MR-P 750 BP",
+              "103",
+              "100",
+              "80",
+              "75000",
+              "90",
+              "32",
+              "1300",
+              "22500"
+            ],
+            [
+              "MR-P 750 CFA",
+              "103",
+              "80",
+              "230",
+              "75000",
+              "90",
+              "15",
+              "750",
+              "23300"
+            ]
+          ]
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Piling",
+      "h1": "MR-P / Piling",
+      "description": "MR-P is Marini’s series of compact and powerful piling rigs, designed to deliver precision and efficiency in demanding projects. These rigs, which work with…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "MR-P / Piling: image 2",
+          "width": 1920,
+          "height": 1752,
+          "src": "/assets/img/marini-palning-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "MR-P is Marini’s series of compact and powerful piling rigs, designed to deliver precision and efficiency in demanding projects. These rigs, which work with Kelly-bar systems and augers, are known for their versatility and robust performance. With drilling depths ranging from 18 metres to 32 metres and a maximum drilling diameter of up to 1,300 mm, the MR-P series is perfect for different types of ground conditions and projects."
+        },
+        {
+          "type": "text",
+          "html": "With engines of up to 103 kW and a rotation speed of up to 90 rpm, the MR-P combines high capacity with easy handling."
+        },
+        {
+          "type": "text",
+          "html": "The rigs are compact, which makes them easy to transport and use at different worksites, while offering impressive pull and push forces for stable deep drilling. In addition to the Kelly-bar system (marked BP, bored piles), the series also includes CFA models (Continuous Flight Auger), which provide even greater flexibility for different drilling applications."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Short brochure (ENG)",
+          "href": "/assets/docs/marini-palning-kort-broschyr-eng.pdf",
+          "driveId": "12DpogXhUTUSUvyUiNMTmqQwxWIY9ddps"
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Product catalogue (ENG)",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "src": "/assets/img/marini-palning-3.webp",
+              "alt": "MR-P / Piling, image 1",
+              "width": 1024,
+              "height": 768
+            },
+            {
+              "src": "/assets/img/marini-palning-4.webp",
+              "alt": "MR-P / Piling, image 2",
+              "width": 1024,
+              "height": 768
+            },
+            {
+              "src": "/assets/img/marini-palning-5.webp",
+              "alt": "MR-P / Piling, image 3",
+              "width": 1600,
+              "height": 1200
+            },
+            {
+              "src": "/assets/img/marini-palning-6.webp",
+              "alt": "MR-P / Piling, image 4",
+              "width": 1600,
+              "height": 1200
+            },
+            {
+              "src": "/assets/img/marini-palning-7.webp",
+              "alt": "MR-P / Piling, image 5",
+              "width": 1024,
+              "height": 768
+            },
+            {
+              "src": "/assets/img/marini-palning-8.webp",
+              "alt": "MR-P / Piling, image 6",
+              "width": 1600,
+              "height": 1200
+            },
+            {
+              "src": "/assets/img/marini-palning-9.webp",
+              "alt": "MR-P / Piling, image 7",
+              "width": 768,
+              "height": 1024
+            }
+          ],
+          "autoplay": false
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MR - P 350"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "cqxTgdjmOCw",
+          "title": "Marini Srl - MR-P 350 compact piling rig"
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "src": "/assets/img/marini-palning-10.webp",
+              "alt": "MR-P / Piling, image 1",
+              "width": 1920,
+              "height": 1440
+            },
+            {
+              "src": "/assets/img/marini-palning-11.webp",
+              "alt": "MR-P / Piling, image 2",
+              "width": 1536,
+              "height": 2048
+            },
+            {
+              "src": "/assets/img/marini-palning-12.webp",
+              "alt": "MR-P / Piling, image 3",
+              "width": 1536,
+              "height": 2048
+            },
+            {
+              "src": "/assets/img/marini-palning-13.webp",
+              "alt": "MR-P / Piling, image 4",
+              "width": 1920,
+              "height": 1440
+            },
+            {
+              "src": "/assets/img/marini-palning-14.webp",
+              "alt": "MR-P / Piling, image 5",
+              "width": 1536,
+              "height": 2048
+            },
+            {
+              "src": "/assets/img/marini-palning-15.webp",
+              "alt": "MR-P / Piling, image 6",
+              "width": 1920,
+              "height": 1440
+            },
+            {
+              "src": "/assets/img/marini-palning-16.webp",
+              "alt": "MR-P / Piling, image 7",
+              "width": 1920,
+              "height": 1440
+            },
+            {
+              "src": "/assets/img/marini-palning-17.webp",
+              "alt": "MR-P / Piling, image 8",
+              "width": 1920,
+              "height": 1440
+            },
+            {
+              "src": "/assets/img/marini-palning-18.webp",
+              "alt": "MR-P / Piling, image 9",
+              "width": 1536,
+              "height": 2048
+            }
+          ],
+          "autoplay": false
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MR - P 400"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "vgPbTG4YY8Y",
+          "title": "Marini Srl - MR-P 400 Compact piling rig (CPD & CFA)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Technical specifications"
+        },
+        {
+          "type": "table",
+          "header": true,
+          "rows": [
+            [
+              "Model",
+              "Engine Power (kW)",
+              "Feed Force (kN)",
+              "Retract Force (kN)",
+              "Rotary Torque (Nm)",
+              "Rotary Speed (rpm)",
+              "Max Depth (m)",
+              "Max Diameter (mm)",
+              "Weight (kg)"
+            ],
+            [
+              "MR-P 350",
+              "55",
+              "90",
+              "60",
+              "35000",
+              "60",
+              "18",
+              "1200",
+              "9000"
+            ],
+            [
+              "MR-P 400 BP",
+              "55",
+              "90",
+              "60",
+              "40000",
+              "75",
+              "27",
+              "1200",
+              "16300"
+            ],
+            [
+              "MR-P 400 CFA",
+              "55",
+              "50",
+              "180",
+              "40000",
+              "75",
+              "11",
+              "750",
+              "17500"
+            ],
+            [
+              "MR-P 750 BP",
+              "103",
+              "100",
+              "80",
+              "75000",
+              "90",
+              "32",
+              "1300",
+              "22500"
+            ],
+            [
+              "MR-P 750 CFA",
+              "103",
+              "80",
+              "230",
+              "75000",
+              "90",
+              "15",
+              "750",
+              "23300"
+            ]
+          ]
+        }
+      ],
+      "published": true
+    }
+  }
+}

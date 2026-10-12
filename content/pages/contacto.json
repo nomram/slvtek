@@ -1,0 +1,66 @@
+{
+  "path": "/contacto",
+  "updated": "2026-10-11",
+  "template": "contact",
+  "order": 1,
+  "published": true,
+  "i18n": {
+    "es": {
+      "title": "Contacto",
+      "navTitle": "Contacto",
+      "h1": "Contáctenos",
+      "description": "Escríbanos o llámenos: le ayudamos con información y suministro de maquinaria y soluciones para la construcción.",
+      "published": true,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<em>[Texto provisional: sustituir por la información real de la empresa.]</em>"
+        },
+        {
+          "type": "text",
+          "html": "Le ayudamos con información y suministro de nuestros <a href=\"/productos\">productos</a>, en cualquier fase del proyecto en la que se encuentre."
+        },
+        {
+          "type": "contact"
+        },
+        {
+          "type": "text",
+          "html": "Cuéntenos qué va a construir, dónde y cuándo, y podremos darle antes la recomendación adecuada."
+        },
+        {
+          "type": "quote"
+        }
+      ]
+    },
+    "en": {
+      "title": "Contact",
+      "navTitle": "Contact",
+      "h1": "Contact us",
+      "description": "Write to us or call: we help with information and supply of machinery and solutions for construction.",
+      "published": true,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<em>[Placeholder text: replace with the real company information.]</em>"
+        },
+        {
+          "type": "text",
+          "html": "We help with information and supply of our <a href=\"/productos\">products</a>, whichever stage of the project you are at."
+        },
+        {
+          "type": "contact"
+        },
+        {
+          "type": "text",
+          "html": "Tell us what you are going to build, where and when, and we can give you the right recommendation sooner."
+        },
+        {
+          "type": "quote"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "image": "/assets/img/reed-hero.webp"
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "path": "/productos/haeny/bombas-manuales/ic-325-ic325-ccp",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 1,
+  "published": false,
+  "hero": {
+    "image": "/assets/img/haeny-manuella-pumpar-dataloggare-dpv-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "IC 325 & IC325 CCP",
+      "h1": "HÄNY IC 325 & IC325 CCP",
+      "description": "Plataforma de inyección compacta de Häny. Mezcladora, agitador y bomba combinados en una unidad robusta. Fácil de transportar e instalar. Perfecta para…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "HÄNY IC 325 & IC325 CCP",
+          "width": 876,
+          "height": 510,
+          "src": "/assets/img/haeny-automatiska-pumpar-1.webp",
+          "href": "/productos/haeny"
+        },
+        {
+          "type": "image",
+          "alt": "HÄNY IC 325 & IC325 CCP, imagen 2",
+          "width": 1042,
+          "height": 1139,
+          "src": "/assets/img/haeny-manuella-pumpar-ic-325-ic325-ccp-2.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Häny IC325"
+        },
+        {
+          "type": "text",
+          "html": "Plataforma de inyección compacta de Häny. Mezcladora, agitador y bomba combinados en una unidad robusta. Fácil de transportar e instalar. Perfecta para la inyección de anclajes, bulones de roca e inyección de contacto. Capacidad de hasta 2 m³/hora a 100 bar. Similar al <a href=\"/productos/haeny/bombas-manuales\">IC310</a>, pero con un pistón adicional para un caudal más uniforme."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Mezcladora: 100 litros",
+            "Tolva: 150 litros",
+            "Capacidad de la bomba: 2 m³/h",
+            "Presión máx.: 100 bar",
+            "Tamaño máx. de partícula: 5 mm",
+            "Número de pistones: 2 (bomba doble)",
+            "Peso: 700 kg"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Puede pedirse con un registrador de datos DPV-H con puerto USB de Jean-Lutz. El registrador puede guardar el caudal y la presión en tiempo real."
+        },
+        {
+          "type": "text",
+          "html": "Con el cuidado adecuado es extremadamente duradera. Muy fácil de limpiar y mantener."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto",
+          "href": "/assets/docs/haeny-manuella-pumpar-ic-325-ic325-ccp-broschyr-eng.pdf",
+          "driveId": "1fNL77EuIJqvhxDTVYxPL6AbzUiSP-Ui1"
+        },
+        {
+          "type": "image",
+          "alt": "HÄNY IC 325 & IC325 CCP, imagen 3",
+          "width": 800,
+          "height": 753,
+          "src": "/assets/img/haeny-manuella-pumpar-ic-325-ic325-ccp-3.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 728,
+          "height": 815,
+          "src": "/assets/img/haeny-manuella-pumpar-ic-325-ic325-ccp-4.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 800,
+          "height": 800,
+          "src": "/assets/img/haeny-manuella-pumpar-ic-325-ic325-ccp-5.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Häny IC325 CCP"
+        },
+        {
+          "type": "text",
+          "html": "El modelo más reciente y buque insignia de Häny: plataforma de inyección compacta para lechada de cemento e inyección de poliuretano. El IC325 CCP consta del IC325 (descrito arriba) y una unidad/módulo adicional con la bomba de alta presión WIWA K2 para mezclar/inyectar poliuretano. La unidad adicional también tiene función de registro de datos."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Capacidad: hasta 2 m³/h",
+            "Presión máx.: 100 bar",
+            "Relación agua/cemento: ≤ 0,35",
+            "Tamaño máx. de partícula: 5 mm",
+            "Número de pistones: 2 (bomba doble)",
+            "Peso: 840 kg",
+            "Dimensiones: 2110 x 885 x 1590 mm"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Admite tres métodos en el mismo sistema: solo lechada de cemento; solo poliuretano (PU) de 2 componentes; cemento + PU combinados (método CCP).",
+            "Bomba de alta presión WIWA K2 integrada para una dosificación precisa",
+            "Mezclador estático RASCOR para una mezcla uniforme y segura",
+            "Control totalmente automático con registro en tiempo real y trazabilidad completa"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Bajo nivel de mantenimiento y menor necesidad de lavado. Optimizada para espacios reducidos: fácil de trasladar e instalar"
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto",
+          "href": "/assets/docs/haeny-manuella-pumpar-ic-325-ic325-ccp-broschyr-eng-2.pdf",
+          "driveId": "1j3Fwms6yFgGqN_tLg0CJDkkEJAoECTUJ"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "JRLJBqrYTF8",
+          "title": "Häny IC325 | Grout Pump with Polyurethane | Haeny CCP - Polyurethane pump"
+        },
+        {
+          "type": "text",
+          "html": "En el vídeo situado junto a este texto puede obtener más información sobre el funcionamiento del IC325 CCP de la mano del especialista de Häny. Haga clic en el vídeo y véalo en nuestro canal de YouTube."
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "IC 325 & IC325 CCP",
+      "h1": "HÄNY IC 325 & IC325 CCP",
+      "description": "Compact grouting platform from Häny. Combined mixer, agitator and pump in one robust unit. Easy to transport and install. Perfect for…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "HÄNY IC 325 & IC325 CCP",
+          "width": 876,
+          "height": 510,
+          "src": "/assets/img/haeny-automatiska-pumpar-1.webp",
+          "href": "/productos/haeny"
+        },
+        {
+          "type": "image",
+          "alt": "HÄNY IC 325 & IC325 CCP, image 2",
+          "width": 1042,
+          "height": 1139,
+          "src": "/assets/img/haeny-manuella-pumpar-ic-325-ic325-ccp-2.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Häny IC325"
+        },
+        {
+          "type": "text",
+          "html": "Compact grouting platform from Häny. Combined mixer, agitator and pump in one robust unit. Easy to transport and install. Perfect for grouting of anchors, rock bolts and contact grouting. Capacity up to 2 m³/hour at 100 bar. Similar to the <a href=\"/productos/haeny/bombas-manuales\">IC310</a> but with an extra piston for a smoother flow."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Mixer: 100 litres",
+            "Hopper: 150 litres",
+            "Pump capacity: 2 m³/h",
+            "Max. pressure: 100 bar",
+            "Max. particle size: 5 mm",
+            "Number of pistons: 2 (double pump)",
+            "Weight: 700 kg"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Can be ordered with a DPV-H data logger with USB port from Jean-Lutz. The data logger can save flow and pressure in real time."
+        },
+        {
+          "type": "text",
+          "html": "With proper care it is extremely long-lived. Very easy to clean and maintain."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure",
+          "href": "/assets/docs/haeny-manuella-pumpar-ic-325-ic325-ccp-broschyr-eng.pdf",
+          "driveId": "1fNL77EuIJqvhxDTVYxPL6AbzUiSP-Ui1"
+        },
+        {
+          "type": "image",
+          "alt": "HÄNY IC 325 & IC325 CCP, image 3",
+          "width": 800,
+          "height": 753,
+          "src": "/assets/img/haeny-manuella-pumpar-ic-325-ic325-ccp-3.webp"
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "src": "/assets/img/haeny-manuella-pumpar-ic-325-ic325-ccp-4.webp",
+              "alt": "HÄNY IC 325 & IC325 CCP, image 1",
+              "width": 728,
+              "height": 815
+            },
+            {
+              "src": "/assets/img/haeny-manuella-pumpar-ic-325-ic325-ccp-5.webp",
+              "alt": "HÄNY IC 325 & IC325 CCP, image 2",
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "autoplay": false
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Häny IC325 CCP"
+        },
+        {
+          "type": "text",
+          "html": "Häny’s newest model and flagship, compact grouting platform for cement slurry as well as polyurethane injection. The IC325 CCP consists of the IC325 (from above) plus an extra unit/module with the WIWA K2 high-pressure pump for mixing/injecting polyurethane. The add-on unit also has data logging functionality."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Capacity: up to 2 m³/h",
+            "Max. pressure: 100 bar",
+            "Water/cement ratio: ≤ 0.35",
+            "Max. particle size: 5 mm",
+            "Number of pistons: 2 (double pump)",
+            "Weight: 840 kg",
+            "Dimensions: 2,110 x 885 x 1,590 mm"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Supports three methods in the same system: cement slurry only; 2K polyurethane (PU) only; combined cement + PU (CCP method).",
+            "Integrated WIWA K2 high-pressure pump for precise dosing",
+            "RASCOR static mixer for even and reliable mixing",
+            "Fully automatic control with real-time logging and full traceability"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Low maintenance level and reduced washing needs. Optimised for confined spaces, easy to move and install"
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure",
+          "href": "/assets/docs/haeny-manuella-pumpar-ic-325-ic325-ccp-broschyr-eng-2.pdf",
+          "driveId": "1j3Fwms6yFgGqN_tLg0CJDkkEJAoECTUJ"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "JRLJBqrYTF8",
+          "title": "Häny IC325 | Grout Pump with Polyurethane | Haeny CCP - Polyurethane pump"
+        },
+        {
+          "type": "text",
+          "html": "In the video next to this text you can get more information about the functionality of the IC325 CCP from Häny’s specialist. Click the video and watch it on our YouTube channel."
+        }
+      ],
+      "published": true
+    }
+  }
+}

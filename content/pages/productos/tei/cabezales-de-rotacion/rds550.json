@@ -1,0 +1,188 @@
+{
+  "path": "/productos/tei/cabezales-de-rotacion/rds550",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 2,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hem-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "RDS550",
+      "h1": "RDS550",
+      "description": "RDS550: Acoplamiento de brida; Ligero y compacto; Amortiguador; Par de rotación: 6803 Nm; Peso: 177 kg. De TEI Rock Drills en Solvitek.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "RDS550: imagen 2",
+          "width": 1423,
+          "height": 1152,
+          "src": "/assets/img/tei-rotationshammare-rds550-2.webp"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Acoplamiento de brida",
+            "Ligero y compacto",
+            "Amortiguador",
+            "Par de rotación: 6803 Nm",
+            "Peso: 177 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Datos técnicos",
+          "tagline": "Cabezal de perforación rotativo",
+          "intro": [
+            "TEI Rock Drills fabrica robustos cabezales de rotación hidráulicos, concebidos para un funcionamiento suave y un mantenimiento sencillo en la perforación rotativa, como el bulonado de suelo y los micropilotes.",
+            "Los cabezales RDS se someten al mismo ensayo en banco antes de la entrega que nuestros martillos perforadores hidráulicos patentados. TEI es un cabezal de sustitución preferido en el sector gracias a su rendimiento superior."
+          ],
+          "groups": [
+            {
+              "title": "Rotación",
+              "rows": [
+                {
+                  "label": "Par de rotación",
+                  "metric": "6779 Nm",
+                  "us": "5000 lbf-ft"
+                },
+                {
+                  "label": "Caudal de rotación",
+                  "metric": "125 lpm",
+                  "us": "33 gpm"
+                },
+                {
+                  "label": "Diámetro interior del eje de lavado",
+                  "metric": "38 mm",
+                  "us": "1 1/2\""
+                },
+                {
+                  "label": "Presión de rotación",
+                  "metric": "207 bar",
+                  "us": "3000 psi"
+                },
+                {
+                  "label": "Peso",
+                  "metric": "177 kg",
+                  "us": "390 lb"
+                },
+                {
+                  "label": "Velocidad",
+                  "metric": "143 rpm",
+                  "us": "143 rpm"
+                }
+              ]
+            }
+          ],
+          "note": "Las especificaciones técnicas de TEI suponen una pérdida de potencia hidráulica del 40 %."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Ficha de producto",
+          "href": "/assets/docs/tei-rotationshammare-rds550-broschyr-eng.pdf",
+          "driveId": "1pe9BMUz82UFlu801oMoMXWkarPa-q-o9"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "RDS550",
+      "h1": "RDS550",
+      "description": "RDS550: Flange coupling; Lightweight, compact; Shock absorber; Rotation torque: 6,803 Nm; Weight: 177 kg. From TEI Rock Drills at Solvitek.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "RDS550: image 2",
+          "width": 1423,
+          "height": 1152,
+          "src": "/assets/img/tei-rotationshammare-rds550-2.webp"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Flange coupling",
+            "Lightweight, compact",
+            "Shock absorber",
+            "Rotation torque: 6,803 Nm",
+            "Weight: 177 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Technical data",
+          "tagline": "Rotary drill head",
+          "intro": [
+            "TEI Rock Drills manufactures robust hydraulic rotary heads built for smooth operation and easy maintenance in rotary drilling, such as soil nailing and micropiles.",
+            "RDS heads undergo the same bench test before delivery as our patented hydraulic drifters. TEI is a preferred replacement head in the industry thanks to its superior performance."
+          ],
+          "groups": [
+            {
+              "title": "Rotation",
+              "rows": [
+                {
+                  "label": "Rotation torque",
+                  "metric": "6779 Nm",
+                  "us": "5000 lbf-ft"
+                },
+                {
+                  "label": "Rotation flow",
+                  "metric": "125 lpm",
+                  "us": "33 gpm"
+                },
+                {
+                  "label": "Flush shaft inner diameter",
+                  "metric": "38 mm",
+                  "us": "1 1/2\""
+                },
+                {
+                  "label": "Rotation pressure",
+                  "metric": "207 bar",
+                  "us": "3000 psi"
+                },
+                {
+                  "label": "Weight",
+                  "metric": "177 kg",
+                  "us": "390 lb"
+                },
+                {
+                  "label": "Speed",
+                  "metric": "143 rpm",
+                  "us": "143 rpm"
+                }
+              ]
+            }
+          ],
+          "note": "TEI’s technical specifications assume a 40% hydraulic power loss."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Data sheet",
+          "href": "/assets/docs/tei-rotationshammare-rds550-broschyr-eng.pdf",
+          "driveId": "1pe9BMUz82UFlu801oMoMXWkarPa-q-o9"
+        }
+      ],
+      "published": true
+    }
+  }
+}

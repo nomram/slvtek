@@ -1,0 +1,230 @@
+{
+  "path": "/productos/tei/martillos-perforadores/te360",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 5,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hem-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "TE360",
+      "h1": "TE360",
+      "description": "TE360: elegante diseño de perfil bajo; alta relación potencia-peso; sistema de percusión con ASA; potencia de salida: 11 kW; par de rotación: 2001 Nm; peso: 107 kg",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "TE360: imagen 2",
+          "width": 1506,
+          "height": 1047,
+          "src": "/assets/img/tei-topphammare-te360-2.webp"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Elegante diseño de perfil bajo",
+            "Alta relación potencia-peso",
+            "Sistema de percusión con ASA",
+            "Potencia de salida: 11 kW",
+            "Par de rotación: 2001 Nm",
+            "Peso: 107 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Datos técnicos",
+          "tagline": "Martillo perforador hidráulico",
+          "intro": [
+            "El TE360 incorpora nuestra tecnología ASA patentada (Automatic Stroke Adjustment, ajuste automático de carrera) como parte del sistema de percusión. La alta frecuencia y el funcionamiento suave del sistema ASA prolongan la vida útil del martillo perforador, lo que se traduce en mayor productividad y rentabilidad. Dos modos de potencia permiten controlar con precisión la energía y la frecuencia del sistema de percusión.",
+            "Los motores de rotación reversibles permiten una perforación eficaz y reducen el riesgo de que la sarta se atasque. El perfil bajo permite perforar junto a paredes y acceder a espacios estrechos. El tamaño compacto y la alta relación potencia-peso hacen que las perforadoras de TEI sean únicas en el mercado."
+          ],
+          "groups": [
+            {
+              "title": "Rotación",
+              "rows": [
+                {
+                  "label": "Par de rotación",
+                  "metric": "2000 Nm",
+                  "us": "1475 lbf-ft"
+                },
+                {
+                  "label": "Caudal de rotación",
+                  "metric": "38 lpm",
+                  "us": "10 gpm"
+                },
+                {
+                  "label": "Presión de rotación",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Peso",
+                  "metric": "107 kg",
+                  "us": "237 lb"
+                },
+                {
+                  "label": "Velocidad",
+                  "metric": "250 rpm",
+                  "us": "250 rpm"
+                }
+              ]
+            },
+            {
+              "title": "Percusión",
+              "rows": [
+                {
+                  "label": "Potencia de salida",
+                  "metric": "11 kW",
+                  "us": "15 hp"
+                },
+                {
+                  "label": "Caudal del martillo",
+                  "metric": "72 lpm",
+                  "us": "19 gpm"
+                },
+                {
+                  "label": "Presión del martillo",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Frecuencia de golpeo",
+                  "metric": "58 Hz",
+                  "us": "3480 bpm"
+                }
+              ]
+            }
+          ],
+          "note": "Las especificaciones técnicas de TEI suponen una pérdida de potencia hidráulica del 40 %."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Ficha de producto",
+          "href": "/assets/docs/tei-topphammare-te360-broschyr-eng.pdf",
+          "driveId": "1YZooP_TrAjICmCkjK8in0teGBQg09HM6"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "TE360",
+      "h1": "TE360",
+      "description": "TE360: Elegant low-profile design; High power-to-weight ratio; Percussion system with ASA; Output power: 11 kW; Rotation torque: 2,001 Nm; Weight: 107 kg",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "TE360: image 2",
+          "width": 1506,
+          "height": 1047,
+          "src": "/assets/img/tei-topphammare-te360-2.webp"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Elegant low-profile design",
+            "High power-to-weight ratio",
+            "Percussion system with ASA",
+            "Output power: 11 kW",
+            "Rotation torque: 2,001 Nm",
+            "Weight: 107 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Technical data",
+          "tagline": "Hydraulic drifter",
+          "intro": [
+            "TE360 has our patented ASA technology (Automatic Stroke Adjustment) as part of the percussion system. The high frequency and smooth operation of the ASA system extend the drifter’s service life, giving higher productivity and better profitability. Two power modes give precise control of the energy and frequency of the percussion system.",
+            "Reversible rotation motors give effective drilling and reduce the risk of the drill string jamming. The low profile makes it possible to drill next to walls and reach into tight spaces. The compact size and high power-to-weight ratio make TEI’s drills unique on the market."
+          ],
+          "groups": [
+            {
+              "title": "Rotation",
+              "rows": [
+                {
+                  "label": "Rotation torque",
+                  "metric": "2000 Nm",
+                  "us": "1475 lbf-ft"
+                },
+                {
+                  "label": "Rotation flow",
+                  "metric": "38 lpm",
+                  "us": "10 gpm"
+                },
+                {
+                  "label": "Rotation pressure",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Weight",
+                  "metric": "107 kg",
+                  "us": "237 lb"
+                },
+                {
+                  "label": "Speed",
+                  "metric": "250 rpm",
+                  "us": "250 rpm"
+                }
+              ]
+            },
+            {
+              "title": "Percussion",
+              "rows": [
+                {
+                  "label": "Output power",
+                  "metric": "11 kW",
+                  "us": "15 hp"
+                },
+                {
+                  "label": "Hammer flow",
+                  "metric": "72 lpm",
+                  "us": "19 gpm"
+                },
+                {
+                  "label": "Hammer pressure",
+                  "metric": "155 bar",
+                  "us": "2250 psi"
+                },
+                {
+                  "label": "Blow frequency",
+                  "metric": "58 Hz",
+                  "us": "3480 bpm"
+                }
+              ]
+            }
+          ],
+          "note": "TEI’s technical specifications assume a 40% hydraulic power loss."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Data sheet",
+          "href": "/assets/docs/tei-topphammare-te360-broschyr-eng.pdf",
+          "driveId": "1YZooP_TrAjICmCkjK8in0teGBQg09HM6"
+        }
+      ],
+      "published": true
+    }
+  }
+}

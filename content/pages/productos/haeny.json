@@ -1,0 +1,437 @@
+{
+  "path": "/productos/haeny",
+  "updated": "2026-10-10",
+  "template": "brand",
+  "order": 1,
+  "published": false,
+  "hero": {
+    "image": "/assets/img/haeny-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "HÄNY",
+      "h1": "HÄNY",
+      "description": "Häny fabrica sistemas de inyección y mezcla. Consulte su folleto a continuación o contáctenos para más información.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "HÄNY",
+          "width": 832,
+          "height": 143,
+          "src": "/assets/img/haeny-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "Häny fabrica sistemas de inyección y mezcla. Consulte su folleto a continuación o <a href=\"/contacto\">contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto",
+          "href": "/assets/docs/haeny-ladda-ner-huvudbroschyr.pdf",
+          "driveId": "148ne9OMuPCzVDbmhU6CGsrj5TFyFTViG"
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "items": [
+            {
+              "title": "Bombas manuales",
+              "image": "/assets/img/haeny-manuella-pumpar.webp",
+              "alt": "Bombas manuales",
+              "href": "/productos/haeny/bombas-manuales"
+            },
+            {
+              "title": "Bombas automáticas",
+              "image": "/assets/img/haeny-automatiska-pumpar.webp",
+              "alt": "Bombas automáticas",
+              "href": "/productos/haeny/bombas-automaticas"
+            }
+          ],
+          "columns": 2
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "La tecnología de Häny"
+        },
+        {
+          "type": "columns",
+          "ratio": "40-60",
+          "left": [
+            {
+              "type": "image",
+              "alt": "HÄNY: imagen 2",
+              "width": 351,
+              "height": 264,
+              "src": "/assets/img/haeny-2.webp",
+              "caption": "Mezcladora"
+            }
+          ],
+          "right": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Principio de mezcla"
+            },
+            {
+              "type": "text",
+              "html": "Para una mezcla eficiente de cemento, cemento ultrafino y bentonita, las mezcladoras Häny generan elevadas fuerzas de cizallamiento con bombas de alta velocidad y un impulsor de vórtice exclusivo. Las bombas hacen circular todo el contenido del depósito de 2 a 4 veces por minuto, lo que genera una turbulencia extrema y una separación eficaz de las partículas, y garantiza una hidratación completa."
+            },
+            {
+              "type": "text",
+              "html": "Esta hidratación intensiva proporciona una suspensión estable y fácil de trabajar, incluso con aditivos difíciles de mezclar. La mezcladora HCM elimina la necesidad de pre-humedecer la bentonita o de usar depósitos de almacenamiento."
+            }
+          ]
+        },
+        {
+          "type": "columns",
+          "ratio": "40-60",
+          "left": [
+            {
+              "type": "image",
+              "alt": "HÄNY: imagen 3",
+              "width": 599,
+              "height": 440,
+              "src": "/assets/img/haeny-3.webp",
+              "caption": "Impulsor"
+            }
+          ],
+          "right": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Impulsor"
+            },
+            {
+              "type": "text",
+              "html": "El impulsor de vórtice de Häny tiene un gran paso (15-80 mm) y es extremadamente resistente al desgaste, lo que reduce el desgaste y los atascos. Los modelos HCM 300 y HCM 600 pueden mezclar lechadas arenosas con tamaños de partícula de hasta 8 mm. El sello del eje, que no requiere mantenimiento, soporta el funcionamiento en seco durante varios minutos sin sufrir daños."
+            }
+          ]
+        },
+        {
+          "type": "columns",
+          "ratio": "40-60",
+          "left": [
+            {
+              "type": "image",
+              "alt": "HÄNY: imagen 4",
+              "width": 682,
+              "height": 1548,
+              "src": "/assets/img/haeny-4.webp",
+              "caption": "Émbolo"
+            }
+          ],
+          "right": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Sistema de bomba de émbolo"
+            },
+            {
+              "type": "text",
+              "html": "A diferencia de las bombas de pistón, las bombas de émbolo no requieren piezas de ajuste preciso como cilindros o juntas de pistón exactas. El émbolo se sella con una junta que no requiere mantenimiento, y pueden montarse distintos diámetros en las bombas de la serie ZMP 700 para adaptar con flexibilidad la presión y el caudal."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Válvulas"
+            },
+            {
+              "type": "text",
+              "html": "Las válvulas de inyección están fabricadas en acero aleado resistente al desgaste con asientos de válvula reversibles. El sistema hidráulico proporciona una carrera de aspiración rápida que mantiene limpias las válvulas al arrastrar las partículas pesadas. Las bombas también manejan suspensiones con una baja relación agua/cemento y un alto contenido de arena."
+            }
+          ]
+        },
+        {
+          "type": "columns",
+          "ratio": "40-60",
+          "left": [
+            {
+              "type": "image",
+              "alt": "HÄNY: imagen 5",
+              "width": 649,
+              "height": 490,
+              "src": "/assets/img/haeny-5.webp",
+              "caption": "Bloque de control para regular el caudal"
+            }
+          ],
+          "right": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Control automático de presión"
+            },
+            {
+              "type": "text",
+              "html": "Las bombas ZMP 700 tienen válvulas para ajustar con precisión la presión máxima. Al alcanzar la presión, el caudal se ajusta automáticamente o se detiene, manteniendo la presión. Algunos modelos pueden ajustarse desde tan solo 1 bar, lo que permite inyectar con seguridad en formaciones sensibles."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Control del caudal"
+            },
+            {
+              "type": "text",
+              "html": "La regulación de caudal integrada permite ajustar el caudal máximo, lo que posibilita una inyección lenta en terrenos blandos sin segregación ni nuevos huecos. Junto con el control de presión, las bombas también pueden utilizarse para ensayos de permeabilidad."
+            }
+          ]
+        },
+        {
+          "type": "columns",
+          "ratio": "40-60",
+          "left": [
+            {
+              "type": "image",
+              "src": "/assets/img/ahlm-st-5-2.webp",
+              "alt": "Silo",
+              "width": 1502,
+              "height": 897
+            }
+          ],
+          "right": [
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Silo"
+            },
+            {
+              "type": "text",
+              "html": "A menudo es recomendable combinar la bomba con un silo para garantizar un suministro de material uniforme y continuo. Un silo reduce el manejo de big bags, mejora el flujo de trabajo y puede equiparse con un tornillo transportador para la alimentación automática a la bomba. Haga clic en «Leer más» para ver un ejemplo de silo que recomendamos."
+            },
+            {
+              "type": "button",
+              "kind": "link",
+              "text": "Leer más",
+              "href": "/productos/ahlm/st-5"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "alt": "HÄNY: imagen 6",
+          "width": 1100,
+          "height": 355,
+          "src": "/assets/img/haeny-6.webp",
+          "inline": true,
+          "maxWidth": 190,
+          "align": "right"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "HÄNY",
+      "h1": "HÄNY",
+      "description": "Häny manufactures grouting and mixing systems. Take a look at their brochure below or contact us for more information.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "HÄNY",
+          "width": 832,
+          "height": 143,
+          "src": "/assets/img/haeny-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "Häny manufactures grouting and mixing systems. Take a look at their brochure below or <a href=\"/contacto\">contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure",
+          "href": "/assets/docs/haeny-ladda-ner-huvudbroschyr.pdf",
+          "driveId": "148ne9OMuPCzVDbmhU6CGsrj5TFyFTViG"
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "items": [
+            {
+              "title": "Manual pumps",
+              "image": "/assets/img/haeny-manuella-pumpar.webp",
+              "alt": "Manual pumps",
+              "href": "/productos/haeny/bombas-manuales"
+            },
+            {
+              "title": "Automatic pumps",
+              "image": "/assets/img/haeny-automatiska-pumpar.webp",
+              "alt": "Automatic pumps",
+              "href": "/productos/haeny/bombas-automaticas"
+            }
+          ],
+          "columns": 2
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Häny’s technology"
+        },
+        {
+          "type": "columns",
+          "ratio": "40-60",
+          "left": [
+            {
+              "type": "image",
+              "alt": "HÄNY: image 2",
+              "width": 351,
+              "height": 264,
+              "src": "/assets/img/haeny-2.webp",
+              "caption": "Mixer"
+            }
+          ],
+          "right": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Mixing principle"
+            },
+            {
+              "type": "text",
+              "html": "For efficient mixing of cement, ultrafine cement and bentonite, Häny mixers create high shear forces with high-speed pumps and a unique vortex impeller. The pumps circulate the entire tank contents 2-4 times per minute, generating extreme turbulence and effective particle separation and ensuring complete hydration."
+            },
+            {
+              "type": "text",
+              "html": "This intense hydration gives a stable and easily workable suspension, even for difficult-to-mix additives. The HCM mixer eliminates the need for pre-soaking of bentonite or storage tanks."
+            }
+          ]
+        },
+        {
+          "type": "columns",
+          "ratio": "40-60",
+          "left": [
+            {
+              "type": "image",
+              "alt": "HÄNY: image 3",
+              "width": 599,
+              "height": 440,
+              "src": "/assets/img/haeny-3.webp",
+              "caption": "Impeller"
+            }
+          ],
+          "right": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Impeller"
+            },
+            {
+              "type": "text",
+              "html": "Häny’s vortex impeller has a large throughput (15-80 mm) and is extremely wear-resistant, which reduces wear and clogging. The HCM 300 and HCM 600 models can mix sandy grouts with particle sizes up to 8 mm. The maintenance-free shaft seal withstands dry running for several minutes without damage."
+            }
+          ]
+        },
+        {
+          "type": "columns",
+          "ratio": "40-60",
+          "left": [
+            {
+              "type": "image",
+              "alt": "HÄNY: image 4",
+              "width": 682,
+              "height": 1548,
+              "src": "/assets/img/haeny-4.webp",
+              "caption": "Plunger"
+            }
+          ],
+          "right": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Plunger pump system"
+            },
+            {
+              "type": "text",
+              "html": "Unlike piston pumps, plunger pumps do not require close-fitting parts such as cylinders or precise piston seals. The plunger is sealed with a maintenance-free seal, and different diameters can be fitted to the ZMP 700 series pumps for flexible pressure and flow adaptation."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Valves"
+            },
+            {
+              "type": "text",
+              "html": "The injection valves are made of wear-resistant alloy steel with reversible valve seats. The hydraulic system provides a fast suction stroke that keeps the valves clean by flushing away heavy particles. The pumps also handle suspensions with a low water/cement ratio and a high sand content."
+            }
+          ]
+        },
+        {
+          "type": "columns",
+          "ratio": "40-60",
+          "left": [
+            {
+              "type": "image",
+              "alt": "HÄNY: image 5",
+              "width": 649,
+              "height": 490,
+              "src": "/assets/img/haeny-5.webp",
+              "caption": "Control block for flow control"
+            }
+          ],
+          "right": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Automatic pressure control"
+            },
+            {
+              "type": "text",
+              "html": "ZMP 700 pumps have valves for precise setting of maximum pressure. When the pressure is reached, the flow is adjusted automatically or stopped, while the pressure is maintained. Some models can be set from as low as 1 bar, which enables safe grouting in sensitive formations."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Flow control"
+            },
+            {
+              "type": "text",
+              "html": "Built-in flow regulation allows the maximum flow to be set, which enables slow grouting in soft ground conditions without segregation or new voids. Together with the pressure control, the pumps can also be used for permeability tests."
+            }
+          ]
+        },
+        {
+          "type": "columns",
+          "ratio": "40-60",
+          "left": [
+            {
+              "type": "image",
+              "src": "/assets/img/ahlm-st-5-2.webp",
+              "alt": "Silo",
+              "width": 1502,
+              "height": 897
+            }
+          ],
+          "right": [
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Silo"
+            },
+            {
+              "type": "text",
+              "html": "It can often be a good idea to combine the pump with a silo to ensure an even and continuous supply of material. A silo reduces the handling of big bags, improves the workflow and can be fitted with a screw conveyor for automatic feeding to the pump. Click “Read more” to see an example of a silo that we recommend."
+            },
+            {
+              "type": "button",
+              "kind": "link",
+              "text": "Read more",
+              "href": "/productos/ahlm/st-5"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "alt": "HÄNY: image 6",
+          "width": 1100,
+          "height": 355,
+          "src": "/assets/img/haeny-6.webp",
+          "inline": true,
+          "maxWidth": 190,
+          "align": "right"
+        }
+      ],
+      "published": true
+    }
+  },
+  "logo": "/assets/img/logo-haeny.webp"
+}

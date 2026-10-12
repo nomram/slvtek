@@ -1,0 +1,254 @@
+{
+  "path": "/",
+  "updated": "2026-10-10",
+  "template": "home",
+  "order": 100,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-crawlers-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Inicio",
+      "h1": "Maquinaria y soluciones para construir mejor.",
+      "description": "Maquinaria y soluciones para cimentaciones especiales, perforación, hormigón proyectado, estabilización de taludes y manejo de material seco en la industria de la construcción.",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Nuestras marcas"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "href": "/productos/tei",
+              "html": "Fabricante de mástiles de perforación para excavadoras, accesorios de perforación y equipos de perforación para espacios reducidos.",
+              "text": "Fabricante de mástiles de perforación para excavadoras, accesorios de perforación y equipos de perforación para espacios reducidos.",
+              "image": "/assets/img/tei.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "TEI Rock Drills logotipo"
+            },
+            {
+              "href": "/productos/marini",
+              "html": "Maquinaria especial para cimentaciones, canteras, vehículos de orugas, equipos de perforación y sierras de hilo con accesorios.",
+              "text": "Maquinaria especial para cimentaciones, canteras, vehículos de orugas, equipos de perforación y sierras de hilo con accesorios.",
+              "image": "/assets/img/marini.webp",
+              "width": 1241,
+              "height": 1241,
+              "alt": "Marini logotipo"
+            },
+            {
+              "href": "/productos/geobrugg",
+              "html": "Productos y sistemas para la estabilización de taludes y la protección frente a desprendimientos y deslizamientos.",
+              "text": "Productos y sistemas para la estabilización de taludes y la protección frente a desprendimientos y deslizamientos.",
+              "image": "/assets/img/geobrugg.webp",
+              "width": 1000,
+              "height": 1000,
+              "alt": "Geobrugg logotipo"
+            },
+            {
+              "href": "/productos/ram-board",
+              "html": "Productos de protección de suelos y marcos fabricados para su reutilización y con certificación FSC.",
+              "text": "Productos de protección de suelos y marcos fabricados para su reutilización y con certificación FSC.",
+              "image": "/assets/img/ram-board.webp",
+              "width": 250,
+              "height": 250,
+              "alt": "Ram Board logotipo"
+            },
+            {
+              "href": "/productos/terra-infrastructure",
+              "html": "Potentes martillos perforadores y unidades vibratorias para perforar anclajes e hincar tablestacas en terrenos difíciles.",
+              "text": "Potentes martillos perforadores y unidades vibratorias para perforar anclajes e hincar tablestacas en terrenos difíciles.",
+              "image": "/assets/img/terra-infrastructure.webp",
+              "width": 1000,
+              "height": 1000,
+              "alt": "Terra Infrastructure logotipo"
+            },
+            {
+              "href": "/productos/reed",
+              "html": "Equipos robustos para hormigón proyectado, bombas de hormigón y máquinas de gunitado.",
+              "text": "Equipos robustos para hormigón proyectado, bombas de hormigón y máquinas de gunitado.",
+              "image": "/assets/img/reed.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "REED logotipo"
+            },
+            {
+              "href": "/productos/ahlm",
+              "html": "Silos para mortero seco para el manejo de cemento y mortero seco en un sistema cerrado, estanco al polvo y al agua.",
+              "text": "Silos para mortero seco para el manejo de cemento y mortero seco en un sistema cerrado, estanco al polvo y al agua.",
+              "image": "/assets/img/ahlm.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "AHLM logotipo"
+            }
+          ]
+        },
+        {
+          "type": "chips",
+          "title": "Le asesoramos sobre",
+          "items": [
+            "cemento",
+            "hormigón",
+            "impregnación",
+            "inyección",
+            "recubrimientos de superficies",
+            "protección de superficies",
+            "geotecnia",
+            "soportes de montaje",
+            "entibación de zanjas",
+            "silos",
+            "bombas de hormigón",
+            "equipos de perforación",
+            "sierras de hilo",
+            "cemento expansivo",
+            "estabilización de taludes"
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "No dude en preguntar: solucionamos casi todo.",
+          "text": "Contáctenos y le ayudaremos, esté donde esté en el proceso de construcción.",
+          "button": "Contáctenos",
+          "href": "/contacto"
+        }
+      ],
+      "lead": "Maquinaria y soluciones para cimentaciones especiales, perforación, hormigón proyectado, estabilización de taludes y manejo de material seco en la industria de la construcción.",
+      "ctas": [
+        {
+          "text": "Ver nuestros productos",
+          "href": "/productos"
+        },
+        {
+          "text": "Contáctenos",
+          "href": "/contacto"
+        }
+      ],
+      "published": true,
+      "tagline": "Maquinaria y soluciones para la construcción"
+    },
+    "en": {
+      "title": "Home",
+      "h1": "Machinery and solutions to build better.",
+      "description": "Machinery and solutions for special foundations, drilling, shotcrete, slope stabilisation and dry-material handling in the construction industry.",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our brands"
+        },
+        {
+          "type": "cards",
+          "items": [
+            {
+              "href": "/productos/tei",
+              "html": "Manufacturer of drill masts for excavators, drilling accessories and drill rigs for confined spaces.",
+              "text": "Manufacturer of drill masts for excavators, drilling accessories and drill rigs for confined spaces.",
+              "image": "/assets/img/tei.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "TEI Rock Drills logo"
+            },
+            {
+              "href": "/productos/marini",
+              "html": "Special machinery for foundation work, quarrying, tracked vehicles, drilling rigs and wire saws with accessories.",
+              "text": "Special machinery for foundation work, quarrying, tracked vehicles, drilling rigs and wire saws with accessories.",
+              "image": "/assets/img/marini.webp",
+              "width": 1241,
+              "height": 1241,
+              "alt": "Marini logo"
+            },
+            {
+              "href": "/productos/geobrugg",
+              "html": "Products and systems for slope stabilisation and protection against rockfall and landslides.",
+              "text": "Products and systems for slope stabilisation and protection against rockfall and landslides.",
+              "image": "/assets/img/geobrugg.webp",
+              "width": 1000,
+              "height": 1000,
+              "alt": "Geobrugg logo"
+            },
+            {
+              "href": "/productos/ram-board",
+              "html": "Floor and frame protection products made for reuse and with FSC certification.",
+              "text": "Floor and frame protection products made for reuse and with FSC certification.",
+              "image": "/assets/img/ram-board.webp",
+              "width": 250,
+              "height": 250,
+              "alt": "Ram Board logo"
+            },
+            {
+              "href": "/productos/terra-infrastructure",
+              "html": "Powerful drifters and vibratory units for drilling anchors and driving sheet piles in tough ground.",
+              "text": "Powerful drifters and vibratory units for drilling anchors and driving sheet piles in tough ground.",
+              "image": "/assets/img/terra-infrastructure.webp",
+              "width": 1000,
+              "height": 1000,
+              "alt": "Terra Infrastructure logo"
+            },
+            {
+              "href": "/productos/reed",
+              "html": "Robust equipment for shotcrete, concrete pumps and gunite machines.",
+              "text": "Robust equipment for shotcrete, concrete pumps and gunite machines.",
+              "image": "/assets/img/reed.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "REED logo"
+            },
+            {
+              "href": "/productos/ahlm",
+              "html": "Dry-mix silos for handling cement and dry mortar in a closed, dust- and watertight system.",
+              "text": "Dry-mix silos for handling cement and dry mortar in a closed, dust- and watertight system.",
+              "image": "/assets/img/ahlm.webp",
+              "width": 1920,
+              "height": 1920,
+              "alt": "AHLM logo"
+            }
+          ]
+        },
+        {
+          "type": "chips",
+          "title": "We help with advice on",
+          "items": [
+            "cement",
+            "concrete",
+            "impregnation",
+            "grouting",
+            "surface coatings",
+            "surface protection",
+            "geotechnics",
+            "assembly supports",
+            "trench shoring",
+            "silos",
+            "concrete pumps",
+            "drilling rigs",
+            "wire saws",
+            "non-explosive rock splitting",
+            "slope stabilisation"
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Don’t hesitate to ask, we solve most things.",
+          "text": "Contact us and we will help you on, wherever you are in the construction process.",
+          "button": "Contact us",
+          "href": "/contacto"
+        }
+      ],
+      "lead": "Machinery and solutions for special foundations, drilling, shotcrete, slope stabilisation and dry-material handling in the construction industry.",
+      "ctas": [
+        {
+          "text": "See our products",
+          "href": "/productos"
+        },
+        {
+          "text": "Contact us",
+          "href": "/contacto"
+        }
+      ],
+      "published": true,
+      "tagline": "Machinery and solutions for construction"
+    }
+  }
+}

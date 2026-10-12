@@ -1,0 +1,169 @@
+{
+  "path": "/productos/marini/estabilizacion-de-taludes/mr-5",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 2,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-slantstabilisering-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "MR 5",
+      "h1": "MARINI MR 5",
+      "description": "El MR 5 es un equipo sobre ruedas para facilitar el desplazamiento. Puede equiparse con distintos tipos de ruedas y cestas para las barras de perforación. El MR 5 puede ser hidráulico (MR5…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logotipo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 343,
+          "height": 328,
+          "src": "/assets/img/marini-slantstabilisering-mr-5-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 347,
+          "height": 324,
+          "src": "/assets/img/marini-slantstabilisering-mr-5-3.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 348,
+          "height": 328,
+          "src": "/assets/img/marini-slantstabilisering-mr-5-4.webp"
+        },
+        {
+          "type": "text",
+          "html": "El MR 5 es un equipo sobre ruedas para facilitar el desplazamiento. Puede equiparse con distintos tipos de ruedas y cestas para las barras de perforación. El MR 5 puede ser hidráulico (MR5 ID) o neumático (MR5 PN). Consulte más información en los folletos que figuran a continuación."
+        },
+        {
+          "type": "text",
+          "html": "Cada modelo de la <a href=\"/productos/marini/estabilizacion-de-taludes\">serie MR</a> de Marini ofrece distintas carreras, fuerzas de avance, fuerza de retroceso y par de rotación según los requisitos específicos."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para obtener folletos detallados y más información."
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "columns": 2,
+          "more": false,
+          "items": [
+            {
+              "title": "MR 5 ID",
+              "image": "/assets/img/marini-slantstabilisering-mr-5-5.webp",
+              "alt": "MARINI MR 5: imagen 5",
+              "doc": {
+                "text": "Folleto",
+                "href": "/assets/docs/marini-slantstabilisering-mr-5-broschyr.pdf",
+                "driveId": "15y2j8dgF3Q-7O_RPaAqFDyaizbHVI5ek"
+              }
+            },
+            {
+              "title": "MR 5 PN",
+              "image": "/assets/img/marini-slantstabilisering-mr-5-6.webp",
+              "alt": "MARINI MR 5: imagen 6",
+              "doc": {
+                "text": "Folleto",
+                "href": "/assets/docs/marini-slantstabilisering-mr-5-broschyr-2.pdf",
+                "driveId": "1PDgfo7SUI7TM1F75VAjt9hwysib0ZbDW"
+              }
+            }
+          ]
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "MR 5",
+      "h1": "MARINI MR 5",
+      "description": "MR 5 is a wheeled rig for easy movement. It can be fitted with different types of wheels and baskets for the drill rods. MR 5 can be either hydraulic (MR5…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "src": "/assets/img/marini-slantstabilisering-mr-5-2.webp",
+              "alt": "MARINI MR 5, image 1",
+              "width": 343,
+              "height": 328
+            },
+            {
+              "src": "/assets/img/marini-slantstabilisering-mr-5-3.webp",
+              "alt": "MARINI MR 5, image 2",
+              "width": 347,
+              "height": 324
+            },
+            {
+              "src": "/assets/img/marini-slantstabilisering-mr-5-4.webp",
+              "alt": "MARINI MR 5, image 3",
+              "width": 348,
+              "height": 328
+            }
+          ],
+          "autoplay": false
+        },
+        {
+          "type": "text",
+          "html": "MR 5 is a wheeled rig for easy movement. It can be fitted with different types of wheels and baskets for the drill rods. MR 5 can be either hydraulic (MR5 ID) or pneumatic (MR5 PN). Read more in the brochures below."
+        },
+        {
+          "type": "text",
+          "html": "Each model in Marini’s <a href=\"/productos/marini/estabilizacion-de-taludes\">MR series</a> offers different stroke lengths, feed forces, pull-back force and rotation torque depending on specific requirements."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for detailed brochures and more information."
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "columns": 2,
+          "more": false,
+          "items": [
+            {
+              "title": "MR 5 ID",
+              "image": "/assets/img/marini-slantstabilisering-mr-5-5.webp",
+              "alt": "MARINI MR 5: image 5",
+              "doc": {
+                "text": "Brochure",
+                "href": "/assets/docs/marini-slantstabilisering-mr-5-broschyr.pdf",
+                "driveId": "15y2j8dgF3Q-7O_RPaAqFDyaizbHVI5ek"
+              }
+            },
+            {
+              "title": "MR 5 PN",
+              "image": "/assets/img/marini-slantstabilisering-mr-5-6.webp",
+              "alt": "MARINI MR 5: image 6",
+              "doc": {
+                "text": "Brochure",
+                "href": "/assets/docs/marini-slantstabilisering-mr-5-broschyr-2.pdf",
+                "driveId": "1PDgfo7SUI7TM1F75VAjt9hwysib0ZbDW"
+              }
+            }
+          ]
+        }
+      ],
+      "published": true
+    }
+  }
+}

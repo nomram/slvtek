@@ -1,0 +1,204 @@
+{
+  "path": "/productos/marini/estabilizacion-de-taludes/mr-3",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 1,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-slantstabilisering-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "MR 3",
+      "h1": "MARINI MR 3 PN / MR 3 ID",
+      "description": "El MR 3 es un mástil de perforación sobre patines. Se transporta fácilmente y puede desmontarse en piezas pequeñas para su transporte. El MR 3 puede ser hidráulico (MR3 ID)…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logotipo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "MARINI MR 3 PN / MR 3 ID, imagen 2",
+          "width": 1529,
+          "height": 1667,
+          "src": "/assets/img/marini-slantstabilisering-mr-3-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "El MR 3 es un mástil de perforación sobre patines. Se transporta fácilmente y puede desmontarse en piezas pequeñas para su transporte. El MR 3 puede ser hidráulico (MR3 ID) o neumático (MR3 PN). Haga clic en el modelo que le interese a continuación para acceder a los folletos y encontrar el modelo que mejor se adapte a sus necesidades."
+        },
+        {
+          "type": "text",
+          "html": "Conozca más sobre las especificaciones de la serie MR y cómo estas máquinas pueden llevar sus proyectos a un nuevo nivel."
+        },
+        {
+          "type": "text",
+          "html": "Cada modelo de la serie MR de Marini ofrece distintas carreras, fuerzas de avance, fuerza de retroceso y par de rotación según los requisitos específicos."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para obtener folletos detallados y más información."
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "columns": 2,
+          "more": false,
+          "items": [
+            {
+              "title": "MR 3 ID",
+              "image": "/assets/img/marini-slantstabilisering-mr-3-3.webp",
+              "alt": "MARINI MR 3 PN / MR 3 ID, imagen 3",
+              "doc": {
+                "text": "Folleto",
+                "href": "/assets/docs/marini-slantstabilisering-mr-3-broschyr.pdf",
+                "driveId": "1JUUIL7yTrK-_-04LDxxRsiPMsmLR4mWh"
+              }
+            },
+            {
+              "title": "MR 3 PN",
+              "image": "/assets/img/marini-slantstabilisering-mr-3-4.webp",
+              "alt": "MARINI MR 3 PN / MR 3 ID, imagen 4",
+              "doc": {
+                "text": "Folleto",
+                "href": "/assets/docs/marini-slantstabilisering-mr-3-broschyr-2.pdf",
+                "driveId": "1-_L1MXdlWu-ipf0Qnm3cvWxDdXKn4YDV"
+              }
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1620,
+          "height": 1080,
+          "src": "/assets/img/marini-slantstabilisering-mr-3-5.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1024,
+          "height": 1520,
+          "src": "/assets/img/marini-slantstabilisering-mr-3-6.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1280,
+          "height": 960,
+          "src": "/assets/img/marini-slantstabilisering-mr-3-7.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1280,
+          "height": 960,
+          "src": "/assets/img/marini-slantstabilisering-mr-3-8.webp"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "MR 3",
+      "h1": "MARINI MR 3 PN / MR 3 ID",
+      "description": "MR 3 is a skid-based drill mast. It is easily transported and can be dismantled into small parts for transport. MR 3 can be either hydraulic (MR3 ID)…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "MARINI MR 3 PN / MR 3 ID, image 2",
+          "width": 1529,
+          "height": 1667,
+          "src": "/assets/img/marini-slantstabilisering-mr-3-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "MR 3 is a skid-based drill mast. It is easily transported and can be dismantled into small parts for transport. MR 3 can be either hydraulic (MR3 ID) or pneumatic (MR3 PN). Click the model of interest below to get to the brochures and find the model that suits you best."
+        },
+        {
+          "type": "text",
+          "html": "Read more about the specifications of the MR series and how these machines can take your projects to new levels."
+        },
+        {
+          "type": "text",
+          "html": "Each model in Marini’s MR series offers different stroke lengths, feed forces, pull-back force and rotation torque depending on specific requirements."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for detailed brochures and more information."
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "columns": 2,
+          "more": false,
+          "items": [
+            {
+              "title": "MR 3 ID",
+              "image": "/assets/img/marini-slantstabilisering-mr-3-3.webp",
+              "alt": "MARINI MR 3 PN / MR 3 ID, image 3",
+              "doc": {
+                "text": "Brochure",
+                "href": "/assets/docs/marini-slantstabilisering-mr-3-broschyr.pdf",
+                "driveId": "1JUUIL7yTrK-_-04LDxxRsiPMsmLR4mWh"
+              }
+            },
+            {
+              "title": "MR 3 PN",
+              "image": "/assets/img/marini-slantstabilisering-mr-3-4.webp",
+              "alt": "MARINI MR 3 PN / MR 3 ID, image 4",
+              "doc": {
+                "text": "Brochure",
+                "href": "/assets/docs/marini-slantstabilisering-mr-3-broschyr-2.pdf",
+                "driveId": "1-_L1MXdlWu-ipf0Qnm3cvWxDdXKn4YDV"
+              }
+            }
+          ]
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "src": "/assets/img/marini-slantstabilisering-mr-3-5.webp",
+              "alt": "MARINI MR 3 PN / MR 3 ID, image 1",
+              "width": 1620,
+              "height": 1080
+            },
+            {
+              "src": "/assets/img/marini-slantstabilisering-mr-3-6.webp",
+              "alt": "MARINI MR 3 PN / MR 3 ID, image 2",
+              "width": 1024,
+              "height": 1520
+            },
+            {
+              "src": "/assets/img/marini-slantstabilisering-mr-3-7.webp",
+              "alt": "MARINI MR 3 PN / MR 3 ID, image 3",
+              "width": 1280,
+              "height": 960
+            },
+            {
+              "src": "/assets/img/marini-slantstabilisering-mr-3-8.webp",
+              "alt": "MARINI MR 3 PN / MR 3 ID, image 4",
+              "width": 1280,
+              "height": 960
+            }
+          ],
+          "autoplay": false
+        }
+      ],
+      "published": true
+    }
+  }
+}

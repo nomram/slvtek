@@ -1,0 +1,182 @@
+{
+  "path": "/productos/tei/mastiles-de-perforacion/mph",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 5,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hem-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "MPH",
+      "h1": "MPH",
+      "description": "El MPH es una plataforma de perforación compacta y versátil que ofrece potencia y precisión incluso en los lugares de trabajo de más difícil acceso. Un hermano mayor del MP260…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "MPH: imagen 2",
+          "width": 409,
+          "height": 470,
+          "src": "/assets/img/tei-borrmaster-mph-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "El MPH es una plataforma de perforación compacta y versátil que ofrece potencia y precisión incluso en los lugares de trabajo de más difícil acceso. Hermano mayor del <a href=\"/productos/tei/mastiles-de-perforacion/mp260\">MP260</a>, ofrece más rendimiento para trabajos más exigentes."
+        },
+        {
+          "type": "text",
+          "html": "Con el diseño innovador y los componentes ligeros de TEI, es ideal para micropilotaje, barras huecas y anclajes en entornos complejos."
+        },
+        {
+          "type": "text",
+          "html": "Esta plataforma de perforación combina agilidad, durabilidad y alto rendimiento, lo que la convierte en una elección natural para los contratistas que quieren optimizar tanto el tiempo como los resultados. El MPH está construido para afrontar retos exigentes y garantiza eficiencia y rentabilidad en cada proyecto."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "datasheet",
+          "title": "Datos técnicos",
+          "note": "Las especificaciones técnicas de TEI suponen una pérdida de potencia hidráulica del 40 %.",
+          "tagline": "Sistema de perforación portátil",
+          "intro": [
+            "El sistema de perforación portátil MPH lleva la perforación en espacios reducidos a un nuevo nivel. El MPH se inspiró en el sistema portátil MP, combinado con el avance SCF recién diseñado.",
+            "El MPH se sitúa entre los sistemas de perforación MP y PD y ofrece un avance más robusto que el MP con avance ACF; permite utilizar tanto la serie «300» como la serie «200» de cabezales de perforación, lo que convierte al MPH en el sistema de perforación portátil más versátil del mercado."
+          ],
+          "groups": [
+            {
+              "title": "Especificaciones",
+              "rows": [
+                {
+                  "label": "Fuerza de tracción",
+                  "metric": "11 121 N",
+                  "us": "2500 lbf"
+                },
+                {
+                  "label": "Carrera de perforación (SCF5)",
+                  "metric": "2 m",
+                  "us": "6 ft"
+                },
+                {
+                  "label": "Peso",
+                  "metric": "435 kg",
+                  "us": "960 lbs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Ficha de producto",
+          "href": "/assets/docs/tei-borrmaster-mph-broschyr-eng.pdf",
+          "driveId": "19dqvkcPDB2fDD5pLN5Ntis0m3cYUDAxc"
+        },
+        {
+          "type": "image",
+          "alt": "MPH: imagen 3",
+          "width": 1920,
+          "height": 1100,
+          "src": "/assets/img/tei-borrmaster-mph-3.webp"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "MPH",
+      "h1": "MPH",
+      "description": "MPH is a compact and versatile drilling platform that delivers power and precision even at the most difficult-to-access worksites. A big brother to MP260…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "MPH: image 2",
+          "width": 409,
+          "height": 470,
+          "src": "/assets/img/tei-borrmaster-mph-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "MPH is a compact and versatile drilling platform that delivers power and precision even at the most difficult-to-access worksites. A big brother to <a href=\"/productos/tei/mastiles-de-perforacion/mp260\">MP260</a>, it delivers more performance for more demanding jobs."
+        },
+        {
+          "type": "text",
+          "html": "With TEI’s innovative design and lightweight components it is ideal for micropiling, hollow bars and anchoring in complex environments."
+        },
+        {
+          "type": "text",
+          "html": "This drilling platform combines agility, durability and high performance, making it a natural choice for contractors who want to optimise both time and results. MPH is built to handle tough challenges and ensures efficiency and profitability in every project."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "datasheet",
+          "title": "Technical data",
+          "note": "TEI’s technical specifications assume a 40% hydraulic power loss.",
+          "tagline": "Portable drilling system",
+          "intro": [
+            "The MPH portable drilling system takes confined-space drilling to a new level. MPH took inspiration from the man-portable MP system, combined with the newly designed SCF feed.",
+            "MPH sits between the MP and PD drilling systems and delivers a more robust feed than the MP with ACF feed, and allows the use of both the “300” series and the “200” series of drill heads, making the MPH the most versatile portable drilling system on the market."
+          ],
+          "groups": [
+            {
+              "title": "Specifications",
+              "rows": [
+                {
+                  "label": "Pull force",
+                  "metric": "11 121 N",
+                  "us": "2500 lbf"
+                },
+                {
+                  "label": "Drill travel (SCF5)",
+                  "metric": "2 m",
+                  "us": "6 ft"
+                },
+                {
+                  "label": "Weight",
+                  "metric": "435 kg",
+                  "us": "960 lbs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Data sheet",
+          "href": "/assets/docs/tei-borrmaster-mph-broschyr-eng.pdf",
+          "driveId": "19dqvkcPDB2fDD5pLN5Ntis0m3cYUDAxc"
+        },
+        {
+          "type": "image",
+          "alt": "MPH: image 3",
+          "width": 1920,
+          "height": 1100,
+          "src": "/assets/img/tei-borrmaster-mph-3.webp"
+        }
+      ],
+      "published": true
+    }
+  }
+}

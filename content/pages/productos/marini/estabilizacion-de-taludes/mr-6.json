@@ -1,0 +1,234 @@
+{
+  "path": "/productos/marini/estabilizacion-de-taludes/mr-6",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 3,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-slantstabilisering-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "MR 6",
+      "h1": "MARINI MR 6",
+      "description": "El MR 6 es una viga de perforación sobre ruedas inspirada en una carretilla. Se transporta fácilmente y puede desmontarse para dos carreras diferentes, de 700 mm o 1200 mm. El MR 6 puede…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logotipo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "MARINI MR 6: imagen 2",
+          "width": 900,
+          "height": 809,
+          "src": "/assets/img/marini-slantstabilisering-mr-6-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "El MR 6 es una viga de perforación sobre ruedas inspirada en una carretilla. Se transporta fácilmente y puede desmontarse para dos carreras diferentes, de 700 mm o 1200 mm. El MR 6 puede ser hidráulico (MR6 ID) o neumático (MR6 PN). Consulte más información en los folletos que figuran a continuación."
+        },
+        {
+          "type": "text",
+          "html": "Cada modelo de la <a href=\"/productos/marini/estabilizacion-de-taludes\">serie MR</a> de Marini ofrece distintas carreras, fuerzas de avance, fuerza de retroceso y par de rotación según los requisitos específicos."
+        },
+        {
+          "type": "text",
+          "html": "Seleccione a continuación el modelo que le interese para obtener el folleto."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "columns": 1,
+          "more": false,
+          "items": [
+            {
+              "title": "MR 6 ID",
+              "image": "/assets/img/marini-slantstabilisering-mr-6-3.webp",
+              "alt": "MARINI MR 6: imagen 3",
+              "doc": {
+                "text": "Folleto",
+                "href": "/assets/docs/marini-slantstabilisering-mr-6-broschyr-ny-flik.pdf",
+                "driveId": "1TrlSuL7sVOWsZhPuovRlrsu-jU59qedZ"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Mástil de perforación hidráulico con mástil divisible"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Peso: 300-330 kg"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Avance: 6 kN",
+            "Fuerza de retroceso: 10 kN",
+            "Mordaza"
+          ]
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "columns": 1,
+          "more": false,
+          "items": [
+            {
+              "title": "MR 6 PN",
+              "image": "/assets/img/marini-slantstabilisering-mr-6-4.webp",
+              "alt": "MARINI MR 6: imagen 4",
+              "doc": {
+                "text": "Folleto",
+                "href": "/assets/docs/marini-slantstabilisering-mr-6-broschyr-ny-flik-2.pdf",
+                "driveId": "1WCh_AgTK3cdNFVGHBJr2r_egXUyofAZJ"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Viga de perforación neumática con mástil divisible"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Peso: 300-330 kg",
+            "Avance: 8,5 kN",
+            "Fuerza de retroceso: 8,5 kN",
+            "Centralizador"
+          ]
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "MR 6",
+      "h1": "MARINI MR 6",
+      "description": "MR 6 is a wheelbarrow-inspired drill beam on wheels. It is easily transported and can be dismantled for two different stroke lengths, 700 mm or 1,200 mm. MR 6 can…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "MARINI MR 6: image 2",
+          "width": 900,
+          "height": 809,
+          "src": "/assets/img/marini-slantstabilisering-mr-6-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "MR 6 is a wheelbarrow-inspired drill beam on wheels. It is easily transported and can be dismantled for two different stroke lengths, 700 mm or 1,200 mm. MR 6 can be either hydraulic (MR6 ID) or pneumatic (MR6 PN). Read more in the brochures below."
+        },
+        {
+          "type": "text",
+          "html": "Each model in Marini’s <a href=\"/productos/marini/estabilizacion-de-taludes\">MR series</a> offers different stroke lengths, feed forces, pull-back force and rotation torque depending on specific requirements."
+        },
+        {
+          "type": "text",
+          "html": "Select the model of interest below to get the brochure."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "columns": 1,
+          "more": false,
+          "items": [
+            {
+              "title": "MR 6 ID",
+              "image": "/assets/img/marini-slantstabilisering-mr-6-3.webp",
+              "alt": "MARINI MR 6: image 3",
+              "doc": {
+                "text": "Brochure",
+                "href": "/assets/docs/marini-slantstabilisering-mr-6-broschyr-ny-flik.pdf",
+                "driveId": "1TrlSuL7sVOWsZhPuovRlrsu-jU59qedZ"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Hydraulic drill mast with divisible mast"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Weight: 300-330 kg"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Feed: 6 kN",
+            "Pull-back force: 10 kN",
+            "Clamp"
+          ]
+        },
+        {
+          "type": "modules",
+          "layout": "tiles",
+          "columns": 1,
+          "more": false,
+          "items": [
+            {
+              "title": "MR 6 PN",
+              "image": "/assets/img/marini-slantstabilisering-mr-6-4.webp",
+              "alt": "MARINI MR 6: image 4",
+              "doc": {
+                "text": "Brochure",
+                "href": "/assets/docs/marini-slantstabilisering-mr-6-broschyr-ny-flik-2.pdf",
+                "driveId": "1WCh_AgTK3cdNFVGHBJr2r_egXUyofAZJ"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Pneumatic drill beam with divisible mast"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Weight: 300-330 kg",
+            "Feed: 8.5 kN",
+            "Pull-back force: 8.5 kN",
+            "Centraliser"
+          ]
+        }
+      ],
+      "published": true
+    }
+  }
+}

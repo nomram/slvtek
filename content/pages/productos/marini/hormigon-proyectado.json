@@ -1,0 +1,192 @@
+{
+  "path": "/productos/marini/hormigon-proyectado",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 7,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/marini-sprutbetong-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Hormigón proyectado",
+      "h1": "MR-SB / Hormigón proyectado",
+      "description": "Marini ha desarrollado el sistema de lanza para hormigón proyectado MR-SB, que combina eficiencia y seguridad en las obras. Este sistema es de control remoto…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logotipo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "MR-SB / Hormigón proyectado, imagen 2",
+          "width": 1920,
+          "height": 1350,
+          "src": "/assets/img/marini-sprutbetong-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Marini ha desarrollado el sistema de lanza para hormigón proyectado MR-SB, que combina eficiencia y seguridad en las obras. Este sistema es de control remoto y puede utilizarse en diversos equipos autopropulsados, lo que permite un posicionamiento rápido y preciso del equipo."
+        },
+        {
+          "type": "text",
+          "html": "El sistema MR-SB está diseñado para automatizar el proceso de trabajo mediante una boquilla giratoria, lo que mejora la uniformidad de la proyección. Esto reduce tanto el tiempo de trabajo como el riesgo para los trabajadores, especialmente en entornos exigentes de los sectores minero y de obra civil."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para obtener un folleto y más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Catálogo de productos (ENG)",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1500,
+          "height": 2000,
+          "src": "/assets/img/marini-sprutbetong-3.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1600,
+          "height": 1200,
+          "src": "/assets/img/marini-sprutbetong-4.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1200,
+          "height": 1600,
+          "src": "/assets/img/marini-sprutbetong-5.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1920,
+          "height": 1440,
+          "src": "/assets/img/marini-sprutbetong-6.webp"
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "aUdMAbHl4uU",
+          "title": "MARINI Shotcrete MR-SB"
+        },
+        {
+          "type": "text",
+          "html": "Especificaciones técnicas del MR-SB:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Caudal de aceite: 35 lpm",
+            "Presión: 180 bar",
+            "Tensión: 24 V"
+          ]
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Shotcrete",
+      "h1": "MR-SB / Shotcrete",
+      "description": "Marini has developed the MR-SB shotcrete lance system for sprayed concrete, combining efficiency and safety on construction sites. This system is remote-controlled…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Marini logo",
+          "href": "/productos/marini",
+          "width": 928,
+          "height": 542,
+          "src": "/assets/img/logo-marini-emblem.webp"
+        },
+        {
+          "type": "image",
+          "alt": "MR-SB / Shotcrete: image 2",
+          "width": 1920,
+          "height": 1350,
+          "src": "/assets/img/marini-sprutbetong-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Marini has developed the MR-SB shotcrete lance system for sprayed concrete, combining efficiency and safety on construction sites. This system is remote-controlled and can be used on various self-propelled rigs, enabling both fast and accurate positioning of the equipment."
+        },
+        {
+          "type": "text",
+          "html": "The MR-SB system is designed to automate the work process through a rotating nozzle, which improves the evenness of spraying. This reduces both working time and the risk to workers, especially in challenging environments in the mining and civil engineering sectors."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for a brochure and more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Product catalogue (ENG)",
+          "href": "/assets/docs/marini-crawlers-produktkatalog.pdf",
+          "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "src": "/assets/img/marini-sprutbetong-3.webp",
+              "alt": "MR-SB / Shotcrete, image 1",
+              "width": 1500,
+              "height": 2000
+            },
+            {
+              "src": "/assets/img/marini-sprutbetong-4.webp",
+              "alt": "MR-SB / Shotcrete, image 2",
+              "width": 1600,
+              "height": 1200
+            },
+            {
+              "src": "/assets/img/marini-sprutbetong-5.webp",
+              "alt": "MR-SB / Shotcrete, image 3",
+              "width": 1200,
+              "height": 1600
+            },
+            {
+              "src": "/assets/img/marini-sprutbetong-6.webp",
+              "alt": "MR-SB / Shotcrete, image 4",
+              "width": 1920,
+              "height": 1440
+            }
+          ],
+          "autoplay": false
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "aUdMAbHl4uU",
+          "title": "MARINI Shotcrete MR-SB"
+        },
+        {
+          "type": "text",
+          "html": "Technical specifications for MR-SB:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Oil flow: 35 lpm",
+            "Pressure: 180 bar",
+            "Voltage: 24 V"
+          ]
+        }
+      ],
+      "published": true
+    }
+  }
+}

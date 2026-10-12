@@ -1,0 +1,136 @@
+{
+  "path": "/productos/ahlm/tb-10",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 1,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/ahlm-tb-10-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "TB-10",
+      "h1": "TB-10",
+      "description": "TB-10 es un silo para mortero seco (desarrollado por AHLM) con tornillo transportador integrado para el manejo eficiente y con poco polvo de mortero seco, cemento y otros…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TB-10",
+          "width": 1920,
+          "height": 961,
+          "src": "/assets/img/ahlm-st-1-1.webp",
+          "href": "/productos/ahlm"
+        },
+        {
+          "type": "image",
+          "alt": "TB-10: imagen 2",
+          "width": 1920,
+          "height": 1920,
+          "src": "/assets/img/ahlm-tb-10.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Silo para mortero seco TB-10"
+        },
+        {
+          "type": "text",
+          "html": "TB-10 es un silo para mortero seco (desarrollado por AHLM) con tornillo transportador integrado para el manejo eficiente y con poco polvo de mortero seco, cemento y otros materiales en polvo. El silo se utiliza como tolva de mortero donde el material se almacena a granel y se alimenta de forma controlada a una mezcladora o bomba, ya sea con llenado a granel desde fábrica o mediante big bag con ST-1 o ST-5 como cabezal de llenado."
+        },
+        {
+          "type": "text",
+          "html": "Datos técnicos:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Capacidad (mortero seco): 10 toneladas",
+            "Volumen de la tolva: aprox. 6,5 m³",
+            "Dimensiones (L x An x Al): 3850 x 1900 x 2900 mm",
+            "Peso en vacío: aprox. 1100 kg",
+            "Equipamiento: tornillo transportador integrado para alimentar a la mezcladora, elementos vibradores en la tolva (según versión)"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Llenado: a granel directamente desde fábrica o big bag mediante la estación de vaciado ST-1 / ST-5"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "TB-10 es una solución de silo para mortero seco robusta y probada para obras, centrada en una logística eficiente, menos desperdicio y un mejor entorno de trabajo."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "TB-10",
+      "h1": "TB-10",
+      "description": "TB-10 is a dry-mix silo (developed by AHLM) with an integrated conveyor screw for efficient, reduced-dust handling of dry mortar, cement and other…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TB-10",
+          "width": 1920,
+          "height": 961,
+          "src": "/assets/img/ahlm-st-1-1.webp",
+          "href": "/productos/ahlm"
+        },
+        {
+          "type": "image",
+          "alt": "TB-10: image 2",
+          "width": 1920,
+          "height": 1920,
+          "src": "/assets/img/ahlm-tb-10.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Dry-mix silo TB-10"
+        },
+        {
+          "type": "text",
+          "html": "TB-10 is a dry-mix silo (developed by AHLM) with an integrated conveyor screw for efficient, reduced-dust handling of dry mortar, cement and other powder materials. The silo is used as a mortar hopper where material is stored in bulk and fed on in a controlled way to a mixer or pump, either with bulk filling from the factory or via big bag with ST-1 or ST-5 as filling top."
+        },
+        {
+          "type": "text",
+          "html": "Technical data:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Capacity (dry mortar): 10 tonnes",
+            "Hopper volume: approx. 6.5 m³",
+            "Dimensions (L x W x H): 3,850 x 1,900 x 2,900 mm",
+            "Weight empty: approx. 1,100 kg",
+            "Equipment: integrated conveyor screw for feeding to a mixer, vibrator elements on the hopper (depending on version)"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Filling: bulk directly from the factory, or big bag via bag emptying station ST-1 / ST-5"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "TB-10 is a robust and proven dry-mix silo solution for construction sites, focused on efficient logistics, reduced waste and a better working environment."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        }
+      ],
+      "published": true
+    }
+  }
+}

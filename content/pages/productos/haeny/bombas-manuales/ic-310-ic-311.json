@@ -1,0 +1,234 @@
+{
+  "path": "/productos/haeny/bombas-manuales/ic-310-ic-311",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 0,
+  "published": false,
+  "hero": {
+    "image": "/assets/img/haeny-manuella-pumpar-dataloggare-dpv-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "IC 310 & IC 311",
+      "h1": "HÄNY IC 310 & IC311",
+      "description": "Plataforma de inyección compacta para lechada de cemento: el producto más vendido de Häny.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "HÄNY IC 310 & IC311",
+          "width": 876,
+          "height": 510,
+          "src": "/assets/img/haeny-automatiska-pumpar-1.webp",
+          "href": "/productos/haeny"
+        },
+        {
+          "type": "image",
+          "alt": "HÄNY IC 310 & IC311, imagen 2",
+          "width": 495,
+          "height": 496,
+          "src": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311-2.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Häny IC310"
+        },
+        {
+          "type": "text",
+          "html": "Plataforma de inyección compacta para lechada de cemento: el producto más vendido de Häny."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Mezcladora: 100 litros",
+            "Tolva: 150 litros",
+            "Capacidad de la bomba: 25 litros/min (1,5 m³/hora)",
+            "Presión máx.: 100 bar",
+            "Tamaño máx. de partícula: 5 mm",
+            "Número de pistones: 1",
+            "Peso: 625 kg"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Puede equiparse con un registrador de datos <a href=\"/productos/haeny/bombas-manuales/registrador-de-datos-dpv\">DPV-H</a> con puerto USB de Jean-Lutz. El registrador puede guardar el caudal y la presión en tiempo real."
+        },
+        {
+          "type": "text",
+          "html": "Con el cuidado adecuado es extremadamente duradera. Muy fácil de limpiar y mantener."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto",
+          "href": "/assets/docs/haeny-manuella-pumpar-ic-310-ic-311-broschyr-eng.pdf",
+          "driveId": "12C2EatakW1x2v675WiRWD7N99Hnhj7gq"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1478,
+          "height": 1108,
+          "src": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311-3.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1108,
+          "height": 1478,
+          "src": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311-4.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1478,
+          "height": 1108,
+          "src": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311-5.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Carrusel de imágenes",
+          "width": 1108,
+          "height": 1478,
+          "src": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311-6.webp"
+        },
+        {
+          "type": "text",
+          "html": "Existen varias variantes del IC310: IC311 e <a href=\"/productos/haeny/bombas-manuales/ic-325-ic325-ccp\">IC325</a>. El IC311 tiene una presión de trabajo algo menor y es algo más económico. En el IC311 la presión máxima es de 75 bar en lugar de los 100 bar del IC310, pero tiene un caudal mayor, de 2 m³/hora."
+        },
+        {
+          "type": "text",
+          "html": "La variante <a href=\"/productos/haeny/bombas-manuales/ic-325-ic325-ccp\">IC325</a>, a diferencia del IC310, tiene dos bombas de pistón, lo que proporciona un caudal más uniforme. La presión máxima es de 100 bar y el caudal máximo de 2 m³/hora."
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "Si1zdO3x4h0",
+          "title": "Plataforma de inyección compacta Häny IC 310 | Bomba Häny IC310"
+        },
+        {
+          "type": "text",
+          "html": "En el vídeo situado junto a este texto puede obtener más información sobre el funcionamiento del IC310. Haga clic en el vídeo y véalo en nuestro canal de YouTube."
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "IC 310 & IC 311",
+      "h1": "HÄNY IC 310 & IC311",
+      "description": "Compact grouting platform for cement slurry, Häny’s absolute best seller.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "HÄNY IC 310 & IC311",
+          "width": 876,
+          "height": 510,
+          "src": "/assets/img/haeny-automatiska-pumpar-1.webp",
+          "href": "/productos/haeny"
+        },
+        {
+          "type": "image",
+          "alt": "HÄNY IC 310 & IC311, image 2",
+          "width": 495,
+          "height": 496,
+          "src": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311-2.webp"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Häny IC310"
+        },
+        {
+          "type": "text",
+          "html": "Compact grouting platform for cement slurry, Häny’s absolute best seller."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Mixer: 100 litres",
+            "Hopper: 150 litres",
+            "Pump capacity: 25 litres/min (1.5 m³/hour)",
+            "Max. pressure: 100 bar",
+            "Max. particle size: 5 mm",
+            "Number of pistons: 1",
+            "Weight: 625 kg"
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Can be fitted with a <a href=\"/productos/haeny/bombas-manuales/registrador-de-datos-dpv\">DPV-H</a> data logger with USB port from Jean-Lutz. The data logger can save flow and pressure in real time."
+        },
+        {
+          "type": "text",
+          "html": "With proper care it is extremely long-lived. Very easy to clean and maintain."
+        },
+        {
+          "type": "text",
+          "html": "<a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure",
+          "href": "/assets/docs/haeny-manuella-pumpar-ic-310-ic-311-broschyr-eng.pdf",
+          "driveId": "12C2EatakW1x2v675WiRWD7N99Hnhj7gq"
+        },
+        {
+          "type": "carousel",
+          "items": [
+            {
+              "src": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311-3.webp",
+              "alt": "HÄNY IC 310 & IC311, image 1",
+              "width": 1478,
+              "height": 1108
+            },
+            {
+              "src": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311-4.webp",
+              "alt": "HÄNY IC 310 & IC311, image 2",
+              "width": 1108,
+              "height": 1478
+            },
+            {
+              "src": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311-5.webp",
+              "alt": "HÄNY IC 310 & IC311, image 3",
+              "width": 1478,
+              "height": 1108
+            },
+            {
+              "src": "/assets/img/haeny-manuella-pumpar-ic-310-ic-311-6.webp",
+              "alt": "HÄNY IC 310 & IC311, image 4",
+              "width": 1108,
+              "height": 1478
+            }
+          ],
+          "autoplay": false
+        },
+        {
+          "type": "text",
+          "html": "There are several variants of the IC310: IC311 and <a href=\"/productos/haeny/bombas-manuales/ic-325-ic325-ccp\">IC325</a>. The IC311 has a slightly lower working pressure and is a little cheaper. On the IC311 the maximum pressure is 75 bar instead of 100 bar as on the IC310, but it has a higher flow of 2 m³/hour."
+        },
+        {
+          "type": "text",
+          "html": "The <a href=\"/productos/haeny/bombas-manuales/ic-325-ic325-ccp\">IC325</a> variant, unlike the IC310, has two piston pumps, which gives a smoother flow. The maximum pressure is 100 bar and the maximum flow is 2 m³/hour."
+        },
+        {
+          "type": "video",
+          "provider": "youtube",
+          "id": "Si1zdO3x4h0",
+          "title": "Häny IC 310 compact grouting platform | Häny IC310 pump"
+        },
+        {
+          "type": "text",
+          "html": "In the video next to this text you can get more information about the functionality of the IC310. Click the video and watch it on our YouTube channel."
+        }
+      ],
+      "published": true
+    }
+  }
+}

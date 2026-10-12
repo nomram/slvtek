@@ -1,0 +1,129 @@
+{
+  "path": "/productos/ahlm",
+  "updated": "2026-10-10",
+  "template": "brand",
+  "order": 11,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/ahlm-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "AHLM",
+      "h1": "AHLM",
+      "description": "Ahlm es especialista en silos para mortero seco y soluciones de big bag para mortero seco, cemento, yeso y mortero autonivelante, basadas en el método Ahlm, probado, para…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "AHLM",
+          "width": 1920,
+          "height": 1073,
+          "src": "/assets/img/ahlm-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "Ahlm es especialista en silos para mortero seco y soluciones de big bag para mortero seco, cemento, yeso y mortero autonivelante, basadas en el método Ahlm, probado, para un manejo eficiente del mortero seco."
+        },
+        {
+          "type": "text",
+          "html": "Los silos son estancos al polvo y al agua, pueden elevarse con camión portacontenedores, carretilla o grúa y tienen una salida cónica con viga vibrante para un vaciado seguro y prácticamente completo, tiempos de montaje cortos y mínima pérdida de material."
+        },
+        {
+          "type": "text",
+          "html": "El buque insignia ST-5 es un silo compacto para mortero seco que puede equiparse con tornillo, agitador, células de carga, vibrador y caudalímetro de agua, lo que lo hace ideal como «minifábrica» de mortero seco, con una capacidad de unos 200-400 kg por minuto, unos 1600 litros de volumen y control total de las cantidades de material y de agua directamente en la obra."
+        },
+        {
+          "type": "text",
+          "html": "Haga clic en el que le interese a continuación o <a href=\"/contacto\">contáctenos</a> para más información."
+        },
+        {
+          "type": "modules",
+          "layout": "cards",
+          "items": [
+            {
+              "title": "Silo para mortero seco ST-5",
+              "image": "/assets/img/ahlm-st-5.webp",
+              "alt": "Silo para mortero seco ST-5",
+              "text": "Estación de vaciado de sacos con tornillo transportador, de 1600 litros",
+              "href": "/productos/ahlm/st-5"
+            },
+            {
+              "title": "Silo para mortero seco TB-10",
+              "image": "/assets/img/ahlm-tb-10.webp",
+              "alt": "Silo para mortero seco TB-10",
+              "text": "Silo para mortero seco con tornillo transportador para aprox. 10 toneladas de mortero",
+              "href": "/productos/ahlm/tb-10"
+            },
+            {
+              "title": "Estación de vaciado de sacos ST-1",
+              "image": "/assets/img/ahlm-st-1.webp",
+              "alt": "Estación de vaciado de sacos ST-1",
+              "text": "Módulo para colocar sobre el TB-10 para el vaciado de sacos",
+              "href": "/productos/ahlm/st-1"
+            }
+          ]
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "AHLM",
+      "h1": "AHLM",
+      "description": "Ahlm are specialists in dry-mix silos and big-bag solutions for dry mortar, cement, plaster and self-levelling compound, based on the proven Ahlm method for…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "AHLM",
+          "width": 1920,
+          "height": 1073,
+          "src": "/assets/img/ahlm-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "Ahlm are specialists in dry-mix silos and big-bag solutions for dry mortar, cement, plaster and self-levelling compound, based on the proven Ahlm method for efficient dry-mortar handling."
+        },
+        {
+          "type": "text",
+          "html": "The silos are dust- and watertight, can be lifted with a container truck, forklift or crane, and have a conical outlet with a vibrating beam for safe, practically complete emptying, short set-up times and minimal material loss."
+        },
+        {
+          "type": "text",
+          "html": "The flagship ST-5 is a compact dry-mix silo that can be fitted with screw, agitator, load cells, vibrator and a water flow meter, making it ideal as a “mini factory” for dry mortar, with a capacity of around 200-400 kg per minute, about 1,600 litres of volume and full control of both material and water quantities directly on site."
+        },
+        {
+          "type": "text",
+          "html": "Click through to the one you are interested in below or <a href=\"/contacto\">contact us</a> for more information."
+        },
+        {
+          "type": "modules",
+          "layout": "cards",
+          "items": [
+            {
+              "title": "Dry-mix silo ST-5",
+              "image": "/assets/img/ahlm-st-5.webp",
+              "alt": "Dry-mix silo ST-5",
+              "text": "Bag emptying station with conveyor screw, 1,600 litre capacity",
+              "href": "/productos/ahlm/st-5"
+            },
+            {
+              "title": "Dry-mix silo TB-10",
+              "image": "/assets/img/ahlm-tb-10.webp",
+              "alt": "Dry-mix silo TB-10",
+              "text": "Dry-mix silo with conveyor screw for approx. 10 tonnes of mortar",
+              "href": "/productos/ahlm/tb-10"
+            },
+            {
+              "title": "Bag emptying station ST-1",
+              "image": "/assets/img/ahlm-st-1.webp",
+              "alt": "Bag emptying station ST-1",
+              "text": "Module for mounting on top of TB-10 for bag emptying",
+              "href": "/productos/ahlm/st-1"
+            }
+          ]
+        }
+      ],
+      "published": true
+    }
+  },
+  "logo": "/assets/img/logo-ahlm.webp"
+}

@@ -1,0 +1,55 @@
+name: Build and deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Restore image cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: img-${{ hashFiles('assets-src/img/**') }}
+          restore-keys: img-
+      - name: Where will this be served from?
+        id: pages
+        uses: actions/configure-pages@v5
+      - run: node src/build.mjs
+      - name: SEO / link / URL-parity checks
+        run: node tools/check.mjs
+      # On https://<user>.github.io/<repo>/ the site lives under a sub-path: prefix every URL and mark
+      # it noindex (preview). With a custom domain base_path is empty and this step does nothing.
+      - name: Apply sub-path (preview deployments only)
+        run: node tools/apply-base.mjs dist "${{ steps.pages.outputs.base_path }}"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,168 @@
+{
+  "path": "/sobre-nosotros",
+  "updated": "2026-10-11",
+  "template": "about",
+  "order": 0,
+  "published": true,
+  "i18n": {
+    "es": {
+      "title": "Sobre nosotros",
+      "navTitle": "Nosotros",
+      "h1": "Sobre nosotros",
+      "description": "Conozca a Solvitek: maquinaria y soluciones para cimentaciones, perforación, hormigón proyectado y estabilización de taludes.",
+      "published": true,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<em>[Texto provisional: sustituir por la información real de la empresa.]</em>"
+        },
+        {
+          "type": "columns",
+          "ratio": "60-40",
+          "left": [
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Quiénes somos"
+            },
+            {
+              "type": "text",
+              "html": "Solvitek suministra maquinaria y soluciones para la industria de la construcción. Trabajamos con fabricantes especializados para ofrecer equipos fiables y el asesoramiento técnico necesario para elegirlos y utilizarlos bien."
+            },
+            {
+              "type": "text",
+              "html": "Aquí irá la historia de la empresa, su equipo y su forma de trabajar. Este apartado es un texto de ejemplo que se sustituirá por el contenido definitivo."
+            }
+          ],
+          "right": [
+            {
+              "type": "image",
+              "alt": "Equipo de perforación en obra",
+              "src": "/assets/img/tei-borrmaster-hero.webp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Qué hacemos"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Perforación y cimentaciones especiales",
+            "Hormigón proyectado y bombeo de hormigón",
+            "Silos y manejo de material seco",
+            "Estabilización de taludes y protección frente a desprendimientos",
+            "Grupos hidráulicos y accesorios",
+            "Protección de suelos y carpinterías en obra"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Por qué Solvitek"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Asesoramiento técnico antes y después de la compra",
+            "Equipos de fabricantes especializados",
+            "Ayuda para elegir el equipo adecuado para cada obra",
+            "Atención directa y respuesta rápida"
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "¿Hablamos de su proyecto?",
+          "text": "Cuéntenos qué necesita y le ayudaremos a encontrar la solución.",
+          "button": "Contáctenos",
+          "href": "/contacto"
+        }
+      ]
+    },
+    "en": {
+      "title": "About us",
+      "navTitle": "About us",
+      "h1": "About us",
+      "description": "Get to know Solvitek: machinery and solutions for foundations, drilling, shotcrete and slope stabilisation.",
+      "published": true,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<em>[Placeholder text: replace with the real company information.]</em>"
+        },
+        {
+          "type": "columns",
+          "ratio": "60-40",
+          "left": [
+            {
+              "type": "heading",
+              "level": 2,
+              "text": "Who we are"
+            },
+            {
+              "type": "text",
+              "html": "Solvitek supplies machinery and solutions for the construction industry. We work with specialist manufacturers to offer reliable equipment and the technical advice needed to choose and use it well."
+            },
+            {
+              "type": "text",
+              "html": "This is where the company story, the team and the way of working will go. This section is sample text that will be replaced by the final content."
+            }
+          ],
+          "right": [
+            {
+              "type": "image",
+              "alt": "Drilling rig on site",
+              "src": "/assets/img/tei-borrmaster-hero.webp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What we do"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Drilling and special foundations",
+            "Shotcrete and concrete pumping",
+            "Silos and dry-material handling",
+            "Slope stabilisation and rockfall protection",
+            "Hydraulic power packs and accessories",
+            "Floor and frame protection on site"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Why Solvitek"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Technical advice before and after the purchase",
+            "Equipment from specialist manufacturers",
+            "Help choosing the right equipment for each job",
+            "Direct contact and quick answers"
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Shall we talk about your project?",
+          "text": "Tell us what you need and we will help you find the solution.",
+          "button": "Contact us",
+          "href": "/contacto"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "image": "/assets/img/tei-hero.webp"
+  }
+}

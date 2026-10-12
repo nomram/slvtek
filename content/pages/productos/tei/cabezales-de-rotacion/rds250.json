@@ -1,0 +1,196 @@
+{
+  "path": "/productos/tei/cabezales-de-rotacion/rds250",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 0,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hem-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "RDS250",
+      "h1": "RDS250",
+      "description": "Cabezal de rotación hidráulico compacto para máquinas de perforación portátiles, mástiles de perforación y máquinas de perforación de acceso limitado.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "RDS250: imagen 2",
+          "width": 1381,
+          "height": 886,
+          "src": "/assets/img/tei-rotationshammare-rds250-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Cabezal de rotación hidráulico compacto para máquinas de perforación portátiles, mástiles de perforación y máquinas de perforación de acceso limitado."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Acoplamiento de brida",
+            "Rotación de 2 velocidades",
+            "Amortiguador",
+            "Par de rotación: 1361 Nm",
+            "Peso: 48 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Datos técnicos",
+          "tagline": "Cabezal de perforación rotativo",
+          "intro": [
+            "TEI Rock Drills fabrica robustos cabezales de rotación hidráulicos, concebidos para un funcionamiento suave y un mantenimiento sencillo en la perforación rotativa, como el bulonado de suelo y los micropilotes.",
+            "Los cabezales RDS se someten al mismo ensayo en banco antes de la entrega que nuestros martillos perforadores hidráulicos patentados. TEI es un cabezal de sustitución preferido en el sector gracias a su rendimiento superior."
+          ],
+          "groups": [
+            {
+              "title": "Rotación",
+              "rows": [
+                {
+                  "label": "Par de rotación",
+                  "metric": "1361 Nm",
+                  "us": "1000 lbf-ft"
+                },
+                {
+                  "label": "Caudal de rotación",
+                  "metric": "4.5 - 75.8 lpm",
+                  "us": "12 - 20 gpm"
+                },
+                {
+                  "label": "Diámetro interior del eje de lavado",
+                  "metric": "22 mm",
+                  "us": "7/8\""
+                },
+                {
+                  "label": "Presión de rotación",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Peso",
+                  "metric": "48 kg",
+                  "us": "106 lb"
+                },
+                {
+                  "label": "Velocidad",
+                  "metric": "311 rpm",
+                  "us": "311 rpm"
+                }
+              ]
+            }
+          ],
+          "note": "Las especificaciones técnicas de TEI suponen una pérdida de potencia hidráulica del 40 %."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Ficha de producto",
+          "href": "/assets/docs/tei-rotationshammare-rds250-broschyr-eng.pdf",
+          "driveId": "1U5ezbw-uzj-cWF39N04YWIeK98V1rrvh"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "RDS250",
+      "h1": "RDS250",
+      "description": "Compact hydraulic rotary head for portable drilling machines, drill masts and limited-access drilling machines.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "RDS250: image 2",
+          "width": 1381,
+          "height": 886,
+          "src": "/assets/img/tei-rotationshammare-rds250-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "Compact hydraulic rotary head for portable drilling machines, drill masts and limited-access drilling machines."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Flange coupling",
+            "2-speed rotation",
+            "Shock absorber",
+            "Rotation torque: 1,361 Nm",
+            "Weight: 48 kg"
+          ]
+        },
+        {
+          "type": "datasheet",
+          "title": "Technical data",
+          "tagline": "Rotary drill head",
+          "intro": [
+            "TEI Rock Drills manufactures robust hydraulic rotary heads built for smooth operation and easy maintenance in rotary drilling, such as soil nailing and micropiles.",
+            "RDS heads undergo the same bench test before delivery as our patented hydraulic drifters. TEI is a preferred replacement head in the industry thanks to its superior performance."
+          ],
+          "groups": [
+            {
+              "title": "Rotation",
+              "rows": [
+                {
+                  "label": "Rotation torque",
+                  "metric": "1361 Nm",
+                  "us": "1000 lbf-ft"
+                },
+                {
+                  "label": "Rotation flow",
+                  "metric": "4.5 - 75.8 lpm",
+                  "us": "12 - 20 gpm"
+                },
+                {
+                  "label": "Flush shaft inner diameter",
+                  "metric": "22 mm",
+                  "us": "7/8\""
+                },
+                {
+                  "label": "Rotation pressure",
+                  "metric": "172 bar",
+                  "us": "2500 psi"
+                },
+                {
+                  "label": "Weight",
+                  "metric": "48 kg",
+                  "us": "106 lb"
+                },
+                {
+                  "label": "Speed",
+                  "metric": "311 rpm",
+                  "us": "311 rpm"
+                }
+              ]
+            }
+          ],
+          "note": "TEI’s technical specifications assume a 40% hydraulic power loss."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Data sheet",
+          "href": "/assets/docs/tei-rotationshammare-rds250-broschyr-eng.pdf",
+          "driveId": "1U5ezbw-uzj-cWF39N04YWIeK98V1rrvh"
+        }
+      ],
+      "published": true
+    }
+  }
+}

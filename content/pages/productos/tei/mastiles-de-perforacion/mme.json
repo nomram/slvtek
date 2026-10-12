@@ -1,0 +1,182 @@
+{
+  "path": "/productos/tei/mastiles-de-perforacion/mme",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 0,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borrmaster-hem-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "MME",
+      "h1": "MME",
+      "description": "El MME es una unidad de perforación ligera para excavadoras de 5-10 toneladas, con muchas de las mismas características que el HEM, mucho más grande. El MME utiliza el mismo sistema de avance de…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "datasheet",
+          "title": "Datos técnicos",
+          "note": "Las especificaciones técnicas de TEI suponen una pérdida de potencia hidráulica del 40 %.",
+          "tagline": "Unidad de perforación hidráulica para excavadoras",
+          "intro": [
+            "El MME es una unidad de perforación ligera para excavadoras de 5-10 toneladas, con muchas de las mismas características que el HEM, mucho más grande. El MME utiliza el mismo sistema de avance de aluminio que las perforadoras portátiles.",
+            "Por eso muchos contratistas consideran el MME su «perforadora de exterior», mientras que la perforadora portátil es la «de interior». Con la tecnología patentada de martillos perforadores de TEI, el MME es una excelente herramienta para instalar micropilotes, bulones de suelo, anclajes, perforar roca e instalar las populares barras huecas."
+          ],
+          "groups": [
+            {
+              "title": "Especificaciones",
+              "rows": [
+                {
+                  "label": "MME260: caudal y presión del sistema",
+                  "metric": "95 lpm @ 155 bar",
+                  "us": "25 gpm @ 2250 psi"
+                },
+                {
+                  "label": "MME250R: caudal y presión del sistema",
+                  "metric": "69 lpm @ 172 bar",
+                  "us": "18 gpm @ 2500 psi"
+                },
+                {
+                  "label": "MME260: diámetro del agujero",
+                  "metric": "35-52 mm",
+                  "us": "1,375-2,0 pulg."
+                },
+                {
+                  "label": "MME250R: diámetro del agujero",
+                  "metric": "70-102 mm",
+                  "us": "2,75-4,0 pulg."
+                },
+                {
+                  "label": "ACF 10: longitud de perforación",
+                  "metric": "4,1 m",
+                  "us": "13,5 ft"
+                },
+                {
+                  "label": "ACF 10: carrera de perforación",
+                  "metric": "3,2 m",
+                  "us": "10,5 ft"
+                },
+                {
+                  "label": "ACF 10: fuerza de tracción",
+                  "metric": "6,5 kN",
+                  "us": "1500 lbf"
+                },
+                {
+                  "label": "Peso aproximado de la herramienta de perforación",
+                  "metric": "488 kg",
+                  "us": "1080 lbs"
+                },
+                {
+                  "label": "Excavadora mínima",
+                  "metric": "5 toneladas",
+                  "us": "5 tons"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Ficha de producto",
+          "href": "/assets/docs/tei-borrmaster-mme-ladda-ner-pdf.pdf",
+          "driveId": "10FZRMDgXz3gnFcCz3amJKVXddWb-DbbA"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "MME",
+      "h1": "MME",
+      "description": "MME is a lightweight drilling unit for excavators of 5-10 tonnes, with many of the same features as the much larger HEM. MME uses the same feed system in…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "datasheet",
+          "title": "Technical data",
+          "note": "TEI’s technical specifications assume a 40% hydraulic power loss.",
+          "tagline": "Hydraulic drilling unit for excavators",
+          "intro": [
+            "MME is a lightweight drilling unit for excavators of 5-10 tonnes, with many of the same features as the much larger HEM. MME uses the same aluminium feed system as the man-portable drills.",
+            "That is why many contractors regard MME as their “outdoor drill” while the portable drill is the “indoor drill”. With TEI’s patented drifter technology, MME is an excellent tool for installing micropiles, soil nails, tiebacks, rock drilling and the popular hollow bars."
+          ],
+          "groups": [
+            {
+              "title": "Specifications",
+              "rows": [
+                {
+                  "label": "MME260: system flow and pressure",
+                  "metric": "95 lpm @ 155 bar",
+                  "us": "25 gpm @ 2250 psi"
+                },
+                {
+                  "label": "MME250R: system flow and pressure",
+                  "metric": "69 lpm @ 172 bar",
+                  "us": "18 gpm @ 2500 psi"
+                },
+                {
+                  "label": "MME260: hole diameter",
+                  "metric": "35-52 mm",
+                  "us": "1.375-2.0 in"
+                },
+                {
+                  "label": "MME250R: hole diameter",
+                  "metric": "70-102 mm",
+                  "us": "2.75-4.0 in"
+                },
+                {
+                  "label": "ACF 10: drill length",
+                  "metric": "4,1 m",
+                  "us": "13,5 ft"
+                },
+                {
+                  "label": "ACF 10: drill travel",
+                  "metric": "3,2 m",
+                  "us": "10,5 ft"
+                },
+                {
+                  "label": "ACF 10: pull force",
+                  "metric": "6,5 kN",
+                  "us": "1500 lbf"
+                },
+                {
+                  "label": "Approximate weight, drilling tool",
+                  "metric": "488 kg",
+                  "us": "1080 lbs"
+                },
+                {
+                  "label": "Minimum excavator size",
+                  "metric": "5 tonnes",
+                  "us": "5 tons"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Data sheet",
+          "href": "/assets/docs/tei-borrmaster-mme-ladda-ner-pdf.pdf",
+          "driveId": "10FZRMDgXz3gnFcCz3amJKVXddWb-DbbA"
+        }
+      ],
+      "published": true
+    }
+  }
+}

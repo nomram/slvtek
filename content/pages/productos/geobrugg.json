@@ -1,0 +1,73 @@
+{
+  "path": "/productos/geobrugg",
+  "updated": "2026-10-10",
+  "template": "brand",
+  "order": 2,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/geobrugg-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Geobrugg",
+      "h1": "Geobrugg",
+      "description": "Productos y sistemas para la estabilización de taludes y la protección frente a desprendimientos.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Geobrugg",
+          "width": 638,
+          "height": 222,
+          "src": "/assets/img/geobrugg-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "Productos y sistemas para la estabilización de taludes y la protección frente a desprendimientos."
+        },
+        {
+          "type": "text",
+          "html": "A continuación encontrará el folleto de Geobrugg. <a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Folleto",
+          "href": "/assets/docs/geobrugg-ladda-ner-pdf.pdf",
+          "driveId": "18rpj7JEsUhFqKeRgORmvXOehkMv-dObF"
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Geobrugg",
+      "h1": "Geobrugg",
+      "description": "Products and systems for slope stabilisation and protection against rockfall.",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "Geobrugg",
+          "width": 638,
+          "height": 222,
+          "src": "/assets/img/geobrugg-1.webp"
+        },
+        {
+          "type": "text",
+          "html": "Products and systems for slope stabilisation and protection against rockfall."
+        },
+        {
+          "type": "text",
+          "html": "Below you will find Geobrugg’s brochure. <a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "button",
+          "kind": "download",
+          "text": "Brochure",
+          "href": "/assets/docs/geobrugg-ladda-ner-pdf.pdf",
+          "driveId": "18rpj7JEsUhFqKeRgORmvXOehkMv-dObF"
+        }
+      ],
+      "published": true
+    }
+  },
+  "logo": "/assets/img/logo-geobrugg.webp"
+}

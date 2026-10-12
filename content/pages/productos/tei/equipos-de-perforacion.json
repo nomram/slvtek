@@ -1,0 +1,334 @@
+{
+  "path": "/productos/tei/equipos-de-perforacion",
+  "updated": "2026-10-10",
+  "template": "product",
+  "order": 3,
+  "published": true,
+  "hero": {
+    "image": "/assets/img/tei-borriggar-hero.webp"
+  },
+  "i18n": {
+    "es": {
+      "title": "Equipos de perforación",
+      "h1": "Equipos de perforación",
+      "description": "TD es una serie de máquinas de perforación eléctricas/hidráulicas para perforación de acceso limitado (equipos de sótano), diseñadas para instalar micropilotes y anclajes autoperforantes…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logotipo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Equipos de perforación: imagen 2",
+          "width": 1200,
+          "height": 946,
+          "src": "/assets/img/tei-borriggar-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "TD es una serie de máquinas de perforación eléctricas/hidráulicas para perforación de acceso limitado (equipos de sótano), diseñadas para instalar micropilotes y anclajes autoperforantes. Perfecto para trabajar en espacios pequeños, bajo edificios o en túneles. Los equipos de perforación de TEI solo requieren una fuente de alimentación externa, lo que reduce el ruido y los gases de escape. Además, las orugas de goma pueden recogerse hasta 1219 mm para ampliar el acceso y el posicionamiento en situaciones de acceso limitado."
+        },
+        {
+          "type": "text",
+          "html": "El número junto al nombre del modelo indica la potencia en caballos del motor eléctrico. El motor eléctrico de 75 kW (100 HP) permite que el TD100 accione todos los martillos perforadores o cabezales de rotación fabricados por TEI."
+        },
+        {
+          "type": "text",
+          "html": "Acceda al equipo que le interese para ver cuál se adapta mejor a sus necesidades. <a href=\"/contacto\">Contáctenos</a> para más información."
+        },
+        {
+          "type": "modules",
+          "layout": "cards",
+          "items": [
+            {
+              "title": "TD75",
+              "image": "/assets/img/tei-borriggar-td75.webp",
+              "alt": "TD75",
+              "href": "/productos/tei/equipos-de-perforacion/td75",
+              "bullets": [
+                "Mordaza y llave de desenrosque",
+                "Cabezal de rotación RDS550 y amortiguador",
+                "Desplazamiento lateral de 180° del mástil",
+                "Motor eléctrico de 56 kW (75 HP)"
+              ]
+            },
+            {
+              "title": "TD100",
+              "image": "/assets/img/tei-borriggar-td100.webp",
+              "alt": "TD100",
+              "href": "/productos/tei/equipos-de-perforacion/td100",
+              "bullets": [
+                "Mordaza y llave de desenrosque",
+                "Cabezal de rotación RDS1004 con 13 569 Nm de par",
+                "Desplazamiento lateral de 120° del mástil",
+                "Motor eléctrico de 75 kW (100 HP)",
+                "Cuatro gatos estabilizadores"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Especificaciones"
+        },
+        {
+          "type": "table",
+          "header": true,
+          "rows": [
+            [
+              "Modelo",
+              "Par de rotación (Nm)",
+              "Motor eléctrico (kW)",
+              "Generador necesario (kW)",
+              "Peso (kg)"
+            ],
+            [
+              "TD50",
+              "2700",
+              "37",
+              "125",
+              "2060"
+            ],
+            [
+              "TD75",
+              "6780",
+              "56",
+              "125",
+              "2585"
+            ],
+            [
+              "TD100",
+              "13605",
+              "75",
+              "185",
+              "5207"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "header": true,
+          "align": "left",
+          "rows": [
+            [
+              "Modelo",
+              "Peso de la máquina (t)",
+              "Peso (kg)",
+              "Carrera de perforación (m)",
+              "Fuerza de retroceso (kN)",
+              "Martillos posibles",
+              "Significado"
+            ],
+            [
+              "MME",
+              "5 - 12",
+              "488",
+              "3.20",
+              "6.5",
+              "TE260, TE260HT, TE326 & RDS250",
+              "Soporte para miniexcavadoras y excavadoras pequeñas"
+            ],
+            [
+              "MEM",
+              "12 - 16",
+              "1089",
+              "3.35",
+              "11.1",
+              "TE360, TE326 & RDS350",
+              "Soporte para excavadoras de peso medio"
+            ],
+            [
+              "HEM",
+              "16 - 20",
+              "1440 - 2600",
+              "3.60",
+              "33.3",
+              "TE360, TE326, TE760 & RDS350, RDS550",
+              "Soporte para excavadoras hidráulicas"
+            ],
+            [
+              "HEMH",
+              "25 - 30",
+              "2800 - 3100",
+              "3.6 - 3.9",
+              "53",
+              "TE726, TE760, TE1000 & RDS550, RDS1004",
+              "Soporte para excavadoras hidráulicas pesadas"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "html": "Las especificaciones técnicas de TEI tienen en cuenta una pérdida de potencia hidráulica del 40 %. Estos valores pueden modificarse sin previo aviso."
+        }
+      ],
+      "published": true
+    },
+    "en": {
+      "title": "Drill rigs",
+      "h1": "Drill rigs",
+      "description": "TD is a series of electric/hydraulic drilling machines for limited-access drilling (cellar rigs), designed to install micropiles and self-drilling anchors…",
+      "blocks": [
+        {
+          "type": "image",
+          "alt": "TEI Rock Drills logo",
+          "href": "/productos/tei",
+          "width": 1920,
+          "height": 1117,
+          "src": "/assets/img/tei-2.webp"
+        },
+        {
+          "type": "image",
+          "alt": "Drill rigs: image 2",
+          "width": 1200,
+          "height": 946,
+          "src": "/assets/img/tei-borriggar-2.webp"
+        },
+        {
+          "type": "text",
+          "html": "TD is a series of electric/hydraulic drilling machines for limited-access drilling (cellar rigs), designed to install micropiles and self-drilling anchors. Perfect for operation in small spaces, under buildings or in tunnels. TEI’s drill rigs require only an external power source, which reduces noise and exhaust fumes. In addition, the rubber tracks can be retracted to 1,219 mm to enable extended access and positioning in limited-access situations."
+        },
+        {
+          "type": "text",
+          "html": "The number next to the model name indicates the horsepower of the electric motor. The 75 kW (100 HP) electric motor allows the TD100 to drive all drifters or rotary heads made by TEI."
+        },
+        {
+          "type": "text",
+          "html": "Navigate on to the rig of interest to see which best suits your purposes. <a href=\"/contacto\">Contact us</a> for more information."
+        },
+        {
+          "type": "modules",
+          "layout": "cards",
+          "items": [
+            {
+              "title": "TD75",
+              "image": "/assets/img/tei-borriggar-td75.webp",
+              "alt": "TD75",
+              "href": "/productos/tei/equipos-de-perforacion/td75",
+              "bullets": [
+                "Clamp and breakout",
+                "RDS550 rotary head and shock absorber",
+                "180° sideways movement of the mast",
+                "56 kW (75 HP) electric motor"
+              ]
+            },
+            {
+              "title": "TD100",
+              "image": "/assets/img/tei-borriggar-td100.webp",
+              "alt": "TD100",
+              "href": "/productos/tei/equipos-de-perforacion/td100",
+              "bullets": [
+                "Clamp and breakout",
+                "RDS1004 rotary head with 13,569 Nm torque",
+                "120° sideways movement of the mast",
+                "75 kW (100 HP) electric motor",
+                "Four stabiliser jacks"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Specifications"
+        },
+        {
+          "type": "table",
+          "header": true,
+          "rows": [
+            [
+              "Model",
+              "Rotary torque (Nm)",
+              "Electric motor (kW)",
+              "Generator need (kW)",
+              "Weight (kg)"
+            ],
+            [
+              "TD50",
+              "2700",
+              "37",
+              "125",
+              "2060"
+            ],
+            [
+              "TD75",
+              "6780",
+              "56",
+              "125",
+              "2585"
+            ],
+            [
+              "TD100",
+              "13605",
+              "75",
+              "185",
+              "5207"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "header": true,
+          "align": "left",
+          "rows": [
+            [
+              "Model",
+              "Machine weight (ton)",
+              "Weight (kg)",
+              "Drill travel (m)",
+              "Pullback force (kN)",
+              "Possible drills",
+              "Abbreviation"
+            ],
+            [
+              "MME",
+              "5 - 12",
+              "488",
+              "3.20",
+              "6.5",
+              "TE260, TE260HT, TE326 & RDS250",
+              "Mini and Small Excavator Mount"
+            ],
+            [
+              "MEM",
+              "12 - 16",
+              "1089",
+              "3.35",
+              "11.1",
+              "TE360, TE326 & RDS350",
+              "Mid-weight Excavator Mount"
+            ],
+            [
+              "HEM",
+              "16 - 20",
+              "1440 - 2600",
+              "3.60",
+              "33.3",
+              "TE360, TE326, TE760 & RDS350, RDS550",
+              "Hydraulic Excavator Mount"
+            ],
+            [
+              "HEMH",
+              "25 - 30",
+              "2800 - 3100",
+              "3.6 - 3.9",
+              "53",
+              "TE726, TE760, TE1000 & RDS550, RDS1004",
+              "Hydraulic Excavator Mount Heavy"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "html": "TEI’s technical specifications take into account a 40% hydraulic power loss. These values may be changed without notice."
+        }
+      ],
+      "published": true
+    }
+  }
+}

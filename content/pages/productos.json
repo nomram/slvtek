@@ -26,15 +26,6 @@
               "alt": "TEI Rock Drills logotipo"
             },
             {
-              "href": "/productos/geobrugg",
-              "html": "Productos y sistemas para la estabilización de taludes y la protección frente a desprendimientos.",
-              "text": "Productos y sistemas para la estabilización de taludes y la protección frente a desprendimientos.",
-              "image": "/assets/img/geobrugg.webp",
-              "width": 1000,
-              "height": 1000,
-              "alt": "Geobrugg logotipo"
-            },
-            {
               "href": "/productos/marini",
               "html": "Maquinaria para cimentaciones y canteras. Vehículos de orugas, equipos de perforación y sierras de hilo con accesorios.",
               "text": "Maquinaria para cimentaciones y canteras. Vehículos de orugas, equipos de perforación y sierras de hilo con accesorios.",
@@ -71,15 +62,6 @@
               "alt": "REED logotipo"
             },
             {
-              "href": "/productos/ram-board",
-              "html": "Productos como protección de suelos y de marcos. Están fabricados para su reutilización y cuentan con certificación FSC.",
-              "text": "Productos como protección de suelos y de marcos. Están fabricados para su reutilización y cuentan con certificación FSC.",
-              "image": "/assets/img/ram-board.webp",
-              "width": 250,
-              "height": 250,
-              "alt": "Ram Board logotipo"
-            },
-            {
               "href": "/productos/flexo-tekniikka",
               "image": "/assets/img/flexo-tekniikka-1.webp",
               "width": 527,
@@ -109,15 +91,6 @@
               "width": 1920,
               "height": 1920,
               "alt": "TEI Rock Drills logo"
-            },
-            {
-              "href": "/productos/geobrugg",
-              "html": "Products and systems for slope stabilisation and protection against rockfall.",
-              "text": "Products and systems for slope stabilisation and protection against rockfall.",
-              "image": "/assets/img/geobrugg.webp",
-              "width": 1000,
-              "height": 1000,
-              "alt": "Geobrugg logo"
             },
             {
               "href": "/productos/marini",
@@ -154,15 +127,6 @@
               "width": 1920,
               "height": 1920,
               "alt": "REED logo"
-            },
-            {
-              "href": "/productos/ram-board",
-              "html": "Products such as floor protection and frame protection. These are made for reuse and carry FSC certification.",
-              "text": "Products such as floor protection and frame protection. These are made for reuse and carry FSC certification.",
-              "image": "/assets/img/ram-board.webp",
-              "width": 250,
-              "height": 250,
-              "alt": "Ram Board logo"
             },
             {
               "href": "/productos/flexo-tekniikka",

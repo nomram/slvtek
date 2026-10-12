@@ -40,24 +40,6 @@
               "alt": "Marini logotipo"
             },
             {
-              "href": "/productos/geobrugg",
-              "html": "Productos y sistemas para la estabilización de taludes y la protección frente a desprendimientos y deslizamientos.",
-              "text": "Productos y sistemas para la estabilización de taludes y la protección frente a desprendimientos y deslizamientos.",
-              "image": "/assets/img/geobrugg.webp",
-              "width": 1000,
-              "height": 1000,
-              "alt": "Geobrugg logotipo"
-            },
-            {
-              "href": "/productos/ram-board",
-              "html": "Productos de protección de suelos y marcos fabricados para su reutilización y con certificación FSC.",
-              "text": "Productos de protección de suelos y marcos fabricados para su reutilización y con certificación FSC.",
-              "image": "/assets/img/ram-board.webp",
-              "width": 250,
-              "height": 250,
-              "alt": "Ram Board logotipo"
-            },
-            {
               "href": "/productos/terra-infrastructure",
               "html": "Potentes martillos perforadores y unidades vibratorias para perforar anclajes e hincar tablestacas en terrenos difíciles.",
               "text": "Potentes martillos perforadores y unidades vibratorias para perforar anclajes e hincar tablestacas en terrenos difíciles.",
@@ -159,24 +141,6 @@
               "width": 1241,
               "height": 1241,
               "alt": "Marini logo"
-            },
-            {
-              "href": "/productos/geobrugg",
-              "html": "Products and systems for slope stabilisation and protection against rockfall and landslides.",
-              "text": "Products and systems for slope stabilisation and protection against rockfall and landslides.",
-              "image": "/assets/img/geobrugg.webp",
-              "width": 1000,
-              "height": 1000,
-              "alt": "Geobrugg logo"
-            },
-            {
-              "href": "/productos/ram-board",
-              "html": "Floor and frame protection products made for reuse and with FSC certification.",
-              "text": "Floor and frame protection products made for reuse and with FSC certification.",
-              "image": "/assets/img/ram-board.webp",
-              "width": 250,
-              "height": 250,
-              "alt": "Ram Board logo"
             },
             {
               "href": "/productos/terra-infrastructure",

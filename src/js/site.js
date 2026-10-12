@@ -224,10 +224,27 @@
     dlg.addEventListener("click", function (e) { if (e.target === dlg) dlg.close(); });
     input.addEventListener("input", run);
   }
+  var state = "idle"; // idle | loading | ready | error
+  function row(it) { return '<li><a href="' + esc(it.u) + '"><strong>' + esc(it.t) + "</strong><span>" + esc(it.x.slice(0, 110)) + "…</span></a></li>"; }
+  function load() {
+    if (state === "loading" || state === "ready") return;
+    state = "loading";
+    fetch(cfg.searchIndex || "/search-index.json")
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (j) { index = j; state = "ready"; run(); })
+      .catch(function () { state = "error"; run(); });
+  }
   function run() {
     var q = norm(input.value.trim());
-    if (!index || q.length < 2) { list.innerHTML = ""; return; }
-    var terms = q.split(/\s+/);
+    if (state === "error") { list.innerHTML = '<li class="search__empty">' + esc(ui.searchError || "Could not load the search. Check your connection and try again.") + "</li>"; return; }
+    if (!index) { list.innerHTML = '<li class="search__empty">…</li>'; return; }
+    if (q.length < 2) {
+      // nothing typed yet: offer the main pages (brands and company pages) instead of an empty box
+      var main = index.filter(function (it) { return it.d >= 1 && it.d <= 2; }).sort(function (x, y) { return y.d - x.d; }).slice(0, 14);
+      list.innerHTML = main.length ? '<li class="search__hint">' + esc(ui.searchHint || "") + "</li>" + main.map(row).join("") : "";
+      return;
+    }
+    var terms = q.split(/s+/);
     var hits = [];
     index.forEach(function (it) {
       var title = norm(it.t), body = norm(it.x);
@@ -241,13 +258,15 @@
     });
     hits.sort(function (a, b) { return b.s - a.s; });
     list.innerHTML = hits.length
-      ? hits.slice(0, 12).map(function (h) { return '<li><a href="' + esc(h.it.u) + '"><strong>' + esc(h.it.t) + "</strong><span>" + esc(h.it.x.slice(0, 110)) + "…</span></a></li>"; }).join("")
-      : '<li class="search__empty">' + esc(ui.searchNone || "Inga träffar.") + "</li>";
+      ? hits.slice(0, 12).map(function (h) { return row(h.it); }).join("")
+      : '<li class="search__empty">' + esc(ui.searchNone || "No results.") + "</li>";
   }
   if (searchBtn) {
     searchBtn.addEventListener("click", function () {
       if (!dlg) build();
-      if (!index) fetch(cfg.searchIndex || "/search-index.json").then(function (r) { return r.json(); }).then(function (j) { index = j; run(); }).catch(function () { /* offline */ });
+      if (state === "error") state = "idle";
+      load();
+      run();
       dlg.showModal();
       input.focus();
     });

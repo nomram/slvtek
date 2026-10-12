@@ -267,9 +267,12 @@ for (const lang of languages) {
         if (b.type === "cards") return b.items.map((i) => (i.title || "") + " " + (i.text || ""));
         if (b.type === "datasheet") return [...(b.intro || []), ...(b.groups || []).flatMap((g) => g.rows.map((r) => r.label + " " + (r.metric || "") + " " + (r.us || "")))];
         if (b.type === "chips") return b.items;
+        if (b.type === "modules") return (b.items || []).map((i) => [i.title, i.text, ...(i.bullets || [])].filter(Boolean).join(" "));
+        if (b.type === "table") return (b.rows || []).map((r) => r.join(" "));
+        if (b.type === "cta") return [b.title, b.text].filter(Boolean);
         return [];
       }).join(" ").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
-      (searchIndexes[lang] = searchIndexes[lang] || []).push({ u: urlFor(p, lang), t: t.h1 || t.title, x: text.slice(0, 600) });
+      (searchIndexes[lang] = searchIndexes[lang] || []).push({ u: urlFor(p, lang), t: t.h1 || t.title, x: text.slice(0, 1500), d: p === "/" ? 0 : p.split("/").filter(Boolean).length });
     }
   }
 }

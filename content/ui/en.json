@@ -16,6 +16,8 @@
   "search_placeholder": "Search the site…",
   "search_no_results": "No results.",
   "search_close": "Close",
+  "search_error": "Could not load the search. Check your connection and try again.",
+  "search_hint": "Main pages",
   "table_label": "Technical data",
   "video_play": "Play video",
   "video_loading": "Loading video…",

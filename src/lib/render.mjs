@@ -822,7 +822,7 @@ export function renderDocument(ctx, page, t, opts = {}) {
   const uiForJs = {
     title: ctx.ui.cookie_title, text: ctx.ui.cookie_text, accept: ctx.ui.cookie_accept, reject: ctx.ui.cookie_reject,
     policy: ctx.ui.cookie_policy_link, play: ctx.ui.video_play, loading: ctx.ui.video_loading,
-    search: ctx.ui.search, searchPlaceholder: ctx.ui.search_placeholder, searchNone: ctx.ui.search_no_results, searchClose: ctx.ui.search_close
+    search: ctx.ui.search, searchPlaceholder: ctx.ui.search_placeholder, searchNone: ctx.ui.search_no_results, searchClose: ctx.ui.search_close, searchError: ctx.ui.search_error, searchHint: ctx.ui.search_hint
   };
   const privacyPath = s.privacyPath && ctx.pages.has(s.privacyPath) && (ctx.tr(s.privacyPath, lang) || ctx.tr(s.privacyPath, ctx.defaultLang)) ? ctx.url(s.privacyPath) : "";
   const cfg = JSON.stringify({ analytics, ui: uiForJs, privacy: privacyPath, searchIndex: ctx.searchIndexUrl ? ctx.searchIndexUrl : "/search-index.json" }).replace(/</g, "\\u003c");

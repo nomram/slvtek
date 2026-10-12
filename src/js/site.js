@@ -121,9 +121,27 @@
     var panels = [].slice.call(mega.querySelectorAll(".mega__panel"));
     if (!tiles.length || !panels.length) return;
     var timer = 0, lastType = "mouse";
+    var pointerNav = false;
+    document.addEventListener("pointerdown", function () { pointerNav = true; }, true);
+    document.addEventListener("keydown", function () { pointerNav = false; }, true);
+    var host = mega.querySelector(".mega__panels");
+    var small = window.matchMedia ? window.matchMedia("(max-width: 980px)") : { matches: false };
+    // small screens: every panel sits directly under its manufacturer (an accordion); wide screens: one shared panel below the row
+    function place() {
+      tiles.forEach(function (tile) {
+        var p = document.getElementById(tile.getAttribute("data-panel"));
+        var li = tile.closest("li");
+        if (!p || !li) return;
+        if (small.matches) { if (p.parentNode !== li) li.appendChild(p); }
+        else if (host && p.parentNode !== host) host.appendChild(p);
+      });
+    }
+    place();
+    if (small.addEventListener) small.addEventListener("change", function () { reset(); place(); });
+    else if (small.addListener) small.addListener(function () { reset(); place(); });
     function show(tile) {
       var id = tile.getAttribute("data-panel");
-      tiles.forEach(function (t) { t.classList.toggle("is-on", t === tile); });
+      tiles.forEach(function (t) { var on = t === tile; t.classList.toggle("is-on", on); t.setAttribute("aria-expanded", on ? "true" : "false"); });
       panels.forEach(function (p) { p.classList.toggle("is-on", p.id === id); });
       mega.classList.add("has-panel");
     }
@@ -131,7 +149,7 @@
     function reset() {
       clearTimeout(timer);
       mega.classList.remove("has-panel");
-      tiles.forEach(function (t) { t.classList.remove("is-on"); });
+      tiles.forEach(function (t) { t.classList.remove("is-on"); t.setAttribute("aria-expanded", "false"); });
       panels.forEach(function (p) { p.classList.remove("is-on"); });
     }
     var item = mega.closest(".nav__item");
@@ -152,9 +170,21 @@
         timer = setTimeout(function () { show(tile); }, 90);
       });
       tile.addEventListener("pointerleave", function () { clearTimeout(timer); });
-      tile.addEventListener("focus", function () { show(tile); });
+      // keyboard focus previews the brand; a pointer press already decides by itself (click toggles)
+      tile.addEventListener("focus", function () { if (!pointerNav) show(tile); });
       tile.addEventListener("click", function (e) {
-        // touch has no hover: the first tap previews the brand, the second one opens it
+        if (small.matches) {
+          // phone: a tap unfolds / folds the manufacturer; the "view full range" button inside goes to its page
+          e.preventDefault();
+          if (tile.classList.contains("is-on")) reset();
+          else {
+            show(tile);
+            var p = document.getElementById(tile.getAttribute("data-panel"));
+            setTimeout(function () { if (p && p.scrollIntoView) p.scrollIntoView({ block: "nearest", behavior: "smooth" }); }, 260);
+          }
+          return;
+        }
+        // wide screen with touch: the first tap previews the brand, the second one opens it
         if (lastType === "touch" && !tile.classList.contains("is-on")) { e.preventDefault(); show(tile); }
       });
       tile.addEventListener("keydown", function (e) {

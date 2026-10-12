@@ -61,7 +61,21 @@
           "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "DPV",
+        "registrador de datos",
+        "caudal",
+        "presión",
+        "volumen",
+        "bomba de inyección",
+        "lechada de cemento",
+        "HÄNY",
+        "inyección",
+        "lechada",
+        "bombas de inyección",
+        "mezcladora"
+      ]
     },
     "en": {
       "title": "Data logger (DPV)",
@@ -116,7 +130,21 @@
           "html": "<a href=\"/contacto\">Contact us</a> for more information."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "DPV",
+        "data logger",
+        "flow",
+        "pressure",
+        "volume",
+        "grout pump",
+        "cement grout",
+        "HÄNY",
+        "grouting",
+        "grout",
+        "grout pumps",
+        "mixer"
+      ]
     }
   }
 }

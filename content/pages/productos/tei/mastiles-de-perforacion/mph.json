@@ -91,7 +91,17 @@
           "src": "/assets/img/tei-borrmaster-mph-3.webp"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "mástil de perforación",
+        "drill mast",
+        "excavadora",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "MPH",
@@ -176,7 +186,16 @@
           "src": "/assets/img/tei-borrmaster-mph-3.webp"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "drill mast",
+        "excavator mounted",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

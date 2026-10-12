@@ -85,7 +85,14 @@
           "driveId": "1SyxogGWU40KcTLBXZ2TGZnUySxiNVCr-"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "Flexo-Tekniikka",
+        "grupos hidráulicos",
+        "HPU",
+        "central hidráulica",
+        "powerpack"
+      ]
     },
     "en": {
       "title": "Flexo-Tekniikka",
@@ -164,7 +171,14 @@
           "driveId": "1SyxogGWU40KcTLBXZ2TGZnUySxiNVCr-"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "Flexo-Tekniikka",
+        "hydraulic power packs",
+        "HPU",
+        "hydraulic unit",
+        "powerpack"
+      ]
     }
   },
   "logo": "/assets/img/logo-flexo-tekniikka.webp"

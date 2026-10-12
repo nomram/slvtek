@@ -115,7 +115,18 @@
           "driveId": "16wFGfLM-1JL39-VqGhFb0_J4M1CjvW3n"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TE160",
+        "martillo perforador",
+        "drifter",
+        "perforadora hidráulica",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "TE160",
@@ -224,7 +235,18 @@
           "driveId": "16wFGfLM-1JL39-VqGhFb0_J4M1CjvW3n"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TE160",
+        "drifter",
+        "hydraulic drifter",
+        "rock drill",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

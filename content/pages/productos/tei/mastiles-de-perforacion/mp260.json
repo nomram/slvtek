@@ -299,7 +299,18 @@
           "html": "MP260 con TE260HT y TE260."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MP260",
+        "mástil de perforación",
+        "drill mast",
+        "excavadora",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "MP260",
@@ -589,7 +600,17 @@
           "html": "MP260 with TE260HT and TE260."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MP260",
+        "drill mast",
+        "excavator mounted",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

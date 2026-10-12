@@ -102,7 +102,18 @@
           "driveId": "1s6xKWdbyezuUa9D9cnWYM92-bVQ5A1WS"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TE1000",
+        "martillo perforador",
+        "drifter",
+        "perforadora hidráulica",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "TE1000",
@@ -198,7 +209,18 @@
           "driveId": "1s6xKWdbyezuUa9D9cnWYM92-bVQ5A1WS"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TE1000",
+        "drifter",
+        "hydraulic drifter",
+        "rock drill",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

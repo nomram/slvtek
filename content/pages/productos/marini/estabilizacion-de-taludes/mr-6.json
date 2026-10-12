@@ -117,7 +117,18 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MR 6",
+        "MR6",
+        "viga de perforación",
+        "sobre ruedas",
+        "Marini",
+        "perforación",
+        "canteras",
+        "cimentaciones",
+        "hormigón proyectado"
+      ]
     },
     "en": {
       "title": "MR 6",
@@ -228,7 +239,18 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MR 6",
+        "MR6",
+        "drill beam",
+        "wheeled",
+        "Marini",
+        "drilling",
+        "quarries",
+        "foundations",
+        "shotcrete"
+      ]
     }
   }
 }

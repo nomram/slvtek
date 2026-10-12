@@ -68,7 +68,19 @@
           "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TB-10",
+        "TB10",
+        "silo",
+        "mortero seco",
+        "tornillo transportador",
+        "AHLM",
+        "silos",
+        "big bag",
+        "cemento",
+        "almacenamiento de material"
+      ]
     },
     "en": {
       "title": "TB-10",
@@ -130,7 +142,19 @@
           "html": "<a href=\"/contacto\">Contact us</a> for more information."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TB-10",
+        "TB10",
+        "silo",
+        "dry mortar",
+        "screw conveyor",
+        "AHLM",
+        "silos",
+        "big bag",
+        "cement",
+        "material storage"
+      ]
     }
   }
 }

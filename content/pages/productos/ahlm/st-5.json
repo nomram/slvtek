@@ -95,7 +95,20 @@
           "title": "Ahlm Maskin | ST-5 OV | Silo para mortero seco"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "ST-5",
+        "ST5",
+        "silo",
+        "tornillo transportador",
+        "estación de vaciado",
+        "AHLM",
+        "silos",
+        "mortero seco",
+        "big bag",
+        "cemento",
+        "almacenamiento de material"
+      ]
     },
     "en": {
       "title": "ST-5",
@@ -184,7 +197,20 @@
           "title": "Ahlm Maskin | ST-5 OV | Silo for dry mortar"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "ST-5",
+        "ST5",
+        "silo",
+        "screw conveyor",
+        "emptying station",
+        "AHLM",
+        "silos",
+        "dry mortar",
+        "big bag",
+        "cement",
+        "material storage"
+      ]
     }
   }
 }

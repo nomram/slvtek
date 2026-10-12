@@ -280,7 +280,21 @@
           "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "estabilización de taludes",
+        "bulonado",
+        "anclajes",
+        "MR",
+        "mástil de perforación",
+        "neumático",
+        "hidráulico",
+        "Marini",
+        "perforación",
+        "canteras",
+        "cimentaciones",
+        "hormigón proyectado"
+      ]
     },
     "en": {
       "title": "Slope stabilisation",
@@ -554,7 +568,21 @@
           "driveId": "1ecMiKcn9MMZ4A09FXVKtBN1SAgcdwbvd"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "slope stabilisation",
+        "bolting",
+        "anchors",
+        "MR",
+        "drill mast",
+        "pneumatic",
+        "hydraulic",
+        "Marini",
+        "drilling",
+        "quarries",
+        "foundations",
+        "shotcrete"
+      ]
     }
   }
 }

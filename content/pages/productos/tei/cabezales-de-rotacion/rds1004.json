@@ -99,7 +99,17 @@
           "driveId": "1ULj2a6u1L8DjSa9WhynGvOOiz8Rm9OW3"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "RDS1004",
+        "cabezal de rotación",
+        "rotary head",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "RDS1004",
@@ -192,7 +202,17 @@
           "driveId": "1ULj2a6u1L8DjSa9WhynGvOOiz8Rm9OW3"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "RDS1004",
+        "rotary head",
+        "rotation head",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

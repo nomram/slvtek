@@ -85,7 +85,17 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "FAIC",
+        "bomba automática",
+        "planta de inyección",
+        "mezcladora",
+        "HÄNY",
+        "inyección",
+        "lechada",
+        "bombas de inyección"
+      ]
     },
     "en": {
       "title": "Automatic pumps",
@@ -164,7 +174,17 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "FAIC",
+        "automatic pump",
+        "grouting plant",
+        "mixer",
+        "HÄNY",
+        "grouting",
+        "grout",
+        "grout pumps"
+      ]
     }
   }
 }

@@ -218,7 +218,14 @@
           "align": "right"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "HÄNY",
+        "inyección",
+        "lechada",
+        "bombas de inyección",
+        "mezcladora"
+      ]
     },
     "en": {
       "title": "HÄNY",
@@ -430,7 +437,14 @@
           "align": "right"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "HÄNY",
+        "grouting",
+        "grout",
+        "grout pumps",
+        "mixer"
+      ]
     }
   },
   "logo": "/assets/img/logo-haeny.webp"

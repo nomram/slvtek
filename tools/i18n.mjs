@@ -78,7 +78,7 @@ if (cmd === "export" && lang) {
   const list = [...seen.keys()];
   fs.mkdirSync(path.join(ROOT, "translations"), { recursive: true });
   fs.writeFileSync(path.join(ROOT, "translations/strings.json"), JSON.stringify(list, null, 1));
-  const words = list.reduce((n, v) => n + String(v).replace(/<[^>]+>/g, " ").split(/s+/).filter(Boolean).length, 0);
+  const words = list.reduce((n, v) => n + String(v).replace(/<[^>]+>/g, " ").split(/\s+/).filter(Boolean).length, 0);
   console.log(`${list.length} unique strings, ${words} words -> translations/strings.json`);
 } else if (cmd === "apply" && lang) {
   // apply translations/<lang>.json (array aligned with strings.json) to every page

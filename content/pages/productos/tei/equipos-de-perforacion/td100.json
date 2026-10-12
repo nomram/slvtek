@@ -201,7 +201,18 @@
           "driveId": "1TI3oU-tDsd_CJ5BrgpfF4jErHGjt8MBn"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TD100",
+        "TD 100",
+        "equipo eléctrico hidráulico",
+        "acceso limitado",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "TD100",
@@ -396,7 +407,18 @@
           "driveId": "1TI3oU-tDsd_CJ5BrgpfF4jErHGjt8MBn"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TD100",
+        "TD 100",
+        "electric hydraulic rig",
+        "limited access",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

@@ -241,6 +241,20 @@ fs.copyFileSync(cssSrc, path.join(DIST, "css/site.css"));
 fs.copyFileSync(jsSrc, path.join(DIST, "js/site.js"));
 const assetVersion = crypto.createHash("md5").update(fs.readFileSync(cssSrc)).update(fs.readFileSync(jsSrc)).digest("hex").slice(0, 8);
 
+// plain text of a page for the search index
+const indexText = (t) => flatBlocks(t.blocks).flatMap((b) => {
+  if (b.type === "text") return [b.html];
+  if (b.type === "heading") return [b.text];
+  if (b.type === "list") return b.items;
+  if (b.type === "cards") return b.items.map((i) => (i.title || "") + " " + (i.text || ""));
+  if (b.type === "datasheet") return [...(b.intro || []), ...(b.groups || []).flatMap((g) => g.rows.map((r) => r.label + " " + (r.metric || "") + " " + (r.us || "")))];
+  if (b.type === "chips") return b.items;
+  if (b.type === "modules") return (b.items || []).map((i) => [i.title, i.text, ...(i.bullets || [])].filter(Boolean).join(" "));
+  if (b.type === "table") return (b.rows || []).map((r) => r.join(" "));
+  if (b.type === "cta") return [b.title, b.text].filter(Boolean);
+  return [];
+}).join(" ").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+
 let rendered = 0;
 const sitemapEntries = [];
 const searchIndexes = {};
@@ -260,19 +274,10 @@ for (const lang of languages) {
     rendered++;
     sitemapEntries.push({ p, lang, updated: page.updated || null });
     {
-      const text = flatBlocks(t.blocks).flatMap((b) => {
-        if (b.type === "text") return [b.html];
-        if (b.type === "heading") return [b.text];
-        if (b.type === "list") return b.items;
-        if (b.type === "cards") return b.items.map((i) => (i.title || "") + " " + (i.text || ""));
-        if (b.type === "datasheet") return [...(b.intro || []), ...(b.groups || []).flatMap((g) => g.rows.map((r) => r.label + " " + (r.metric || "") + " " + (r.us || "")))];
-        if (b.type === "chips") return b.items;
-        if (b.type === "modules") return (b.items || []).map((i) => [i.title, i.text, ...(i.bullets || [])].filter(Boolean).join(" "));
-        if (b.type === "table") return (b.rows || []).map((r) => r.join(" "));
-        if (b.type === "cta") return [b.title, b.text].filter(Boolean);
-        return [];
-      }).join(" ").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
-      (searchIndexes[lang] = searchIndexes[lang] || []).push({ u: urlFor(p, lang), t: t.h1 || t.title, x: text.slice(0, 1500), d: p === "/" ? 0 : p.split("/").filter(Boolean).length });
+      const text = indexText(t);
+      // words of the other languages, for matching only: searching "drill mast" on the Spanish site still finds the page
+      const other = languages.filter((l) => l !== lang).map((l) => { const o = trOf(p, l); return o ? [o.h1 || o.title, ...(o.tags || []), indexText(o).slice(0, 500)].join(" ") : ""; }).join(" ").replace(/\s+/g, " ").trim();
+      (searchIndexes[lang] = searchIndexes[lang] || []).push({ u: urlFor(p, lang), t: t.h1 || t.title, x: text.slice(0, 1500), g: t.tags || [], ...(other ? { o: other } : {}), d: p === "/" ? 0 : p.split("/").filter(Boolean).length });
     }
   }
 }

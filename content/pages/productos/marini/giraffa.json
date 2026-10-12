@@ -66,7 +66,18 @@
           "title": "Marini Srl - GIRAFFA 360° HV hydraulic quarry drill"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "GIRAFFA",
+        "control remoto",
+        "perforación hidráulica",
+        "canteras",
+        "360°",
+        "Marini",
+        "perforación",
+        "cimentaciones",
+        "hormigón proyectado"
+      ]
     },
     "en": {
       "title": "GIRAFFA",
@@ -126,7 +137,18 @@
           "title": "Marini Srl - GIRAFFA 360° HV hydraulic quarry drill"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "GIRAFFA",
+        "remote control",
+        "hydraulic drilling",
+        "quarries",
+        "360°",
+        "Marini",
+        "drilling",
+        "foundations",
+        "shotcrete"
+      ]
     }
   }
 }

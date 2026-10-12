@@ -166,7 +166,18 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "mástil de perforación",
+        "excavadora",
+        "mástil portátil",
+        "drill mast",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "Drill masts",
@@ -326,7 +337,18 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "drill mast",
+        "excavator",
+        "portable mast",
+        "mast",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

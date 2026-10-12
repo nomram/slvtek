@@ -109,7 +109,15 @@
         }
       ],
       "published": true,
-      "tagline": "Maquinaria y soluciones para la construcción"
+      "tagline": "Maquinaria y soluciones para la construcción",
+      "tags": [
+        "maquinaria",
+        "construcción",
+        "cimentaciones especiales",
+        "perforación",
+        "hormigón proyectado",
+        "silos"
+      ]
     },
     "en": {
       "title": "Home",
@@ -212,7 +220,15 @@
         }
       ],
       "published": true,
-      "tagline": "Machinery and solutions for construction"
+      "tagline": "Machinery and solutions for construction",
+      "tags": [
+        "machinery",
+        "construction",
+        "special foundations",
+        "drilling",
+        "shotcrete",
+        "silos"
+      ]
     }
   }
 }

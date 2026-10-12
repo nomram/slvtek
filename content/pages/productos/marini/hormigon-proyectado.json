@@ -95,7 +95,17 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MR-SB",
+        "hormigón proyectado",
+        "lanza",
+        "proyección",
+        "Marini",
+        "perforación",
+        "canteras",
+        "cimentaciones"
+      ]
     },
     "en": {
       "title": "Shotcrete",
@@ -186,7 +196,17 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MR-SB",
+        "shotcrete",
+        "spraying boom",
+        "spraying",
+        "Marini",
+        "drilling",
+        "quarries",
+        "foundations"
+      ]
     }
   }
 }

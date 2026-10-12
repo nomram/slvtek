@@ -185,7 +185,18 @@
           "src": "/assets/img/tei-borriggar-td75-3.webp"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TD75",
+        "TD 75",
+        "equipo eléctrico",
+        "acceso limitado",
+        "micropilotes",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes"
+      ]
     },
     "en": {
       "title": "TD75",
@@ -364,7 +375,18 @@
           "src": "/assets/img/tei-borriggar-td75-3.webp"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TD75",
+        "TD 75",
+        "electric rig",
+        "limited access",
+        "micropiles",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors"
+      ]
     }
   }
 }

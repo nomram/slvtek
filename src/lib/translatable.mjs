@@ -62,6 +62,7 @@ export function visit(page, t, cb) {
   const P = page.path;
   for (const k of ["title", "h1", "description", "seoTitle", "lead", "navTitle", "tagline"]) if (t[k]) cb(`${P}|${k}`, t[k], (v) => (t[k] = v));
   (t.ctas || []).forEach((c, j) => cb(`${P}|ctas.${j}.text`, c.text, (v) => (c.text = v)));
+  if (Array.isArray(t.tags) && t.tags.length) cb(`${P}|tags`, t.tags.join(", "), (v) => (t.tags = String(v).split(/s*,s*/).filter(Boolean)));
   (t.blocks || []).forEach((b, i) => visitBlock(b, `b${i}`, P, cb));
 }
 

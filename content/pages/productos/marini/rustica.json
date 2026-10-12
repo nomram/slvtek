@@ -109,7 +109,20 @@
           "text": "BIG RUSTICA & GIRAFFA"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "RUSTICA",
+        "Big Rustica",
+        "corte de bloques",
+        "piedra natural",
+        "neumática",
+        "cantera",
+        "Marini",
+        "perforación",
+        "canteras",
+        "cimentaciones",
+        "hormigón proyectado"
+      ]
     },
     "en": {
       "title": "RUSTICA",
@@ -212,7 +225,20 @@
           "text": "BIG RUSTICA & GIRAFFA"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "RUSTICA",
+        "Big Rustica",
+        "block cutting",
+        "natural stone",
+        "pneumatic",
+        "quarry",
+        "Marini",
+        "drilling",
+        "quarries",
+        "foundations",
+        "shotcrete"
+      ]
     }
   }
 }

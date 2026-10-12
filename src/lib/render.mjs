@@ -550,6 +550,33 @@ function renderLangRow(ctx, path) {
     `<img src="${flagSrc(code)}" alt="" width="22" height="15"><span>${esc(label(code))}</span></a></li>`).join("") + "</ul>";
 }
 
+// Secondary dropdown: what hovering a brand in the products menu reveals (its ranges and models)
+function megaPanel(ctx, k, id, on) {
+  const t = ctx.tr(k, ctx.lang) || ctx.tr(k, ctx.defaultLang) || {};
+  const name = navTitleOf(ctx, k);
+  const cardImg = new Map();
+  for (const b of flatBlocks(t.blocks || [])) if (b.type === "cards") for (const it of b.items || []) if (it.href && it.image) cardImg.set(it.href.split(/[?#]/)[0], it.image);
+  const cats = ctx.children(k).filter((c) => shown(ctx, c)).map((c) => {
+    const sub = ctx.children(c).filter((x) => shown(ctx, x));
+    const img = cardImg.get(c);
+    const LIMIT = 6;
+    const lis = sub.slice(0, LIMIT).map((x) => `<li><a href="${esc(ctx.url(x))}">${esc(navTitleOf(ctx, x))}</a></li>`).join("") +
+      (sub.length > LIMIT ? `<li class="mega__more"><a href="${esc(ctx.url(c))}">${esc((ctx.ui.mega_more || "Ver todos ({n})").replace("{n}", String(sub.length)))}</a></li>` : "");
+    return `<div class="mega__cat${img ? " has-thumb" : ""}"><a class="mega__cat-title" href="${esc(ctx.url(c))}">` +
+      (img ? imgTag(ctx, img, "", { cls: "mega__thumb", sizes: "48px" }) : "") + `<span>${esc(navTitleOf(ctx, c))}</span></a>` + (lis ? `<ul>${lis}</ul>` : "") + "</div>";
+  }).join("");
+  const desc = String(t.description || "").replace(/<[^>]+>/g, "").trim();
+  // first sentence when it is short enough, otherwise cut at a word and drop dangling small words
+  const first = (desc.match(/^.{20,200}?[.!?](\s|$)/) || [""])[0].trim();
+  let short = first || desc;
+  if (short.length > 190) { short = short.slice(0, short.lastIndexOf(" ", 160)).replace(/(\s+\S{1,3})+$/, "").replace(/[,;:.]$/, "") + "…"; }
+  return `<section class="mega__panel${on ? " is-on" : ""}" id="${id}" aria-label="${esc(name)}">` +
+    `<div class="mega__intro"><p class="mega__kicker">${esc(ctx.ui.mega_brand || "Marca")}</p><p class="mega__name">${esc(name)}</p>` +
+    (short ? `<p class="mega__desc">${esc(short)}</p>` : "") +
+    `<a class="btn btn--sm btn--ghost" href="${esc(ctx.url(k))}"><span>${esc(ctx.ui.mega_all || "Ver toda la gama")}</span>${ICON.arrow}</a></div>` +
+    (cats ? `<div class="mega__cats">${cats}</div>` : "") + "</section>";
+}
+
 function renderHeader(ctx, current) {
   const site = ctx.site;
   const navPaths = (site.nav && site.nav.length ? site.nav : []).filter((p) => ctx.pages.has(p) && shown(ctx, p));
@@ -561,16 +588,18 @@ function renderHeader(ctx, current) {
     if (!kids.length || !(site.megaMenu !== false)) return `<li class="nav__item${active ? " is-active" : ""}">${link}</li>`;
     // dropdown = the brand logos straight away (a row that follows the mouse sideways), no section label
     const logos = brandLogoMap(ctx, p);
-    const tiles = kids.map((k) => {
+    const onIdx = -1; // the panel opens only once the visitor points at a brand
+    const tiles = kids.map((k, n) => {
       const src = (ctx.pages.get(k) && ctx.pages.get(k).logo) || logos.get(k);
       const name = navTitleOf(ctx, k);
-      return `<li><a class="logorow__item" href="${esc(ctx.url(k))}">` +
+      return `<li><a class="logorow__item${n === onIdx ? " is-on" : ""}" href="${esc(ctx.url(k))}" data-panel="mp-${n}" aria-describedby="mp-${n}">` +
         (src ? `<span class="logorow__img">${imgTag(ctx, src, name, { cls: "logorow__logo", sizes: "160px" })}</span>` : "") +
         `<span class="logorow__name">${esc(name)}</span></a></li>`;
     }).join("");
     return `<li class="nav__item nav__item--mega${active ? " is-active" : ""}">${link}` +
       `<button class="nav__toggle" type="button" aria-expanded="false" aria-label="${esc(ctx.ui.submenu || "Visa undermeny")}: ${esc(label)}">${ICON.chevron}</button>` +
-      `<div class="mega mega--logos"><div class="container"><ul class="logorow" data-scrub>${tiles}</ul></div></div></li>`;
+      `<div class="mega mega--logos"><div class="container"><ul class="logorow">${tiles}</ul></div>` +
+      `<div class="mega__stage"><div class="container mega__panels">${kids.map((k, n) => megaPanel(ctx, k, `mp-${n}`, n === onIdx)).join("")}</div></div></div></li>`;
   }).join("");
   return `<header class="site-header" data-header><div class="container site-header__inner">` +
     `<a class="logo" href="${esc(ctx.url("/"))}" aria-label="${esc(site.name)}, ${esc(ctx.ui.home || "Startsida")}"><img src="/assets/brand/logo.svg" alt="${esc(site.name)}" width="237" height="25"></a>` +

@@ -83,7 +83,18 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MR 5",
+        "MR5",
+        "sobre ruedas",
+        "estabilización de taludes",
+        "Marini",
+        "perforación",
+        "canteras",
+        "cimentaciones",
+        "hormigón proyectado"
+      ]
     },
     "en": {
       "title": "MR 5",
@@ -163,7 +174,18 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MR 5",
+        "MR5",
+        "wheeled",
+        "slope stabilisation",
+        "Marini",
+        "drilling",
+        "quarries",
+        "foundations",
+        "shotcrete"
+      ]
     }
   }
 }

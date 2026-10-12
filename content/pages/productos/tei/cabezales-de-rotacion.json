@@ -142,7 +142,18 @@
           "html": "Etiquetas: martillo en cabeza, martillo de fondo, cabezal de rotación"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "cabezal de rotación",
+        "cabezal rotativo",
+        "par de rotación",
+        "rotary head",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "Rotary heads",
@@ -278,7 +289,18 @@
           "html": "Tags: top hammer, DTH hammer, rotary head"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "rotary head",
+        "rotation head",
+        "torque",
+        "drill head",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

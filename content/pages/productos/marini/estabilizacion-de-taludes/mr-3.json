@@ -101,7 +101,18 @@
           "src": "/assets/img/marini-slantstabilisering-mr-3-8.webp"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MR 3",
+        "MR3",
+        "mástil sobre patines",
+        "estabilización de taludes",
+        "Marini",
+        "perforación",
+        "canteras",
+        "cimentaciones",
+        "hormigón proyectado"
+      ]
     },
     "en": {
       "title": "MR 3",
@@ -198,7 +209,18 @@
           "autoplay": false
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MR 3",
+        "MR3",
+        "skid-mounted mast",
+        "slope stabilisation",
+        "Marini",
+        "drilling",
+        "quarries",
+        "foundations",
+        "shotcrete"
+      ]
     }
   }
 }

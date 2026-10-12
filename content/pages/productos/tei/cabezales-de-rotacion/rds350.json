@@ -98,7 +98,17 @@
           "driveId": "1dfyvZHLasPO1EmA5FANmwaEY-Ra-5dha"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "RDS350",
+        "cabezal de rotación",
+        "rotary head",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "RDS350",
@@ -190,7 +200,17 @@
           "driveId": "1dfyvZHLasPO1EmA5FANmwaEY-Ra-5dha"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "RDS350",
+        "rotary head",
+        "rotation head",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

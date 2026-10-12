@@ -107,7 +107,17 @@
           "driveId": "https://drive.google.com/file/d/1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "RDS1500",
+        "cabezal de rotación",
+        "rotary head",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "RDS1500",
@@ -208,7 +218,17 @@
           "driveId": "https://drive.google.com/file/d/1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "RDS1500",
+        "rotary head",
+        "rotation head",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

@@ -281,7 +281,18 @@
         }
       ],
       "published": true,
-      "navTitle": "Crawlers"
+      "navTitle": "Crawlers",
+      "tags": [
+        "orugas",
+        "perforadora sobre orugas",
+        "equipo sobre orugas",
+        "crawler",
+        "Marini",
+        "perforación",
+        "canteras",
+        "cimentaciones",
+        "hormigón proyectado"
+      ]
     },
     "en": {
       "title": "Crawlers",
@@ -555,7 +566,18 @@
           "title": "Marini Srl - MR-C 90 long reach drill rig (technical info)"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "crawler",
+        "crawler rig",
+        "tracked drill rig",
+        "tracks",
+        "Marini",
+        "drilling",
+        "quarries",
+        "foundations",
+        "shotcrete"
+      ]
     }
   }
 }

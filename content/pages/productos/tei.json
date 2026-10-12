@@ -85,7 +85,14 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "TEI",
@@ -164,7 +171,14 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   },
   "logo": "/assets/img/logo-tei.webp"

@@ -40,7 +40,13 @@
           "external": true
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "REED",
+        "hormigón proyectado",
+        "bombas de hormigón",
+        "gunitado"
+      ]
     },
     "en": {
       "title": "REED",
@@ -74,7 +80,13 @@
           "external": true
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "REED",
+        "shotcrete",
+        "concrete pumps",
+        "gunite"
+      ]
     }
   },
   "logo": "/assets/img/logo-reed.webp"

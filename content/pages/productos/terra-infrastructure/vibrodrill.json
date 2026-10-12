@@ -277,7 +277,19 @@
           "html": "Cuando la vibración está activada, la arcilla se transforma en una masa líquida parecida a unas gachas. Al romper la estructura de la arcilla, se elimina casi por completo la fricción lateral alrededor de la perforadora o del pilote, lo que hace que se hunda en el terreno con una resistencia mínima. Esta técnica maximiza la velocidad de penetración y permite una instalación extremadamente eficiente de tablestacas y pilotes en suelos cohesivos."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "VibroDrill",
+        "vibroperforación",
+        "vibración",
+        "perforación geotécnica",
+        "micropilotes",
+        "tablestacas",
+        "Terra Infrastructure",
+        "cimentaciones",
+        "anclajes",
+        "perforación"
+      ]
     },
     "en": {
       "title": "VibroDrill",
@@ -548,7 +560,19 @@
           "html": "When the vibro is on, the clay is converted into a liquid mass resembling porridge. By breaking the structure of the clay, the skin friction around the drill or pile is almost completely eliminated, causing it to sink into the ground with minimal resistance. This technique maximises penetration speed and enables extremely efficient installation of sheet piles and piles in cohesive soils."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "VibroDrill",
+        "vibro drilling",
+        "vibration",
+        "geotechnical drilling",
+        "micropiles",
+        "sheet piles",
+        "Terra Infrastructure",
+        "foundations",
+        "anchors",
+        "drilling"
+      ]
     }
   }
 }

@@ -98,7 +98,18 @@
           "src": "/assets/img/marini-slantstabilisering-mr-2-5.webp"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MR 2",
+        "MR2",
+        "mástil de perforación",
+        "estabilización de taludes",
+        "Marini",
+        "perforación",
+        "canteras",
+        "cimentaciones",
+        "hormigón proyectado"
+      ]
     },
     "en": {
       "title": "MR 2",
@@ -190,7 +201,18 @@
           "src": "/assets/img/marini-slantstabilisering-mr-2-5.webp"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MR 2",
+        "MR2",
+        "drill mast",
+        "slope stabilisation",
+        "Marini",
+        "drilling",
+        "quarries",
+        "foundations",
+        "shotcrete"
+      ]
     }
   }
 }

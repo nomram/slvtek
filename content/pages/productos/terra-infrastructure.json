@@ -70,7 +70,14 @@
           "title": "VibroDrill VD | Clay liquification #vibrodrill #terra-infrastructure"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "Terra Infrastructure",
+        "cimentaciones",
+        "tablestacas",
+        "anclajes",
+        "perforación"
+      ]
     },
     "en": {
       "title": "Terra Infrastructure",
@@ -134,7 +141,14 @@
           "title": "VibroDrill VD | Clay liquification #vibrodrill #terra-infrastructure"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "Terra Infrastructure",
+        "foundations",
+        "sheet piles",
+        "anchors",
+        "drilling"
+      ]
     }
   },
   "logo": "/assets/img/logo-terra-infrastructure.webp"

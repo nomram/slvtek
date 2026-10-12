@@ -165,7 +165,18 @@
           "src": "/assets/img/terra-infrastructure-vibrodrill-5.webp"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "VibroDrill VD150",
+        "VibroDrill",
+        "vibroperforación",
+        "perforación geotécnica",
+        "Terra Infrastructure",
+        "cimentaciones",
+        "tablestacas",
+        "anclajes",
+        "perforación"
+      ]
     },
     "en": {
       "title": "VibroDrill VD150",
@@ -324,7 +335,18 @@
           "src": "/assets/img/terra-infrastructure-vibrodrill-5.webp"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "VibroDrill VD150",
+        "VibroDrill",
+        "vibro drilling",
+        "geotechnical drilling",
+        "Terra Infrastructure",
+        "foundations",
+        "sheet piles",
+        "anchors",
+        "drilling"
+      ]
     }
   }
 }

@@ -118,7 +118,18 @@
           "html": "Consulte el folleto que figura a continuación o <a href=\"/contacto\">contáctenos</a> para más información."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "VibroDrill VD100",
+        "VibroDrill",
+        "vibroperforación",
+        "perforación geotécnica",
+        "Terra Infrastructure",
+        "cimentaciones",
+        "tablestacas",
+        "anclajes",
+        "perforación"
+      ]
     },
     "en": {
       "title": "VibroDrill VD100",
@@ -230,7 +241,18 @@
           "html": "Take a look at the brochure below or <a href=\"/contacto\">contact us</a> for more information."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "VibroDrill VD100",
+        "VibroDrill",
+        "vibro drilling",
+        "geotechnical drilling",
+        "Terra Infrastructure",
+        "foundations",
+        "sheet piles",
+        "anchors",
+        "drilling"
+      ]
     }
   }
 }

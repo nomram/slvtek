@@ -141,7 +141,18 @@
         }
       ],
       "published": true,
-      "navTitle": "Powerpacks"
+      "navTitle": "Powerpacks",
+      "tags": [
+        "powerpack",
+        "grupo hidráulico",
+        "central hidráulica",
+        "accionamiento",
+        "Marini",
+        "perforación",
+        "canteras",
+        "cimentaciones",
+        "hormigón proyectado"
+      ]
     },
     "en": {
       "title": "Powerpacks",
@@ -275,7 +286,18 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "powerpack",
+        "hydraulic power pack",
+        "hydraulic unit",
+        "drive unit",
+        "Marini",
+        "drilling",
+        "quarries",
+        "foundations",
+        "shotcrete"
+      ]
     }
   }
 }

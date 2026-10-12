@@ -295,7 +295,17 @@
           "html": "HEM25ED"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "mástil de perforación",
+        "drill mast",
+        "excavadora",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "HEM",
@@ -585,7 +595,16 @@
           "html": "HEM25ED"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "drill mast",
+        "excavator mounted",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

@@ -69,7 +69,13 @@
           "html": "Tiene derecho a solicitar el acceso, la rectificación o la supresión de sus datos personales, a solicitar la limitación del tratamiento y a oponerse a él. También tiene derecho a presentar una reclamación ante la autoridad de control competente (en España, la <a href=\"https://www.aepd.es\">Agencia Española de Protección de Datos</a>)."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "privacidad",
+        "cookies",
+        "protección de datos",
+        "RGPD"
+      ]
     },
     "en": {
       "title": "Privacy and cookies",
@@ -135,7 +141,13 @@
           "html": "You have the right to request access to, rectification or erasure of your personal data, to request restriction of processing and to object to it. You also have the right to lodge a complaint with the competent supervisory authority (in Spain, the <a href=\"https://www.aepd.es\">Spanish Data Protection Agency</a>)."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "privacy",
+        "cookies",
+        "data protection",
+        "GDPR"
+      ]
     }
   }
 }

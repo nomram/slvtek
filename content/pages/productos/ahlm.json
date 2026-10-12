@@ -64,7 +64,15 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "AHLM",
+        "silos",
+        "mortero seco",
+        "big bag",
+        "cemento",
+        "almacenamiento de material"
+      ]
     },
     "en": {
       "title": "AHLM",
@@ -122,7 +130,15 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "AHLM",
+        "silos",
+        "dry mortar",
+        "big bag",
+        "cement",
+        "material storage"
+      ]
     }
   },
   "logo": "/assets/img/logo-ahlm.webp"

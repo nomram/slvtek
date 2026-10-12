@@ -80,6 +80,12 @@
           "button": "Contáctenos",
           "href": "/contacto"
         }
+      ],
+      "tags": [
+        "empresa",
+        "quiénes somos",
+        "equipo",
+        "nosotros"
       ]
     },
     "en": {
@@ -157,6 +163,12 @@
           "button": "Contact us",
           "href": "/contacto"
         }
+      ],
+      "tags": [
+        "company",
+        "who we are",
+        "team",
+        "about"
       ]
     }
   },

@@ -81,7 +81,19 @@
           "title": "Marini Quarries Group - MR-T Line"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "sierra de hilo",
+        "hilo diamantado",
+        "corte",
+        "cantera",
+        "demolición",
+        "Marini",
+        "perforación",
+        "canteras",
+        "cimentaciones",
+        "hormigón proyectado"
+      ]
     },
     "en": {
       "title": "Wire saws",
@@ -156,7 +168,19 @@
           "title": "Marini Quarries Group - MR-T Line"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "wire saw",
+        "diamond wire",
+        "cutting",
+        "quarry",
+        "demolition",
+        "Marini",
+        "drilling",
+        "quarries",
+        "foundations",
+        "shotcrete"
+      ]
     }
   }
 }

@@ -236,6 +236,7 @@ function panelPage() {
     F(`${t("seo_title")}`, `<input type="text" data-lf="seoTitle" value="${esc(tr.seoTitle || "")}" placeholder="${esc(title)}"><span class="count" id="c-title"></span>`, t("seo_title_hint")) +
     F(t("meta_desc"), `<textarea data-lf="description" rows="3" placeholder="${esc(auto)}">${esc(desc)}</textarea><span class="count" id="c-desc"></span>
       <div class="btnrow"><button class="btn sm ghost" data-act="desc-auto">${esc(t("use_suggestion"))}</button><button class="btn sm ghost" data-act="desc-ai">${IC.sparkle}<span>${esc(t("write_with_ai"))}</span></button></div>`, t("meta_desc_hint")) +
+    F(t("tags"), `<textarea data-lf="tags" data-t="tags" rows="2">${esc((tr.tags || []).join(", "))}</textarea>`, t("tags_hint")) +
     `<div class="serp"><div class="serp__url" id="serp-url">${esc(url)}</div><div class="serp__title" id="serp-title">${esc(title)}</div><div class="serp__desc" id="serp-desc">${esc(desc || auto || t("no_description"))}</div></div>` +
     `<label class="chk"><input type="checkbox" data-lf="noindex" data-t="bool" ${tr.noindex ? "checked" : ""}> ${esc(t("noindex"))}</label>` +
     `<h3 class="pn__h">${esc(t("address"))}</h3><p class="path">${esc(p.path)}</p><p class="muted">${esc(ed.isNew ? t("url_new_hint") : t("url_locked_hint"))}</p>` +
@@ -305,6 +306,7 @@ function parseValue(el) {
     case "boolnot": v = !!el.checked; break;
     case "boolstr": v = v === "true"; break;
     case "lines": v = String(v).split(/\r?\n/).map((s) => s.trim()).filter(Boolean); break;
+    case "tags": v = String(v).split(/[,\n]/).map((s) => s.trim()).filter(Boolean); break;
     case "yt": v = ytId(v); break;
     case "tablegroups": v = String(v).split(/\r?\n/).filter((l) => l.trim()).map((l) => { const [txt, n] = l.split("|"); return { text: (txt || "").trim(), span: parseInt(n, 10) || 1 }; }); break;
     case "paras": v = String(v).split(/\r?\n\s*\r?\n/).map((s) => s.trim()).filter(Boolean); break;
@@ -329,7 +331,7 @@ export function bindPanel(el) {
       setField(ed.sel, x.dataset.bf, v === "" && /\.(title|image)$/.test(x.dataset.bf) ? undefined : v, { coalesce: `p:${ed.sel}:${x.dataset.bf}`, noPanel: true });
     } else if (x.dataset.lf !== undefined) {
       const v = parseValue(x);
-      mutate(() => { if (v === "" || v === false) delete curT()[x.dataset.lf]; else curT()[x.dataset.lf] = v; }, { coalesce: "lf:" + x.dataset.lf, noPanel: true });
+      mutate(() => { if (v === "" || v === false || (Array.isArray(v) && !v.length)) delete curT()[x.dataset.lf]; else curT()[x.dataset.lf] = v; }, { coalesce: "lf:" + x.dataset.lf, noPanel: true });
     } else if (x.dataset.rf !== undefined) {
       const key = x.dataset.rf;
       let v = parseValue(x);

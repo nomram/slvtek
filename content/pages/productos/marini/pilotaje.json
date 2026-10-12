@@ -270,7 +270,19 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MR-P",
+        "pilotaje",
+        "pilotes",
+        "micropilotes",
+        "cimentación",
+        "Marini",
+        "perforación",
+        "canteras",
+        "cimentaciones",
+        "hormigón proyectado"
+      ]
     },
     "en": {
       "title": "Piling",
@@ -530,7 +542,19 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "MR-P",
+        "piling",
+        "piles",
+        "micropiles",
+        "foundation",
+        "Marini",
+        "drilling",
+        "quarries",
+        "foundations",
+        "shotcrete"
+      ]
     }
   }
 }

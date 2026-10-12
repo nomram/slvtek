@@ -115,6 +115,57 @@
       btn.setAttribute("aria-expanded", open ? "true" : "false");
     });
   });
+  // ---------- products menu: hovering a brand shows its ranges and models in the panel below ----------
+  document.querySelectorAll(".mega--logos").forEach(function (mega) {
+    var tiles = [].slice.call(mega.querySelectorAll(".logorow__item[data-panel]"));
+    var panels = [].slice.call(mega.querySelectorAll(".mega__panel"));
+    if (!tiles.length || !panels.length) return;
+    var timer = 0, lastType = "mouse";
+    function show(tile) {
+      var id = tile.getAttribute("data-panel");
+      tiles.forEach(function (t) { t.classList.toggle("is-on", t === tile); });
+      panels.forEach(function (p) { p.classList.toggle("is-on", p.id === id); });
+      mega.classList.add("has-panel");
+    }
+    // back to the plain row of logos when the menu is left or closed
+    function reset() {
+      clearTimeout(timer);
+      mega.classList.remove("has-panel");
+      tiles.forEach(function (t) { t.classList.remove("is-on"); });
+      panels.forEach(function (p) { p.classList.remove("is-on"); });
+    }
+    var item = mega.closest(".nav__item");
+    if (item) {
+      item.addEventListener("pointerleave", function (e) { if (e.pointerType !== "touch") reset(); });
+      item.addEventListener("focusout", function (e) { if (!item.contains(e.relatedTarget)) reset(); });
+      var tog = item.querySelector(".nav__toggle");
+      if (tog) tog.addEventListener("click", reset);
+    }
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape") reset(); });
+    document.addEventListener("click", function (e) { if (!e.target.closest(".nav__item--mega")) reset(); });
+    tiles.forEach(function (tile, i) {
+      tile.addEventListener("pointerdown", function (e) { lastType = e.pointerType || "mouse"; });
+      // a short delay so sweeping the pointer across the row does not flicker through every brand
+      tile.addEventListener("pointerenter", function (e) {
+        if (e.pointerType === "touch") return;
+        clearTimeout(timer);
+        timer = setTimeout(function () { show(tile); }, 90);
+      });
+      tile.addEventListener("pointerleave", function () { clearTimeout(timer); });
+      tile.addEventListener("focus", function () { show(tile); });
+      tile.addEventListener("click", function (e) {
+        // touch has no hover: the first tap previews the brand, the second one opens it
+        if (lastType === "touch" && !tile.classList.contains("is-on")) { e.preventDefault(); show(tile); }
+      });
+      tile.addEventListener("keydown", function (e) {
+        var d = e.key === "ArrowRight" ? 1 : e.key === "ArrowLeft" ? -1 : 0;
+        if (!d) return;
+        var n = tiles[i + d];
+        if (n) { e.preventDefault(); n.focus(); }
+      });
+    });
+  });
+
   // ---------- logo rows follow the mouse sideways ----------
   // A row of logos that is wider than its box scrolls to match the pointer, so the rest of the
   // logos can be reached without a scrollbar. Touch keeps native swiping.
@@ -225,7 +276,10 @@
     input.addEventListener("input", run);
   }
   var state = "idle"; // idle | loading | ready | error
-  function row(it) { return '<li><a href="' + esc(it.u) + '"><strong>' + esc(it.t) + "</strong><span>" + esc(it.x.slice(0, 110)) + "…</span></a></li>"; }
+  function row(it) {
+    var tags = (it.g || []).slice(0, 4).map(function (g) { return "<i>" + esc(g) + "</i>"; }).join("");
+    return '<li><a href="' + esc(it.u) + '"><strong>' + esc(it.t) + "</strong><span>" + esc(it.x.slice(0, 110)) + "…</span>" + (tags ? '<em class="search__tags">' + tags + "</em>" : "") + "</a></li>";
+  }
   function load() {
     if (state === "loading" || state === "ready") return;
     state = "loading";
@@ -244,15 +298,15 @@
       list.innerHTML = main.length ? '<li class="search__hint">' + esc(ui.searchHint || "") + "</li>" + main.map(row).join("") : "";
       return;
     }
-    var terms = q.split(/s+/);
+    var terms = q.split(/\s+/);
     var hits = [];
     index.forEach(function (it) {
-      var title = norm(it.t), body = norm(it.x);
+      var title = norm(it.t), body = norm(it.x), tagz = norm((it.g || []).join(" | ")), other = it.o ? norm(it.o) : "";
       var score = 0;
       for (var i = 0; i < terms.length; i++) {
-        var inT = title.indexOf(terms[i]) >= 0, inB = body.indexOf(terms[i]) >= 0;
-        if (!inT && !inB) return;
-        score += (inT ? 5 : 0) + (inB ? 1 : 0);
+        var inT = title.indexOf(terms[i]) >= 0, inG = tagz.indexOf(terms[i]) >= 0, inB = body.indexOf(terms[i]) >= 0, inO = other.indexOf(terms[i]) >= 0;
+        if (!inT && !inG && !inB && !inO) return;
+        score += (inT ? 6 : 0) + (inG ? 4 : 0) + (inB ? 1 : 0) + (inO && !inT && !inG && !inB ? 2 : 0);
       }
       hits.push({ it: it, s: score });
     });

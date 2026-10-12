@@ -107,7 +107,18 @@
           "driveId": "1d-rIwoTbgFAoKU3aX_tBD2j0kxzS85fM"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TE726",
+        "martillo perforador",
+        "drifter",
+        "perforadora hidráulica",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "TE726",
@@ -208,7 +219,18 @@
           "driveId": "1d-rIwoTbgFAoKU3aX_tBD2j0kxzS85fM"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "TE726",
+        "drifter",
+        "hydraulic drifter",
+        "rock drill",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

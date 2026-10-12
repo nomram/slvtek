@@ -73,7 +73,13 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "catálogo",
+        "marcas",
+        "fabricantes",
+        "todos los productos"
+      ]
     },
     "en": {
       "title": "Products",
@@ -140,7 +146,13 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "catalogue",
+        "brands",
+        "manufacturers",
+        "all products"
+      ]
     }
   }
 }

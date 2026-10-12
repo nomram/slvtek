@@ -54,7 +54,18 @@
           "driveId": "13PbHuG7rqq0gEmMkKsJVMy-0j6tMgKo6"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "SOVE",
+        "hormigón proyectado por vía seca",
+        "gunita",
+        "proyectadora",
+        "eléctrica",
+        "REED",
+        "hormigón proyectado",
+        "bombas de hormigón",
+        "gunitado"
+      ]
     },
     "en": {
       "title": "SOVE",
@@ -102,7 +113,17 @@
           "driveId": "13PbHuG7rqq0gEmMkKsJVMy-0j6tMgKo6"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "SOVE",
+        "dry-mix shotcrete",
+        "gunite",
+        "shotcrete machine",
+        "electric",
+        "REED",
+        "shotcrete",
+        "concrete pumps"
+      ]
     }
   }
 }

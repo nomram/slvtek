@@ -323,7 +323,19 @@
           "src": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-10.webp"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "HB",
+        "martillo perforador hidráulico",
+        "HB45",
+        "HB50",
+        "perforadora hidráulica",
+        "anclajes",
+        "Terra Infrastructure",
+        "cimentaciones",
+        "tablestacas",
+        "perforación"
+      ]
     },
     "en": {
       "title": "Hydraulic drifters (HB)",
@@ -640,7 +652,19 @@
           "src": "/assets/img/terra-infrastructure-hydrauliska-topphammare-hb-10.webp"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "HB",
+        "hydraulic drifter",
+        "HB45",
+        "HB50",
+        "hydraulic rock drill",
+        "anchors",
+        "Terra Infrastructure",
+        "foundations",
+        "sheet piles",
+        "drilling"
+      ]
     }
   }
 }

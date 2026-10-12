@@ -94,7 +94,17 @@
           "driveId": "1pe9BMUz82UFlu801oMoMXWkarPa-q-o9"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "RDS550",
+        "cabezal de rotación",
+        "rotary head",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "RDS550",
@@ -182,7 +192,17 @@
           "driveId": "1pe9BMUz82UFlu801oMoMXWkarPa-q-o9"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "RDS550",
+        "rotary head",
+        "rotation head",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

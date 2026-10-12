@@ -91,7 +91,17 @@
           "driveId": "10FZRMDgXz3gnFcCz3amJKVXddWb-DbbA"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "mástil de perforación",
+        "drill mast",
+        "excavadora",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "MME",
@@ -176,7 +186,16 @@
           "driveId": "10FZRMDgXz3gnFcCz3amJKVXddWb-DbbA"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "drill mast",
+        "excavator mounted",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

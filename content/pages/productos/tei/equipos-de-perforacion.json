@@ -167,7 +167,18 @@
           "html": "Las especificaciones técnicas de TEI tienen en cuenta una pérdida de potencia hidráulica del 40 %. Estos valores pueden modificarse sin previo aviso."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "equipo de perforación",
+        "espacios reducidos",
+        "acceso limitado",
+        "micropilotes",
+        "eléctrico",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes"
+      ]
     },
     "en": {
       "title": "Drill rigs",
@@ -328,7 +339,18 @@
           "html": "TEI’s technical specifications take into account a 40% hydraulic power loss. These values may be changed without notice."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "drill rig",
+        "tight spaces",
+        "limited access",
+        "micropiles",
+        "electric",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors"
+      ]
     }
   }
 }

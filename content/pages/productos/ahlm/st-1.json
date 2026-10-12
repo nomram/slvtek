@@ -60,7 +60,20 @@
           "html": "<a href=\"/contacto\">Contáctenos</a> para más información."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "ST-1",
+        "ST1",
+        "estación de vaciado de sacos",
+        "big bag",
+        "tolva",
+        "vaciado",
+        "AHLM",
+        "silos",
+        "mortero seco",
+        "cemento",
+        "almacenamiento de material"
+      ]
     },
     "en": {
       "title": "ST-1",
@@ -114,7 +127,20 @@
           "html": "<a href=\"/contacto\">Contact us</a> for more information."
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "ST-1",
+        "ST1",
+        "bag emptying station",
+        "big bag",
+        "hopper",
+        "emptying",
+        "AHLM",
+        "silos",
+        "dry mortar",
+        "cement",
+        "material storage"
+      ]
     }
   }
 }

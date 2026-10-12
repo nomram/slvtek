@@ -135,7 +135,14 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "Marini",
+        "perforación",
+        "canteras",
+        "cimentaciones",
+        "hormigón proyectado"
+      ]
     },
     "en": {
       "title": "Marini",
@@ -264,7 +271,14 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "Marini",
+        "drilling",
+        "quarries",
+        "foundations",
+        "shotcrete"
+      ]
     }
   },
   "logo": "/assets/img/logo-marini.webp"

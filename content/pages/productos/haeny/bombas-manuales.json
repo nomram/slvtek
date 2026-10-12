@@ -234,7 +234,18 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "IC",
+        "bomba manual",
+        "bomba de inyección",
+        "bomba de hormigón",
+        "HÄNY",
+        "inyección",
+        "lechada",
+        "bombas de inyección",
+        "mezcladora"
+      ]
     },
     "en": {
       "title": "Manual pumps",
@@ -462,7 +473,18 @@
           ]
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "IC",
+        "manual pump",
+        "grout pump",
+        "concrete pump",
+        "HÄNY",
+        "grouting",
+        "grout",
+        "grout pumps",
+        "mixer"
+      ]
     }
   }
 }

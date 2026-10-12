@@ -30,6 +30,14 @@
         {
           "type": "quote"
         }
+      ],
+      "tags": [
+        "presupuesto",
+        "teléfono",
+        "correo electrónico",
+        "dirección",
+        "horario",
+        "solicitar presupuesto"
       ]
     },
     "en": {
@@ -57,6 +65,14 @@
         {
           "type": "quote"
         }
+      ],
+      "tags": [
+        "quote",
+        "phone",
+        "email",
+        "address",
+        "opening hours",
+        "request a quote"
       ]
     }
   },

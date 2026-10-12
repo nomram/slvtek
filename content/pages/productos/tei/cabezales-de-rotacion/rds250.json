@@ -98,7 +98,17 @@
           "driveId": "1U5ezbw-uzj-cWF39N04YWIeK98V1rrvh"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "RDS250",
+        "cabezal de rotación",
+        "rotary head",
+        "TEI",
+        "TEI Rock Drills",
+        "perforación",
+        "anclajes",
+        "micropilotes"
+      ]
     },
     "en": {
       "title": "RDS250",
@@ -190,7 +200,17 @@
           "driveId": "1U5ezbw-uzj-cWF39N04YWIeK98V1rrvh"
         }
       ],
-      "published": true
+      "published": true,
+      "tags": [
+        "RDS250",
+        "rotary head",
+        "rotation head",
+        "TEI",
+        "TEI Rock Drills",
+        "drilling",
+        "anchors",
+        "micropiles"
+      ]
     }
   }
 }

@@ -421,7 +421,6 @@ li:first-child > .subnav__link--logo::after { left: 0; }
 .chips__list li { margin: 0; padding: .45rem .95rem; border: 1px solid #cfd7e0; border-radius: 99px; font-size: .88rem; font-weight: 500; background: #fff; }
 .chips__list li::marker { content: ""; }
 .cta { position: relative; overflow: hidden; background: linear-gradient(105deg, #22334a 0%, var(--dark) 42%, var(--steel) 120%); color: #fff; padding-block: clamp(2rem, 4vw, 3rem); margin-top: 2.5rem; }
-.cta::after { content: ""; position: absolute; right: 5%; top: 50%; width: 210px; height: 205px; transform: translateY(-50%); background: url("/assets/brand/emblem.webp") center / contain no-repeat; opacity: .13; pointer-events: none; }
 .cta__inner { position: relative; z-index: 1; }
 .cta__inner { display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap; }
 .cta h2 { margin: 0 0 .35rem; font-size: clamp(1.3rem, 1rem + 1vw, 1.8rem); font-weight: 600; }
@@ -494,7 +493,6 @@ li:first-child > .subnav__link--logo::after { left: 0; }
 .site-footer a { color: #fff; text-decoration: none; }
 .site-footer a:hover { text-decoration: underline; text-decoration-color: var(--primary); }
 .site-footer__grid { display: grid; gap: 2.5rem 3rem; padding-block: 3rem 2.5rem; grid-template-columns: 1.2fr 1.6fr 1fr 1.2fr; }
-.site-footer__emblem { width: 64px; height: auto; margin-bottom: .6rem; }
 .site-footer__logo { width: 205px; height: auto; margin-bottom: 1.1rem; }
 .site-footer__about p { margin: 0 0 .25rem; }
 .site-footer .muted { opacity: .65; font-size: .85rem; }

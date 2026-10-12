@@ -666,7 +666,7 @@ function renderFooter(ctx) {
   const analyticsOn = s.analytics && s.analytics.enabled && s.analytics.measurementId;
   const phones = (c.phones || []).map((p) => `<li>${ICON.phone}<span class="sr-only">${esc(p.label || "")}: </span><a href="${esc(telHref(p.value))}">${esc(p.value)}</a></li>`).join("");
   return `<footer class="site-footer"><div class="container site-footer__grid">` +
-    `<div class="site-footer__about"><img class="site-footer__emblem" src="/assets/brand/emblem.webp" alt="" width="64" height="62" loading="lazy"><img class="site-footer__logo" src="/assets/brand/logo-white.svg" alt="${esc(s.name)}" width="205" height="21" loading="lazy">` +
+    `<div class="site-footer__about"><img class="site-footer__logo" src="/assets/brand/logo-white.svg" alt="${esc(s.name)}" width="205" height="21" loading="lazy">` +
     `<p>${esc(s.legalName || s.name)}</p>${s.orgNumber ? `<p class="muted">${esc(ctx.ui.org_no || "Org.nr")} ${esc(s.orgNumber)}</p>` : ""}${s.tagline ? `<p class="muted">${esc(ctx.site.tagline)}</p>` : ""}</div>` +
     (brands.length ? `<nav aria-label="${esc(navTitleOf(ctx, "/productos"))}"><h2 class="site-footer__h">${esc(navTitleOf(ctx, "/productos"))}</h2><ul class="site-footer__links site-footer__links--cols">${brands.map((b) => `<li><a href="${esc(ctx.url(b))}">${esc(navTitleOf(ctx, b))}</a></li>`).join("")}</ul></nav>` : "") +
     `<nav aria-label="${esc(ctx.ui.footer_nav || "Sidfot")}"><h2 class="site-footer__h">${esc(ctx.ui.company || "Företaget")}</h2><ul class="site-footer__links">${company.map((p) => `<li><a href="${esc(ctx.url(p))}">${esc(navTitleOf(ctx, p))}</a></li>`).join("")}` +

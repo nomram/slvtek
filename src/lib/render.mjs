@@ -588,9 +588,9 @@ function megaPanel(ctx, k, id, on) {
   if (/(\.\.\.|…)$/.test(short)) short = cut(short);
   else if (short.length > 190) short = cut(short.slice(0, short.lastIndexOf(" ", 160)));
   return `<section class="mega__panel${on ? " is-on" : ""}" id="${id}" aria-label="${esc(name)}">` +
-    `<div class="mega__intro"><p class="mega__kicker">${esc(ctx.ui.mega_brand || "Marca")}</p><p class="mega__name">${esc(name)}</p>` +
+    `<div class="mega__intro"><p class="mega__kicker">${esc(ctx.ui.mega_brand || "Marca")}</p><a class="mega__name" href="${esc(ctx.url(k))}">${esc(name)}</a>` +
     (short ? `<p class="mega__desc">${esc(short)}</p>` : "") +
-    `<a class="btn btn--sm btn--ghost" href="${esc(ctx.url(k))}"><span>${esc(ctx.ui.mega_all || "Ver toda la gama")}</span>${ICON.arrow}</a></div>` +
+    `<a class="btn btn--sm mega__profile" href="${esc(ctx.url(k))}"><span>${esc((ctx.ui.mega_all || "Perfil completo de {name}").replace("{name}", name))}</span>${ICON.arrow}</a></div>` +
     (cats ? `<div class="mega__cats">${cats}</div>` : "") + "</section>";
 }
 
@@ -669,7 +669,7 @@ function renderCallBar(ctx) {
   const phones = (ctx.site.contact || {}).phones || [];
   const p = phones.find((x) => /^\s*(\+?46|0)\s*-?\s*7/.test(x.value || "")) || phones.find((x) => /mobil|mobile|móvil/i.test(x.label || "")) || phones[0];
   if (!p) return "";
-  return `<div class="callbar" data-callbar><span class="callbar__fire" aria-hidden="true"><span class="callbar__flow"></span><span class="callbar__glow"><i></i></span></span><a class="callbar__link" href="${esc(telHref(p.value))}">${ICON.phone}<span class="callbar__text">${esc(ctx.ui.call_us || "Ring oss")}</span><span class="callbar__num">${esc(p.value)}</span></a></div>`;
+  return `<div class="callbar" data-callbar><span class="callbar__fire" aria-hidden="true"><span class="callbar__flow"></span><span class="callbar__blob b1"></span><span class="callbar__blob b2"></span><span class="callbar__blob b3"></span><span class="callbar__glow"><i></i></span></span><a class="callbar__link" href="${esc(telHref(p.value))}">${ICON.phone}<span class="callbar__text">${esc(ctx.ui.call_us || "Ring oss")}</span><span class="callbar__num">${esc(p.value)}</span></a></div>`;
 }
 
 function renderFooter(ctx) {

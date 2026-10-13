@@ -162,7 +162,8 @@
     var item = mega.closest(".nav__item");
     if (item) {
       ["pointerenter", "focusin", "touchstart"].forEach(function (ev) { item.addEventListener(ev, warm, { once: true, passive: true }); });
-      item.addEventListener("pointerleave", function (e) { if (e.pointerType !== "touch") reset(); });
+      // wide layout: leaving the menu folds the panel; in the narrow list the rows stay as the visitor left them
+      item.addEventListener("pointerleave", function (e) { if (e.pointerType !== "touch" && !small.matches) reset(); });
       item.addEventListener("focusout", function (e) { if (!item.contains(e.relatedTarget)) reset(); });
       var tog = item.querySelector(".nav__toggle");
       if (tog) tog.addEventListener("click", reset);
@@ -173,7 +174,8 @@
       tile.addEventListener("pointerdown", function (e) { lastType = e.pointerType || "mouse"; });
       // a short delay so sweeping the pointer across the row does not flicker through every brand
       tile.addEventListener("pointerenter", function (e) {
-        if (e.pointerType === "touch") return;
+        // in the narrow list a manufacturer unfolds on click (an unfolding row would move the next one under the pointer)
+        if (e.pointerType === "touch" || small.matches) return;
         clearTimeout(timer);
         timer = setTimeout(function () { show(tile); }, 90);
       });
@@ -184,6 +186,8 @@
         if (small.matches) {
           // phone: a tap unfolds / folds the manufacturer; the "view full range" button inside goes to its page
           e.preventDefault();
+          // pin the list open: it may have been opened by hovering, and unfolding a row moves things under the pointer
+          if (item) { item.classList.add("is-open"); var tg = item.querySelector(".nav__toggle"); if (tg) tg.setAttribute("aria-expanded", "true"); }
           if (tile.classList.contains("is-on")) reset();
           else {
             show(tile);

@@ -525,7 +525,11 @@ li:first-child > .subnav__link--logo::after { left: 0; }
 .mega__panel.is-on { display: grid; animation: panelIn .18s ease-out; }
 @keyframes panelIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
 .mega__kicker { margin: 0; font-size: .68rem; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); }
-.mega__name { margin: .2rem 0 .55rem; font-size: 1.3rem; line-height: 1.2; font-weight: 700; }
+.mega__name { display: block; margin: .2rem 0 .55rem; font-size: 1.3rem; line-height: 1.2; font-weight: 700; color: var(--text); text-decoration: none; transition: color .15s; }
+.mega__name:hover, .mega__name:focus-visible { color: var(--steel); text-decoration: none; }
+.mega__profile { max-width: 100%; }
+.mega__profile svg { transition: transform .2s; }
+.mega__profile:hover svg { transform: translateX(3px); }
 .mega__name::after { content: ""; display: block; width: 2.2rem; height: 3px; margin-top: .5rem; background: var(--grad); transform: skewX(-28deg); transform-origin: left bottom; }
 .mega__desc { margin: 0 0 1rem; font-size: .85rem; line-height: 1.55; color: var(--muted); }
 .mega__cats { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 1rem 1.8rem; align-content: start; }
@@ -555,7 +559,10 @@ li:first-child > .subnav__link--logo::after { left: 0; }
   .mega__panel { display: grid; grid-template-columns: 1fr; gap: .75rem; min-height: 0; padding: 0 0 0 1rem; margin: 0 0 0 .55rem; max-height: 0; overflow: hidden; opacity: 0; border-left: 3px solid; border-image: var(--grad-v) 1; visibility: hidden; transition: max-height .3s ease, opacity .2s, padding .3s, margin .3s, visibility 0s .3s; animation: none; }
   .mega__panel.is-on { max-height: 70rem; opacity: 1; visibility: visible; padding-block: .85rem 1rem; margin-block: .1rem .55rem; animation: none; transition-delay: 0s; }
   .mega__kicker, .mega__name, .mega__desc { display: none; }
-  .mega__intro .btn { width: 100%; justify-content: center; min-height: 2.7rem; }
+  /* on a phone the ranges come first and the profile button closes the unfolded section */
+  .mega__intro { order: 2; }
+  .mega__cats { order: 1; }
+  .mega__intro .btn { width: 100%; justify-content: center; min-height: 2.8rem; }
   .mega__cats { grid-template-columns: 1fr; gap: .7rem; }
   .mega__cat-title { margin: 0; padding: .25rem 0; font-size: .92rem; }
   .mega__cat-title:hover { background: none; }
@@ -608,7 +615,11 @@ dialog.search::backdrop { background: rgba(31, 45, 64, .6); }
   .nav__item > a::after { display: none; }
   .nav__toggle { padding: 0 .5rem 0 1rem; }
   .mega { position: static; display: none; width: 100%; box-shadow: none; border: 0; border-top: 0; max-height: none; animation: none !important; }
-  .nav__item--mega:hover > .mega, .nav__item--mega:focus-within > .mega { display: none; }
+  .nav__item--mega:focus-within > .mega { display: none; }
+  /* devices that cannot hover (touch) open it with a tap only; with a mouse, pointing at it is enough */
+  @media (hover: none) { .nav__item--mega:hover > .mega { display: none; } }
+  /* with a mouse, pointing at the row keeps the list open even while a link inside has focus (the focus-within rule above would fold it mid-click) */
+  @media (hover: hover) { .nav__item--mega.nav__item--mega:hover > .mega { display: block; } }
   .nav__item--mega.is-open > .mega { display: block; }
   .mega .container { width: 100%; }
   .mega__grid { grid-template-columns: 1fr 1fr; padding-block: .5rem 1rem; gap: 1rem 1.25rem; }
@@ -642,12 +653,20 @@ dialog.search::backdrop { background: rgba(31, 45, 64, .6); }
   .callbar { display: block; position: fixed; left: 0; right: 0; bottom: 0; z-index: 55; overflow: hidden; background: #f4791f; box-shadow: 0 -2px 14px rgba(0, 0, 0, .2); padding-bottom: env(safe-area-inset-bottom); }
   .callbar.is-live { transform: translate3d(0, 110%, 0); will-change: transform; }
   .callbar__fire { position: absolute; inset: 0; overflow: hidden; pointer-events: none; }
-  .callbar__flow { position: absolute; inset: 0 -60%; background: linear-gradient(100deg, #f7941d 0%, #f4791f 16%, #ee5d23 33%, #f7941d 50%, #fba02a 66%, #f4791f 82%, #ee5d23 100%); animation: cbDrift 18s ease-in-out infinite alternate; }
-  .callbar__glow { position: absolute; top: -45%; left: 0; width: 62%; height: 190%; will-change: transform; }
-  .callbar__glow i { position: absolute; inset: 0; background: radial-gradient(ellipse at center, rgba(255, 221, 130, .8) 0%, rgba(255, 170, 70, .35) 40%, rgba(255, 150, 60, 0) 68%); animation: cbFlicker 2.8s ease-in-out infinite alternate; }
-  .callbar:not(.is-shown) .callbar__flow, .callbar:not(.is-shown) .callbar__glow i { animation-play-state: paused; }
-  @keyframes cbDrift { from { transform: translate3d(0, 0, 0); } to { transform: translate3d(-24%, 0, 0); } }
-  @keyframes cbFlicker { 0% { opacity: .55; transform: scale(.9); } 35% { opacity: .95; transform: scale(1.05); } 65% { opacity: .7; transform: scale(.97); } 100% { opacity: .9; transform: scale(1.03); } }
+  /* base: warm amber to orange; the blobs on top drift slowly like wax in a lamp, soft-edged so there are no visible "bubbles" */
+  .callbar__flow { position: absolute; inset: 0 -50%; background: linear-gradient(100deg, #f9a21b 0%, #f4791f 22%, #f08a1c 40%, #fbb02d 58%, #f4791f 78%, #f9a21b 100%); animation: cbDrift 20s ease-in-out infinite alternate; }
+  .callbar__blob { position: absolute; border-radius: 50%; will-change: transform; }
+  .callbar__blob.b1 { top: -70%; left: -10%; width: 58%; height: 240%; background: radial-gradient(closest-side, rgba(255, 214, 110, .95), rgba(255, 190, 80, .5) 55%, rgba(255, 170, 60, 0) 100%); animation: cbBlobA 9s ease-in-out infinite alternate; }
+  .callbar__blob.b2 { top: -60%; left: 35%; width: 50%; height: 230%; background: radial-gradient(closest-side, rgba(255, 112, 52, .85), rgba(255, 130, 50, .4) 55%, rgba(255, 140, 50, 0) 100%); animation: cbBlobB 12s ease-in-out -4s infinite alternate; }
+  .callbar__blob.b3 { top: -80%; left: 62%; width: 46%; height: 250%; background: radial-gradient(closest-side, rgba(255, 232, 150, .9), rgba(255, 205, 100, .45) 55%, rgba(255, 190, 80, 0) 100%); animation: cbBlobC 15s ease-in-out -7s infinite alternate; }
+  .callbar__glow { position: absolute; top: -45%; left: 0; width: 56%; height: 190%; will-change: transform; }
+  .callbar__glow i { position: absolute; inset: 0; background: radial-gradient(ellipse at center, rgba(255, 236, 160, .95) 0%, rgba(255, 190, 80, .4) 42%, rgba(255, 160, 60, 0) 70%); animation: cbFlicker 3.2s ease-in-out infinite alternate; }
+  .callbar:not(.is-shown) .callbar__flow, .callbar:not(.is-shown) .callbar__blob, .callbar:not(.is-shown) .callbar__glow i { animation-play-state: paused; }
+  @keyframes cbDrift { from { transform: translate3d(0, 0, 0); } to { transform: translate3d(-22%, 0, 0); } }
+  @keyframes cbBlobA { 0% { transform: translate3d(-8%, 4%, 0) scale(.9, 1); } 50% { transform: translate3d(60%, -6%, 0) scale(1.2, .95); } 100% { transform: translate3d(140%, 5%, 0) scale(.95, 1.1); } }
+  @keyframes cbBlobB { 0% { transform: translate3d(70%, -5%, 0) scale(1.1, 1); } 50% { transform: translate3d(10%, 7%, 0) scale(.85, 1.15); } 100% { transform: translate3d(-70%, -3%, 0) scale(1.15, .95); } }
+  @keyframes cbBlobC { 0% { transform: translate3d(-120%, 6%, 0) scale(1, 1.05); } 50% { transform: translate3d(-40%, -6%, 0) scale(1.25, .9); } 100% { transform: translate3d(30%, 4%, 0) scale(.9, 1.1); } }
+  @keyframes cbFlicker { 0% { opacity: .5; transform: scale(.92); } 40% { opacity: .95; transform: scale(1.06); } 70% { opacity: .7; transform: scale(.98); } 100% { opacity: .9; transform: scale(1.03); } }
   .callbar__link { position: relative; z-index: 1; display: flex; align-items: center; justify-content: center; gap: .6rem; min-height: 52px; padding: .5rem 1rem; color: var(--dark); font-weight: 700; text-decoration: none; }
   body:has(.callbar) .site-footer { padding-bottom: calc(52px + env(safe-area-inset-bottom)); }
   .callbar__text { font-size: .95rem; }

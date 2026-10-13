@@ -102,9 +102,8 @@
           "type": "button",
           "kind": "download",
           "text": "Ficha de producto",
-          "href": "https://drive.google.com/file/d/https://drive.google.com/file/d/1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo/view",
-          "external": true,
-          "driveId": "https://drive.google.com/file/d/1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo"
+          "href": "/assets/docs/tei-rotationshammare-rds1500-broschyr-i-ny-flik.pdf",
+          "driveId": "1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo"
         }
       ],
       "published": true,
@@ -213,9 +212,8 @@
           "type": "button",
           "kind": "download",
           "text": "Data sheet",
-          "href": "https://drive.google.com/file/d/https://drive.google.com/file/d/1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo/view",
-          "external": true,
-          "driveId": "https://drive.google.com/file/d/1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo"
+          "href": "/assets/docs/tei-rotationshammare-rds1500-broschyr-i-ny-flik.pdf",
+          "driveId": "1r74uYeTMdxa8ENNV-p31qkdfCSo3D-lo"
         }
       ],
       "published": true,
